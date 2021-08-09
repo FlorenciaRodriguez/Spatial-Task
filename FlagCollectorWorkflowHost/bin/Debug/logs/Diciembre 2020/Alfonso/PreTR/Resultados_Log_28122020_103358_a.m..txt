@@ -1,0 +1,54 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):P
+Nombre Sujeto:Alfonso        
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):amarillo,amarillo,amarillo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:20,20,20,20,20,20,20,20,20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,1,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;Alfonso        
+Radio;20
+Hora Inicio;28/12/2020 10:34:07 a.m.
+NroIteracion;0
+Protocolo;2
+IdBandera;75
+IdBanderaX;5,176381
+IdBanderaY;19,31852
+
+IdCorrecta;75
+CorrectaX;5,176381
+CorrectaY;19,31852
+
+Captura Bandera;75
+Hora;28/12/2020 10:34:27 a.m.
+Inicio test memoria;28/12/2020 10:34:52 a.m.
+Hora Fin Seleccion;28/12/2020 10:36:37 a.m.
+Bandera Seleccionada [id];192
+Bandera Seleccionada [X];-19,56295
+Bandera Seleccionada [Y];-4,158234
+CruzX;11
+CruzY;11
+NroIteracion;1
+Protocolo;2
+IdBandera;221
+IdBanderaX;-15,09419
+IdBanderaY;-13,12118
+
+IdCorrecta;221
+CorrectaX;-15,09419
+CorrectaY;-13,12118
+
+Captura Bandera;221
+Hora;28/12/2020 10:37:35 a.m.
+Inicio test memoria;28/12/2020 10:38:11 a.m.
+Hora Fin Seleccion;28/12/2020 10:38:20 a.m.
+Bandera Seleccionada [id];0
+Bandera Seleccionada [X];20
+Bandera Seleccionada [Y];0

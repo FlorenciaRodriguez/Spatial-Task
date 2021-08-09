@@ -1,0 +1,68 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:jimena
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo
+Escenario(1-11,null):0,0,0
+Nro Protocolo:2,2,2
+Angulos:20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,1
+Lateralidad(I/D/M):M,M
+Pares(S/N):N,N,N
+Sujeto;jimena
+Radio;20
+Hora Inicio;14/03/2018 09:57:42 a.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;4
+IzquierdaX;19,95128
+IzquierdaY;1,395129
+IdDerecha;24
+DerechaX;18,27091
+DerechaY;8,134733
+
+IdCorrecta;14
+CorrectaX;19,40591
+CorrectaY;4,838438
+
+Captura Bandera;4
+Hora;14/03/2018 09:58:11 a.m.
+Hora Centro;14/03/2018 09:58:27 a.m.
+Captura Bandera;24
+Hora;14/03/2018 09:58:45 a.m.
+Inicio test memoria;14/03/2018 09:59:01 a.m.
+Hora Fin Seleccion;14/03/2018 09:59:49 a.m.
+Bandera Seleccionada [id];11
+Bandera Seleccionada [X];19,63254
+Bandera Seleccionada [Y];3,81618
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;160
+IzquierdaX;-18,79385
+IzquierdaY;6,840403
+IdDerecha;180
+DerechaX;-20
+DerechaY;2,449213E-15
+
+IdCorrecta;170
+CorrectaX;-19,69616
+CorrectaY;3,472964
+
+Captura Bandera;160
+Hora;14/03/2018 10:00:15 a.m.
+Hora Centro;14/03/2018 10:00:31 a.m.
+Captura Bandera;180
+Hora;14/03/2018 10:00:48 a.m.
+Inicio test memoria;14/03/2018 10:01:05 a.m.
+Hora Fin Seleccion;14/03/2018 10:02:26 a.m.
+Bandera Seleccionada [id];170
+Bandera Seleccionada [X];-19,69616
+Bandera Seleccionada [Y];3,472964

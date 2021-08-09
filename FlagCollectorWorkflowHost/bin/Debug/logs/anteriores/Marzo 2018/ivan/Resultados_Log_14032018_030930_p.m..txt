@@ -1,0 +1,68 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:ivan
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo
+Escenario(1-11,null):0,0,0
+Nro Protocolo:2,2,2
+Angulos:20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,1
+Lateralidad(I/D/M):M,M
+Pares(S/N):N,N,N
+Sujeto;ivan
+Radio;20
+Hora Inicio;14/03/2018 03:09:40 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;209
+IzquierdaX;-17,49239
+IzquierdaY;-9,696192
+IdDerecha;229
+DerechaX;-13,12118
+DerechaY;-15,09419
+
+IdCorrecta;219
+CorrectaX;-15,54292
+CorrectaY;-12,58641
+
+Captura Bandera;209
+Hora;14/03/2018 03:09:57 p.m.
+Hora Centro;14/03/2018 03:10:13 p.m.
+Captura Bandera;229
+Hora;14/03/2018 03:10:29 p.m.
+Inicio test memoria;14/03/2018 03:10:44 p.m.
+Hora Fin Seleccion;14/03/2018 03:11:42 p.m.
+Bandera Seleccionada [id];223
+Bandera Seleccionada [X];-14,62707
+Bandera Seleccionada [Y];-13,63997
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;272
+IzquierdaX;0,6979899
+IzquierdaY;-19,98782
+IdDerecha;292
+DerechaX;7,492132
+DerechaY;-18,54368
+
+IdCorrecta;282
+CorrectaX;4,158234
+CorrectaY;-19,56295
+
+Captura Bandera;272
+Hora;14/03/2018 03:12:00 p.m.
+Hora Centro;14/03/2018 03:12:14 p.m.
+Captura Bandera;292
+Hora;14/03/2018 03:12:30 p.m.
+Inicio test memoria;14/03/2018 03:12:44 p.m.
+Hora Fin Seleccion;14/03/2018 03:13:29 p.m.
+Bandera Seleccionada [id];265
+Bandera Seleccionada [X];-1,743115
+Bandera Seleccionada [Y];-19,92389

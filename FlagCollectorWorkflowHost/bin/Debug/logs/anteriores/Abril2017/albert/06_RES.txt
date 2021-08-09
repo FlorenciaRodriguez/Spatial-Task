@@ -1,0 +1,9 @@
+Parametros: 
+IdSujeto: Axel
+Numero de Protocolo: 2
+Radio: 20
+Cantidad de Banderas: 180
+Separacion: 2
+Resultados
+Prueba: 0
+Angulo: 20

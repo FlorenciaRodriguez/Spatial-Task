@@ -1,0 +1,105 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):P
+Nombre Sujeto:P1
+Radio:20
+Cantidad de Banderas:180
+Separacion:2
+Color Bandera (rojo/amarillo/verde):rojo,verde,amarillo,rojo
+Escenario(1-11,null):0
+Nro Protocolo:2
+Angulos:120,80,20,40,30
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,1,1,2
+Lateralidad(I/D/M):I,M,D,I,M
+Pares(S/N):S,N,S,N,S
+Sujeto;P1
+Radio;20
+Hora Inicio;09/06/2017 03:04:12 p.m.
+NroIteracion;0
+Protocolo;2
+IdBandera;59
+IdBanderaX;-9,389431
+IdBanderaY;17,65895
+
+IdCorrecta;59
+CorrectaX;-9,389431
+CorrectaY;17,65895
+
+Captura Bandera;59
+Hora;09/06/2017 03:04:35 p.m.
+Inicio test memoria;09/06/2017 03:04:55 p.m.
+Hora Fin Seleccion;09/06/2017 03:05:46 p.m.
+Bandera Seleccionada [id];149
+Bandera Seleccionada [X];9,389431
+Bandera Seleccionada [Y];-17,65895
+CruzX;6
+CruzY;6
+NroIteracion;1
+IdBandera;136
+IdBanderaX;0,6979899
+IdBanderaY;-19,98782
+
+IdCorrecta;136
+CorrectaX;0,6979899
+CorrectaY;-19,98782
+
+Captura Bandera;136
+Hora;09/06/2017 03:06:22 p.m.
+Inicio test memoria;09/06/2017 03:07:12 p.m.
+Hora Fin Seleccion;09/06/2017 03:07:30 p.m.
+Bandera Seleccionada [id];177
+Bandera Seleccionada [X];19,89044
+Bandera Seleccionada [Y];-2,090569
+CruzX;10
+CruzY;10
+NroIteracion;2
+IdBandera;35
+IdBanderaX;6,840403
+IdBanderaY;18,79385
+
+IdCorrecta;35
+CorrectaX;6,840403
+CorrectaY;18,79385
+
+Captura Bandera;35
+Hora;09/06/2017 03:07:50 p.m.
+Inicio test memoria;09/06/2017 03:07:56 p.m.
+Hora Fin Seleccion;09/06/2017 03:08:02 p.m.
+Bandera Seleccionada [id];0
+Bandera Seleccionada [X];20
+Bandera Seleccionada [Y];0
+CruzX;-4
+CruzY;-4
+NroIteracion;3
+IdBandera;44
+IdBanderaX;0,6979899
+IdBanderaY;19,98782
+
+IdCorrecta;44
+CorrectaX;0,6979899
+CorrectaY;19,98782
+
+Captura Bandera;44
+Hora;09/06/2017 03:08:38 p.m.
+Inicio test memoria;09/06/2017 03:08:55 p.m.
+Hora Fin Seleccion;09/06/2017 03:09:04 p.m.
+Bandera Seleccionada [id];176
+Bandera Seleccionada [X];19,80536
+Bandera Seleccionada [Y];-2,783462
+CruzX;-12
+CruzY;-12
+NroIteracion;4
+IdBandera;48
+IdBanderaX;-2,090569
+IdBanderaY;19,89044
+
+IdCorrecta;48
+CorrectaX;-2,090569
+CorrectaY;19,89044
+
+Captura Bandera;48
+Hora;09/06/2017 03:09:40 p.m.
+Inicio test memoria;09/06/2017 03:10:07 p.m.
+Hora Fin Seleccion;09/06/2017 03:10:13 p.m.
+Bandera Seleccionada [id];0
+Bandera Seleccionada [X];20
+Bandera Seleccionada [Y];0

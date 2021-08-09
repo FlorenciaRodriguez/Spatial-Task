@@ -1,0 +1,68 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:micaela
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo
+Escenario(1-11,null):0,0,0
+Nro Protocolo:2,2,2
+Angulos:20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,3
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;micaela
+Radio;20
+Hora Inicio;15/03/2018 10:40:02 a.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;73
+IzquierdaX;5,847434
+IzquierdaY;19,12609
+IdDerecha;93
+DerechaX;-1,046719
+DerechaY;19,97259
+
+IdCorrecta;83
+CorrectaX;2,437387
+CorrectaY;19,85092
+
+Captura Bandera;73
+Hora;15/03/2018 10:40:46 a.m.
+Hora Centro;15/03/2018 10:41:10 a.m.
+Captura Bandera;93
+Hora;15/03/2018 10:41:27 a.m.
+Inicio test memoria;15/03/2018 10:41:41 a.m.
+Hora Fin Seleccion;15/03/2018 10:42:13 a.m.
+Bandera Seleccionada [id];74
+Bandera Seleccionada [X];5,512747
+Bandera Seleccionada [Y];19,22523
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;272
+IzquierdaX;0,6979899
+IzquierdaY;-19,98782
+IdDerecha;292
+DerechaX;7,492132
+DerechaY;-18,54368
+
+IdCorrecta;282
+CorrectaX;4,158234
+CorrectaY;-19,56295
+
+Captura Bandera;272
+Hora;15/03/2018 10:42:46 a.m.
+Hora Centro;15/03/2018 10:43:03 a.m.
+Captura Bandera;292
+Hora;15/03/2018 10:43:16 a.m.
+Inicio test memoria;15/03/2018 10:43:36 a.m.
+Hora Fin Seleccion;15/03/2018 10:44:15 a.m.
+Bandera Seleccionada [id];272
+Bandera Seleccionada [X];0,6979899
+Bandera Seleccionada [Y];-19,98782

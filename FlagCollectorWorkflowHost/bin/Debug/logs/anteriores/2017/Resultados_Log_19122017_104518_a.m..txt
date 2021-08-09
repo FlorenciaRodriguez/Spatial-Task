@@ -1,0 +1,42 @@
+IP(192.168.31.101):127.0.0.1
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:p1
+Radio:20
+Cantidad de Banderas:90
+Separacion:4
+Color Bandera (rojo/amarillo/verde):rojo
+Escenario(1-11,null):5
+Nro Protocolo:2
+Angulos:60
+Test Memoria (1Si/2No/3Solo Evaluar):1
+Lateralidad(I/D/M):M
+Pares(S/N):S
+Sujeto;p1
+Radio;20
+Hora Inicio;19/12/2017 10:45:20 a.m.
+NroIteracion;0
+Angulo;60
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;S
+IdIzquierda;21
+IzquierdaX;2,090569
+IzquierdaY;19,89044
+IdDerecha;36
+DerechaX;-16,18034
+DerechaY;11,7557
+
+IdCorrecta;28
+CorrectaX;-7,492132
+CorrectaY;18,54368
+
+Captura Bandera;21
+Hora;19/12/2017 12:16:10 p.m.
+Hora Centro;19/12/2017 12:16:21 p.m.
+Captura Bandera;36
+Hora;19/12/2017 12:16:35 p.m.
+Inicio test memoria;19/12/2017 12:16:46 p.m.
+Hora Fin Seleccion;19/12/2017 12:21:52 p.m.
+Bandera Seleccionada [id];51
+Bandera Seleccionada [X];-18,27091
+Bandera Seleccionada [Y];-8,134733

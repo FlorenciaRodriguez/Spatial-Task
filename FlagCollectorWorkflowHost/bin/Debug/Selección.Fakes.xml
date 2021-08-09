@@ -1,0 +1,284 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Selección.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Selección.Fakes.ShimActivity1">
+            <summary>Tipo de correcciones de compatibilidad (shim) de Selección.Activity1</summary>
+        </member>
+        <member name="M:Selección.Fakes.ShimActivity1.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Selección.Fakes.ShimActivity1.#ctor(Selección.Activity1)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="M:Selección.Fakes.ShimActivity1.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Selección.Fakes.ShimActivity1.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Selección.Fakes.ShimActivity1.Bind(System.ComponentModel.ISupportInitialize)">
+            <summary>Asocia los miembros de la interfaz a las correcciones de compatibilidad (shim).</summary>
+        </member>
+        <member name="M:Selección.Fakes.ShimActivity1.Bind(System.Activities.XamlIntegration.ICompiledExpressionRoot)">
+            <summary>Asocia los miembros de la interfaz a las correcciones de compatibilidad (shim).</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AnguloGet">
+            <summary>Establecer el shim de Activity1.get_Angulo()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AnguloSetInArgumentOfInt32">
+            <summary>Establecer el shim de Activity1.set_Angulo(InArgument`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.ArchivoGet">
+            <summary>Establecer el shim de Activity1.get_Archivo()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.ArchivoSetOutArgumentOfLinkedListOfString">
+            <summary>Establecer el shim de Activity1.set_Archivo(OutArgument`1&lt;LinkedList`1&lt;String&gt;&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.BanderasAElegirGet">
+            <summary>Establecer el shim de Activity1.get_BanderasAElegir()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.BanderasAElegirSetInArgumentOfLinkedListOfPointF">
+            <summary>Establecer el shim de Activity1.set_BanderasAElegir(InArgument`1&lt;LinkedList`1&lt;PointF&gt;&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.BeforeInitializeComponentBooleanRef">
+            <summary>Establecer el shim de Activity1.BeforeInitializeComponent(Boolean&amp; isInitialized)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.CanExecuteExpressionStringBooleanIListOfLocationReferenceInt32Out">
+            <summary>Establecer el shim de Activity1.CanExecuteExpression(String expressionText, Boolean isReference, IList`1&lt;LocationReference&gt; locations, Int32&amp; expressionId)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.Constructor">
+            <summary>Establecer el shim de Activity1.Activity1()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.DistanciaAlObjetoGet">
+            <summary>Establecer el shim de Activity1.get_DistanciaAlObjeto()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.DistanciaAlObjetoSetInArgumentOfInt32">
+            <summary>Establecer el shim de Activity1.set_DistanciaAlObjeto(InArgument`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.FindResource">
+            <summary>Establecer el shim de Activity1.FindResource()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.GetExpressionTreeForExpressionInt32IListOfLocationReference">
+            <summary>Establecer el shim de Activity1.GetExpressionTreeForExpression(Int32 expressionId, IList`1&lt;LocationReference&gt; locationReferences)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.GetLanguage">
+            <summary>Establecer el shim de Activity1.GetLanguage()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.GetRequiredLocationsInt32">
+            <summary>Establecer el shim de Activity1.GetRequiredLocations(Int32 expressionId)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.InitializeComponent">
+            <summary>Establecer el shim de Activity1.InitializeComponent()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.InvokeExpressionInt32IListOfLocation">
+            <summary>Establecer el shim de Activity1.InvokeExpression(Int32 expressionId, IList`1&lt;Location&gt; locations)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.InvokeExpressionInt32IListOfLocationReferenceActivityContext">
+            <summary>Establecer el shim de Activity1.InvokeExpression(Int32 expressionId, IList`1&lt;LocationReference&gt; locations, ActivityContext activityContext)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.NroProtocoloGet">
+            <summary>Establecer el shim de Activity1.get_NroProtocolo()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.NroProtocoloSetInArgumentOfInt32">
+            <summary>Establecer el shim de Activity1.set_NroProtocolo(InArgument`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.ProtocoloGet">
+            <summary>Establecer el shim de Activity1.get_Protocolo()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.ProtocoloSetInArgumentOfInt32">
+            <summary>Establecer el shim de Activity1.set_Protocolo(InArgument`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.RadioGet">
+            <summary>Establecer el shim de Activity1.get_Radio()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.RadioSetInArgumentOfInt32">
+            <summary>Establecer el shim de Activity1.set_Radio(InArgument`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.SystemComponentModelISupportInitializeBeginInit">
+            <summary>Establecer el shim de Activity1.System.ComponentModel.ISupportInitialize.BeginInit()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.SystemComponentModelISupportInitializeEndInit">
+            <summary>Establecer el shim de Activity1.System.ComponentModel.ISupportInitialize.EndInit()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.TestSeguroGet">
+            <summary>Establecer el shim de Activity1.get_TestSeguro()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.TestSeguroSetInArgumentOfString">
+            <summary>Establecer el shim de Activity1.set_TestSeguro(InArgument`1&lt;String&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.idSujetoGet">
+            <summary>Establecer el shim de Activity1.get_idSujeto()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.idSujetoSetInArgumentOfString">
+            <summary>Establecer el shim de Activity1.set_idSujeto(InArgument`1&lt;String&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.scriptBanderasGet">
+            <summary>Establecer el shim de Activity1.get_scriptBanderas()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.scriptBanderasSetInArgumentOfString">
+            <summary>Establecer el shim de Activity1.set_scriptBanderas(InArgument`1&lt;String&gt; value)</summary>
+        </member>
+        <member name="T:Selección.Fakes.ShimActivity1.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.AnguloGet">
+            <summary>Establecer el shim de Activity1.get_Angulo()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.AnguloSetInArgumentOfInt32">
+            <summary>Establecer el shim de Activity1.set_Angulo(InArgument`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.ArchivoGet">
+            <summary>Establecer el shim de Activity1.get_Archivo()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.ArchivoSetOutArgumentOfLinkedListOfString">
+            <summary>Establecer el shim de Activity1.set_Archivo(OutArgument`1&lt;LinkedList`1&lt;String&gt;&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.BanderasAElegirGet">
+            <summary>Establecer el shim de Activity1.get_BanderasAElegir()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.BanderasAElegirSetInArgumentOfLinkedListOfPointF">
+            <summary>Establecer el shim de Activity1.set_BanderasAElegir(InArgument`1&lt;LinkedList`1&lt;PointF&gt;&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.BeforeInitializeComponentBooleanRef">
+            <summary>Establecer el shim de Activity1.BeforeInitializeComponent(Boolean&amp; isInitialized)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.CanExecuteExpressionStringBooleanIListOfLocationReferenceInt32Out">
+            <summary>Establecer el shim de Activity1.CanExecuteExpression(String expressionText, Boolean isReference, IList`1&lt;LocationReference&gt; locations, Int32&amp; expressionId)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.DistanciaAlObjetoGet">
+            <summary>Establecer el shim de Activity1.get_DistanciaAlObjeto()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.DistanciaAlObjetoSetInArgumentOfInt32">
+            <summary>Establecer el shim de Activity1.set_DistanciaAlObjeto(InArgument`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.FindResource">
+            <summary>Establecer el shim de Activity1.FindResource()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.GetExpressionTreeForExpressionInt32IListOfLocationReference">
+            <summary>Establecer el shim de Activity1.GetExpressionTreeForExpression(Int32 expressionId, IList`1&lt;LocationReference&gt; locationReferences)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.GetLanguage">
+            <summary>Establecer el shim de Activity1.GetLanguage()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.GetRequiredLocationsInt32">
+            <summary>Establecer el shim de Activity1.GetRequiredLocations(Int32 expressionId)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.InitializeComponent">
+            <summary>Establecer el shim de Activity1.InitializeComponent()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.InvokeExpressionInt32IListOfLocation">
+            <summary>Establecer el shim de Activity1.InvokeExpression(Int32 expressionId, IList`1&lt;Location&gt; locations)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.InvokeExpressionInt32IListOfLocationReferenceActivityContext">
+            <summary>Establecer el shim de Activity1.InvokeExpression(Int32 expressionId, IList`1&lt;LocationReference&gt; locations, ActivityContext activityContext)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.NroProtocoloGet">
+            <summary>Establecer el shim de Activity1.get_NroProtocolo()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.NroProtocoloSetInArgumentOfInt32">
+            <summary>Establecer el shim de Activity1.set_NroProtocolo(InArgument`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.ProtocoloGet">
+            <summary>Establecer el shim de Activity1.get_Protocolo()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.ProtocoloSetInArgumentOfInt32">
+            <summary>Establecer el shim de Activity1.set_Protocolo(InArgument`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.RadioGet">
+            <summary>Establecer el shim de Activity1.get_Radio()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.RadioSetInArgumentOfInt32">
+            <summary>Establecer el shim de Activity1.set_Radio(InArgument`1&lt;Int32&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.SystemComponentModelISupportInitializeBeginInit">
+            <summary>Establecer el shim de Activity1.System.ComponentModel.ISupportInitialize.BeginInit()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.SystemComponentModelISupportInitializeEndInit">
+            <summary>Establecer el shim de Activity1.System.ComponentModel.ISupportInitialize.EndInit()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.TestSeguroGet">
+            <summary>Establecer el shim de Activity1.get_TestSeguro()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.TestSeguroSetInArgumentOfString">
+            <summary>Establecer el shim de Activity1.set_TestSeguro(InArgument`1&lt;String&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.idSujetoGet">
+            <summary>Establecer el shim de Activity1.get_idSujeto()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.idSujetoSetInArgumentOfString">
+            <summary>Establecer el shim de Activity1.set_idSujeto(InArgument`1&lt;String&gt; value)</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.scriptBanderasGet">
+            <summary>Establecer el shim de Activity1.get_scriptBanderas()</summary>
+        </member>
+        <member name="P:Selección.Fakes.ShimActivity1.AllInstances.scriptBanderasSetInArgumentOfString">
+            <summary>Establecer el shim de Activity1.set_scriptBanderas(InArgument`1&lt;String&gt; value)</summary>
+        </member>
+        <member name="T:Selección.Fakes.StubActivity1">
+            <summary>Tipo stub de Selección.Activity1</summary>
+        </member>
+        <member name="M:Selección.Fakes.StubActivity1.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="M:Selección.Fakes.StubActivity1.AttachBackingFieldToImplementation">
+            <summary>Asocia delegados para emular StubActivity1.Implementation como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:Selección.Fakes.StubActivity1.AttachBackingFieldToImplementationVersion">
+            <summary>Asocia delegados para emular StubActivity1.ImplementationVersion como una propiedad con un campo de respaldo.</summary>
+        </member>
+        <member name="M:Selección.Fakes.StubActivity1.CacheMetadata(System.Activities.ActivityMetadata)">
+            <summary>Establecer el stub de Activity.CacheMetadata(ActivityMetadata metadata)</summary>
+        </member>
+        <member name="F:Selección.Fakes.StubActivity1.CacheMetadataActivityMetadata">
+            <summary>Establecer el stub de Activity.CacheMetadata(ActivityMetadata metadata)</summary>
+        </member>
+        <member name="F:Selección.Fakes.StubActivity1.ImplementationGet">
+            <summary>Establecer el stub de Activity.get_Implementation()</summary>
+        </member>
+        <member name="F:Selección.Fakes.StubActivity1.ImplementationSetFuncOfActivity">
+            <summary>Establecer el stub de Activity.set_Implementation(Func`1&lt;Activity&gt; value)</summary>
+        </member>
+        <member name="F:Selección.Fakes.StubActivity1.ImplementationVersionGet">
+            <summary>Establecer el stub de Activity.get_ImplementationVersion()</summary>
+        </member>
+        <member name="F:Selección.Fakes.StubActivity1.ImplementationVersionSetVersion">
+            <summary>Establecer el stub de Activity.set_ImplementationVersion(Version value)</summary>
+        </member>
+        <member name="M:Selección.Fakes.StubActivity1.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubActivity1</summary>
+        </member>
+        <member name="M:Selección.Fakes.StubActivity1.OnCreateDynamicUpdateMap(System.Activities.DynamicUpdate.UpdateMapMetadata,System.Activities.Activity)">
+            <summary>Establecer el stub de Activity.OnCreateDynamicUpdateMap(UpdateMapMetadata metadata, Activity originalActivity)</summary>
+        </member>
+        <member name="F:Selección.Fakes.StubActivity1.OnCreateDynamicUpdateMapUpdateMapMetadataActivity">
+            <summary>Establecer el stub de Activity.OnCreateDynamicUpdateMap(UpdateMapMetadata metadata, Activity originalActivity)</summary>
+        </member>
+        <member name="M:Selección.Fakes.StubActivity1.ToString">
+            <summary>Establecer el stub de Activity.ToString()</summary>
+        </member>
+        <member name="F:Selección.Fakes.StubActivity1.ToString01">
+            <summary>Establecer el stub de Activity.ToString()</summary>
+        </member>
+        <member name="P:Selección.Fakes.StubActivity1.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="P:Selección.Fakes.StubActivity1.Implementation">
+            <summary>Establecer el stub de Activity.get_Implementation()</summary>
+        </member>
+        <member name="P:Selección.Fakes.StubActivity1.ImplementationVersion">
+            <summary>Establecer el stub de Activity.get_ImplementationVersion()</summary>
+        </member>
+        <member name="P:Selección.Fakes.StubActivity1.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Selección.Fakes.StubActivity1.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+    </members>
+</doc>

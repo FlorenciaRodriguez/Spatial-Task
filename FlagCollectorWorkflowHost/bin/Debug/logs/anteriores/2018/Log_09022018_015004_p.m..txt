@@ -1,0 +1,129 @@
+Sujeto;flor2
+Radio;20
+Hora Inicio;09/02/2018 01:50:13 p.m.
+AS[ { "id":"0", "color":"rojo", "x":"20", "y":"0", "visible":"false" }, { "id":"1", "color":"rojo", "x":"19.95128", "y":"1.395129", "visible":"false" }, { "id":"2", "color":"rojo", "x":"19.80536", "y":"2.783462", "visible":"false" }, { "id":"3", "color":"rojo", "x":"19.56295", "y":"4.158234", "visible":"false" }, { "id":"4", "color":"rojo", "x":"19.22523", "y":"5.512747", "visible":"false" }, { "id":"5", "color":"rojo", "x":"18.79385", "y":"6.840403", "visible":"false" }, { "id":"6", "color":"rojo", "x":"18.27091", "y":"8.134733", "visible":"false" }, { "id":"7", "color":"rojo", "x":"17.65895", "y":"9.389431", "visible":"false" }, { "id":"8", "color":"rojo", "x":"16.96096", "y":"10.59838", "visible":"false" }, { "id":"9", "color":"rojo", "x":"16.18034", "y":"11.7557", "visible":"false" }, { "id":"10", "color":"rojo", "x":"15.32089", "y":"12.85575", "visible":"false" }, { "id":"11", "color":"rojo", "x":"14.3868", "y":"13.89317", "visible":"false" }, { "id":"12", "color":"rojo", "x":"13.38261", "y":"14.8629", "visible":"false" }, { "id":"13", "color":"rojo", "x":"12.31323", "y":"15.76022", "visible":"false" }, { "id":"14", "color":"rojo", "x":"11.18386", "y":"16.58075", "visible":"false" }, { "id":"15", "color":"rojo", "x":"10", "y":"17.32051", "visible":"false" }, { "id":"16", "color":"rojo", "x":"8.767423", "y":"17.97588", "visible":"false" }, { "id":"17", "color":"rojo", "x":"7.492132", "y":"18.54368", "visible":"false" }, { "id":"18", "color":"rojo", "x":"6.18034", "y":"19.02113", "visible":"false" }, { "id":"19", "color":"rojo", "x":"4.838438", "y":"19.40591", "visible":"false" }, { "id":"20", "color":"rojo", "x":"3.472964", "y":"19.69616", "visible":"false" }, { "id":"21", "color":"rojo", "x":"2.090569", "y":"19.89044", "visible":"false" }, { "id":"22", "color":"rojo", "x":"0.6979899", "y":"19.98782", "visible":"false" }, { "id":"23", "color":"rojo", "x":"-0.6979899", "y":"19.98782", "visible":"false" }, { "id":"24", "color":"rojo", "x":"-2.090569", "y":"19.89044", "visible":"false" }, { "id":"25", "color":"rojo", "x":"-3.472964", "y":"19.69616", "visible":"false" }, { "id":"26", "color":"rojo", "x":"-4.838438", "y":"19.40591", "visible":"false" }, { "id":"27", "color":"rojo", "x":"-6.18034", "y":"19.02113", "visible":"false" }, { "id":"28", "color":"rojo", "x":"-7.492132", "y":"18.54368", "visible":"false" }, { "id":"29", "color":"rojo", "x":"-8.767423", "y":"17.97588", "visible":"false" }, { "id":"30", "color":"rojo", "x":"-10", "y":"17.32051", "visible":"false" }, { "id":"31", "color":"rojo", "x":"-11.18386", "y":"16.58075", "visible":"false" }, { "id":"32", "color":"rojo", "x":"-12.31323", "y":"15.76022", "visible":"false" }, { "id":"33", "color":"rojo", "x":"-13.38261", "y":"14.8629", "visible":"false" }, { "id":"34", "color":"rojo", "x":"-14.3868", "y":"13.89317", "visible":"false" }, { "id":"35", "color":"rojo", "x":"-15.32089", "y":"12.85575", "visible":"false" }, { "id":"36", "color":"rojo", "x":"-16.18034", "y":"11.7557", "visible":"false" }, { "id":"37", "color":"rojo", "x":"-16.96096", "y":"10.59838", "visible":"false" }, { "id":"38", "color":"rojo", "x":"-17.65895", "y":"9.389431", "visible":"false" }, { "id":"39", "color":"rojo", "x":"-18.27091", "y":"8.134733", "visible":"false" }, { "id":"40", "color":"rojo", "x":"-18.79385", "y":"6.840403", "visible":"false" }, { "id":"41", "color":"rojo", "x":"-19.22523", "y":"5.512747", "visible":"false" }, { "id":"42", "color":"rojo", "x":"-19.56295", "y":"4.158234", "visible":"false" }, { "id":"43", "color":"rojo", "x":"-19.80536", "y":"2.783462", "visible":"false" }, { "id":"44", "color":"rojo", "x":"-19.95128", "y":"1.395129", "visible":"false" }, { "id":"45", "color":"rojo", "x":"-20", "y":"2.449213E-15", "visible":"false" }, { "id":"46", "color":"rojo", "x":"-19.95128", "y":"-1.395129", "visible":"false" }, { "id":"47", "color":"rojo", "x":"-19.80536", "y":"-2.783462", "visible":"false" }, { "id":"48", "color":"rojo", "x":"-19.56295", "y":"-4.158234", "visible":"false" }, { "id":"49", "color":"rojo", "x":"-19.22523", "y":"-5.512747", "visible":"false" }, { "id":"50", "color":"rojo", "x":"-18.79385", "y":"-6.840403", "visible":"false" }, { "id":"51", "color":"rojo", "x":"-18.27091", "y":"-8.134733", "visible":"false" }, { "id":"52", "color":"rojo", "x":"-17.65895", "y":"-9.389431", "visible":"false" }, { "id":"53", "color":"rojo", "x":"-16.96096", "y":"-10.59838", "visible":"false" }, { "id":"54", "color":"rojo", "x":"-16.18034", "y":"-11.7557", "visible":"false" }, { "id":"55", "color":"rojo", "x":"-15.32089", "y":"-12.85575", "visible":"false" }, { "id":"56", "color":"rojo", "x":"-14.3868", "y":"-13.89317", "visible":"false" }, { "id":"57", "color":"rojo", "x":"-13.38261", "y":"-14.8629", "visible":"false" }, { "id":"58", "color":"rojo", "x":"-12.31323", "y":"-15.76022", "visible":"false" }, { "id":"59", "color":"rojo", "x":"-11.18386", "y":"-16.58075", "visible":"false" }, { "id":"60", "color":"rojo", "x":"-10", "y":"-17.32051", "visible":"false" }, { "id":"61", "color":"rojo", "x":"-8.767423", "y":"-17.97588", "visible":"false" }, { "id":"62", "color":"rojo", "x":"-7.492132", "y":"-18.54368", "visible":"false" }, { "id":"63", "color":"rojo", "x":"-6.18034", "y":"-19.02113", "visible":"false" }, { "id":"64", "color":"rojo", "x":"-4.838438", "y":"-19.40591", "visible":"false" }, { "id":"65", "color":"rojo", "x":"-3.472964", "y":"-19.69616", "visible":"false" }, { "id":"66", "color":"rojo", "x":"-2.090569", "y":"-19.89044", "visible":"false" }, { "id":"67", "color":"rojo", "x":"-0.6979899", "y":"-19.98782", "visible":"false" }, { "id":"68", "color":"rojo", "x":"0.6979899", "y":"-19.98782", "visible":"false" }, { "id":"69", "color":"rojo", "x":"2.090569", "y":"-19.89044", "visible":"false" }, { "id":"70", "color":"rojo", "x":"3.472964", "y":"-19.69616", "visible":"false" }, { "id":"71", "color":"rojo", "x":"4.838438", "y":"-19.40591", "visible":"false" }, { "id":"72", "color":"rojo", "x":"6.18034", "y":"-19.02113", "visible":"false" }, { "id":"73", "color":"rojo", "x":"7.492132", "y":"-18.54368", "visible":"false" }, { "id":"74", "color":"rojo", "x":"8.767423", "y":"-17.97588", "visible":"false" }, { "id":"75", "color":"rojo", "x":"10", "y":"-17.32051", "visible":"false" }, { "id":"76", "color":"rojo", "x":"11.18386", "y":"-16.58075", "visible":"false" }, { "id":"77", "color":"rojo", "x":"12.31323", "y":"-15.76022", "visible":"false" }, { "id":"78", "color":"rojo", "x":"13.38261", "y":"-14.8629", "visible":"false" }, { "id":"79", "color":"rojo", "x":"14.3868", "y":"-13.89317", "visible":"false" }, { "id":"80", "color":"rojo", "x":"15.32089", "y":"-12.85575", "visible":"false" }, { "id":"81", "color":"rojo", "x":"16.18034", "y":"-11.7557", "visible":"false" }, { "id":"82", "color":"rojo", "x":"16.96096", "y":"-10.59838", "visible":"false" }, { "id":"83", "color":"rojo", "x":"17.65895", "y":"-9.389431", "visible":"false" }, { "id":"84", "color":"rojo", "x":"18.27091", "y":"-8.134733", "visible":"false" }, { "id":"85", "color":"rojo", "x":"18.79385", "y":"-6.840403", "visible":"false" }, { "id":"86", "color":"rojo", "x":"19.22523", "y":"-5.512747", "visible":"false" }, { "id":"87", "color":"rojo", "x":"19.56295", "y":"-4.158234", "visible":"false" }, { "id":"88", "color":"rojo", "x":"19.80536", "y":"-2.783462", "visible":"false" }, { "id":"89", "color":"rojo", "x":"19.95128", "y":"-1.395129", "visible":"false" } ]
+09/02/2018 01:50:13 p.m.;0,3397922;0,2874146;NULL;NULL;NULL;INI
+L{ "id":"5" }
+NroIteracion;0
+Angulo;60
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;S
+IdIzquierda;36
+IzquierdaX;-16,18034
+IzquierdaY;11,7557
+IdDerecha;51
+DerechaX;-18,27091
+DerechaY;-8,134733
+
+09/02/2018 01:50:13 p.m.;0,3397922;0,2874146;DET
+IdCorrecta;43
+CorrectaX;-19,80536
+CorrectaY;2,783462
+
+Q{ "text":"Trial 1 " }
+hide_question
+H{ "id":"36", "visible":"true" }
+H{ "id":"51", "visible":"true" }
+09/02/2018 01:50:31 p.m.;-0,1310428;-0,2219432;NULL;NULL;NULL;REC
+09/02/2018 01:50:31 p.m.;-0,1310428;-0,2219432;REC
+09/02/2018 01:50:31 p.m.;0,1376659;-2,668654;REC
+09/02/2018 01:50:32 p.m.;-0,8964215;-2,765969;REC
+09/02/2018 01:50:32 p.m.;-1,918799;-3,045345;REC
+09/02/2018 01:50:33 p.m.;-2,95085;-3,371146;REC
+09/02/2018 01:50:33 p.m.;-3,984294;-3,697589;REC
+09/02/2018 01:50:34 p.m.;-5,017739;-4,024031;REC
+09/02/2018 01:50:34 p.m.;-6,051185;-4,350474;REC
+09/02/2018 01:50:35 p.m.;-7,084628;-4,676917;REC
+09/02/2018 01:50:35 p.m.;-8,117711;-5,00357;REC
+09/02/2018 01:50:36 p.m.;-9,150756;-5,330445;REC
+09/02/2018 01:50:37 p.m.;-10,18455;-5,657266;REC
+09/02/2018 01:50:37 p.m.;-11,21329;-5,998132;REC
+09/02/2018 01:50:38 p.m.;-12,23814;-6,56361;REC
+09/02/2018 01:50:38 p.m.;-13,26079;-7,038185;REC
+09/02/2018 01:50:39 p.m.;-14,27948;-7,569795;REC
+09/02/2018 01:50:40 p.m.;-15,31494;-8,063886;REC
+09/02/2018 01:50:40 p.m.;-16,33147;-8,362672;REC
+H{ "id":"51", "visible":"false" }
+09/02/2018 01:50:41 p.m.;-18,37179;-7,805485;RET
+09/02/2018 01:50:42 p.m.;-18,14829;-6,777178;RET
+09/02/2018 01:50:42 p.m.;-17,13604;-6,113878;RET
+09/02/2018 01:50:43 p.m.;-16,11956;-5,738712;RET
+09/02/2018 01:50:44 p.m.;-15,10308;-5,363548;RET
+09/02/2018 01:50:44 p.m.;-14,08668;-4,988362;RET
+09/02/2018 01:50:45 p.m.;-13,07084;-4,613337;RET
+09/02/2018 01:50:45 p.m.;-12,05436;-4,238171;RET
+09/02/2018 01:50:46 p.m.;-11,0379;-3,862988;RET
+09/02/2018 01:50:46 p.m.;-10,02143;-3,487824;RET
+09/02/2018 01:50:47 p.m.;-9,004951;-3,11266;RET
+09/02/2018 01:50:47 p.m.;-7,988212;-2,737457;RET
+09/02/2018 01:50:48 p.m.;-6,971534;-2,362309;RET
+09/02/2018 01:50:49 p.m.;-5,95453;-1,986851;RET
+09/02/2018 01:50:49 p.m.;-4,937524;-1,611395;RET
+09/02/2018 01:50:50 p.m.;-3,920518;-1,235937;RET
+09/02/2018 01:50:50 p.m.;-2,903701;-0,8602276;RET
+09/02/2018 01:50:51 p.m.;-1,886633;-0,4850185;RET
+09/02/2018 01:50:51 p.m.;-0,8717974;-0,1026038;RET
+Hora Centro;09/02/2018 01:50:51 p.m.
+X{ "value":"rojo" }
+X{ "value":"negro" }
+09/02/2018 01:50:52 p.m.;-0,8717974;-0,1026038;REC
+09/02/2018 01:50:53 p.m.;0,9204848;1,069937;REC
+09/02/2018 01:50:53 p.m.;0,391075;2,085087;REC
+09/02/2018 01:50:54 p.m.;-0,6276663;2,805551;REC
+09/02/2018 01:50:55 p.m.;-1,638373;3,476062;REC
+09/02/2018 01:50:55 p.m.;-2,656026;4,136404;REC
+09/02/2018 01:50:56 p.m.;-3,682536;4,78375;REC
+09/02/2018 01:50:56 p.m.;-4,709199;5,4315;REC
+09/02/2018 01:50:57 p.m.;-5,712107;5,990497;REC
+09/02/2018 01:50:58 p.m.;-6,718895;6,496713;REC
+09/02/2018 01:50:58 p.m.;-7,727566;6,999906;REC
+09/02/2018 01:50:59 p.m.;-8,731866;7,510544;REC
+09/02/2018 01:50:59 p.m.;-9,736581;8,022372;REC
+09/02/2018 01:51:00 p.m.;-10,74121;8,534148;REC
+09/02/2018 01:51:00 p.m.;-11,74593;9,045978;REC
+09/02/2018 01:51:01 p.m.;-12,75035;9,557828;REC
+09/02/2018 01:51:02 p.m.;-13,75488;10,06966;REC
+H{ "id":"36", "visible":"false" }
+09/02/2018 01:51:03 p.m.;-15,23626;12,31352;RET
+09/02/2018 01:51:04 p.m.;-14,21624;12,12031;RET
+09/02/2018 01:51:05 p.m.;-13,18926;11,4841;RET
+09/02/2018 01:51:05 p.m.;-12,15773;10,76708;RET
+09/02/2018 01:51:06 p.m.;-11,12569;10,04963;RET
+09/02/2018 01:51:07 p.m.;-10,09399;9,332488;RET
+09/02/2018 01:51:07 p.m.;-9,063176;8,616286;RET
+09/02/2018 01:51:08 p.m.;-8,030849;7,898611;RET
+09/02/2018 01:51:09 p.m.;-6,9988;7,181168;RET
+09/02/2018 01:51:09 p.m.;-5,966626;6,463427;RET
+09/02/2018 01:51:10 p.m.;-4,934594;5,746024;RET
+09/02/2018 01:51:10 p.m.;-3,902208;5,028531;RET
+09/02/2018 01:51:11 p.m.;-2,869673;4,310697;RET
+09/02/2018 01:51:12 p.m.;-2,064173;3,440458;RET
+09/02/2018 01:51:12 p.m.;-1,452706;2,420321;RET
+09/02/2018 01:51:13 p.m.;-0,7318178;1,389733;RET
+09/02/2018 01:51:14 p.m.;0,01987991;0,367931;RET
+Inicio test memoria;09/02/2018 01:51:14 p.m.
+09/02/2018 01:51:14 p.m.;1,041503;-0,4680417;EVA
+Q{ "text":"Escucha la consigna" }
+hide_question
+Q{ "text":"X(izq) Y(Sel) B(der)" }
+HS[ { "id":"0", "visible":"true" }, { "id":"1", "visible":"true" }, { "id":"2", "visible":"true" }, { "id":"3", "visible":"true" }, { "id":"4", "visible":"true" }, { "id":"5", "visible":"true" }, { "id":"6", "visible":"true" }, { "id":"7", "visible":"true" }, { "id":"8", "visible":"true" }, { "id":"9", "visible":"true" }, { "id":"10", "visible":"true" }, { "id":"11", "visible":"true" }, { "id":"12", "visible":"true" }, { "id":"13", "visible":"true" }, { "id":"14", "visible":"true" }, { "id":"15", "visible":"true" }, { "id":"16", "visible":"true" }, { "id":"17", "visible":"true" }, { "id":"18", "visible":"true" }, { "id":"19", "visible":"true" }, { "id":"20", "visible":"true" }, { "id":"21", "visible":"true" }, { "id":"22", "visible":"true" }, { "id":"23", "visible":"true" }, { "id":"24", "visible":"true" }, { "id":"25", "visible":"true" }, { "id":"26", "visible":"true" }, { "id":"27", "visible":"true" }, { "id":"28", "visible":"true" }, { "id":"29", "visible":"true" }, { "id":"30", "visible":"true" }, { "id":"31", "visible":"true" }, { "id":"32", "visible":"true" }, { "id":"33", "visible":"true" }, { "id":"34", "visible":"true" }, { "id":"35", "visible":"true" }, { "id":"36", "visible":"true" }, { "id":"37", "visible":"true" }, { "id":"38", "visible":"true" }, { "id":"39", "visible":"true" }, { "id":"40", "visible":"true" }, { "id":"41", "visible":"true" }, { "id":"42", "visible":"true" }, { "id":"43", "visible":"true" }, { "id":"44", "visible":"true" }, { "id":"45", "visible":"true" }, { "id":"46", "visible":"true" }, { "id":"47", "visible":"true" }, { "id":"48", "visible":"true" }, { "id":"49", "visible":"true" }, { "id":"50", "visible":"true" }, { "id":"51", "visible":"true" }, { "id":"52", "visible":"true" }, { "id":"53", "visible":"true" }, { "id":"54", "visible":"true" }, { "id":"55", "visible":"true" }, { "id":"56", "visible":"true" }, { "id":"57", "visible":"true" }, { "id":"58", "visible":"true" }, { "id":"59", "visible":"true" }, { "id":"60", "visible":"true" }, { "id":"61", "visible":"true" }, { "id":"62", "visible":"true" }, { "id":"63", "visible":"true" }, { "id":"64", "visible":"true" }, { "id":"65", "visible":"true" }, { "id":"66", "visible":"true" }, { "id":"67", "visible":"true" }, { "id":"68", "visible":"true" }, { "id":"69", "visible":"true" }, { "id":"70", "visible":"true" }, { "id":"71", "visible":"true" }, { "id":"72", "visible":"true" }, { "id":"73", "visible":"true" }, { "id":"74", "visible":"true" }, { "id":"75", "visible":"true" }, { "id":"76", "visible":"true" }, { "id":"77", "visible":"true" }, { "id":"78", "visible":"true" }, { "id":"79", "visible":"true" }, { "id":"80", "visible":"true" }, { "id":"81", "visible":"true" }, { "id":"82", "visible":"true" }, { "id":"83", "visible":"true" }, { "id":"84", "visible":"true" }, { "id":"85", "visible":"true" }, { "id":"86", "visible":"true" }, { "id":"87", "visible":"true" }, { "id":"88", "visible":"true" }, { "id":"89", "visible":"true" } ]
+C{ "id":"0", "color":"azul" }
+09/02/2018 01:51:22 p.m.;1,041503;-0,4680417;PR2
+C{ "id":"0", "color":"rojo" }
+C{ "id":"1", "color":"azul" }
+09/02/2018 01:51:23 p.m.;1,041503;-0,4680417;PR2
+C{ "id":"1", "color":"rojo" }
+C{ "id":"2", "color":"azul" }
+09/02/2018 01:51:23 p.m.;1,041503;-0,4680417;PR2
+C{ "id":"2", "color":"rojo" }
+C{ "id":"3", "color":"azul" }
+09/02/2018 01:51:23 p.m.;1,041503;-0,4680417;PR2
+C{ "id":"3", "color":"rojo" }
+C{ "id":"4", "color":"azul" }
+09/02/2018 01:51:24 p.m.;1,041503;-0,4680417;PR2
+C{ "id":"4", "color":"rojo" }
+C{ "id":"5", "color":"azul" }
+09/02/2018 01:51:24 p.m.;1,041503;-0,4680417;PR2
+C{ "id":"5", "color":"rojo" }
+HS[ { "id":"0", "visible":"false" }, { "id":"1", "visible":"false" }, { "id":"2", "visible":"false" }, { "id":"3", "visible":"false" }, { "id":"4", "visible":"false" }, { "id":"5", "visible":"false" }, { "id":"6", "visible":"false" }, { "id":"7", "visible":"false" }, { "id":"8", "visible":"false" }, { "id":"9", "visible":"false" }, { "id":"10", "visible":"false" }, { "id":"11", "visible":"false" }, { "id":"12", "visible":"false" }, { "id":"13", "visible":"false" }, { "id":"14", "visible":"false" }, { "id":"15", "visible":"false" }, { "id":"16", "visible":"false" }, { "id":"17", "visible":"false" }, { "id":"18", "visible":"false" }, { "id":"19", "visible":"false" }, { "id":"20", "visible":"false" }, { "id":"21", "visible":"false" }, { "id":"22", "visible":"false" }, { "id":"23", "visible":"false" }, { "id":"24", "visible":"false" }, { "id":"25", "visible":"false" }, { "id":"26", "visible":"false" }, { "id":"27", "visible":"false" }, { "id":"28", "visible":"false" }, { "id":"29", "visible":"false" }, { "id":"30", "visible":"false" }, { "id":"31", "visible":"false" }, { "id":"32", "visible":"false" }, { "id":"33", "visible":"false" }, { "id":"34", "visible":"false" }, { "id":"35", "visible":"false" }, { "id":"36", "visible":"false" }, { "id":"37", "visible":"false" }, { "id":"38", "visible":"false" }, { "id":"39", "visible":"false" }, { "id":"40", "visible":"false" }, { "id":"41", "visible":"false" }, { "id":"42", "visible":"false" }, { "id":"43", "visible":"false" }, { "id":"44", "visible":"false" }, { "id":"45", "visible":"false" }, { "id":"46", "visible":"false" }, { "id":"47", "visible":"false" }, { "id":"48", "visible":"false" }, { "id":"49", "visible":"false" }, { "id":"50", "visible":"false" }, { "id":"51", "visible":"false" }, { "id":"52", "visible":"false" }, { "id":"53", "visible":"false" }, { "id":"54", "visible":"false" }, { "id":"55", "visible":"false" }, { "id":"56", "visible":"false" }, { "id":"57", "visible":"false" }, { "id":"58", "visible":"false" }, { "id":"59", "visible":"false" }, { "id":"60", "visible":"false" }, { "id":"61", "visible":"false" }, { "id":"62", "visible":"false" }, { "id":"63", "visible":"false" }, { "id":"64", "visible":"false" }, { "id":"65", "visible":"false" }, { "id":"66", "visible":"false" }, { "id":"67", "visible":"false" }, { "id":"68", "visible":"false" }, { "id":"69", "visible":"false" }, { "id":"70", "visible":"false" }, { "id":"71", "visible":"false" }, { "id":"72", "visible":"false" }, { "id":"73", "visible":"false" }, { "id":"74", "visible":"false" }, { "id":"75", "visible":"false" }, { "id":"76", "visible":"false" }, { "id":"77", "visible":"false" }, { "id":"78", "visible":"false" }, { "id":"79", "visible":"false" }, { "id":"80", "visible":"false" }, { "id":"81", "visible":"false" }, { "id":"82", "visible":"false" }, { "id":"83", "visible":"false" }, { "id":"84", "visible":"false" }, { "id":"85", "visible":"false" }, { "id":"86", "

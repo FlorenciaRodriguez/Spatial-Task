@@ -1,0 +1,2 @@
+obj\Debug\Ejercicio.g.xaml
+obj\Debug\Ejercicio_Ejercicio_BeforeInitializeComponentHelper.txt

@@ -1,0 +1,64 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:karina
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,rojo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:40,40,1
+Test Memoria (1Si/2No/3Solo Evaluar):3,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;karina
+Radio;20
+Hora Inicio;04/09/2019 11:47:24 a.m.
+NroIteracion;0
+Angulo;40
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;202
+IzquierdaX;-18,54368
+IzquierdaY;-7,492132
+IdDerecha;242
+DerechaX;-9,389431
+DerechaY;-17,65895
+
+IdCorrecta;242
+CorrectaX;-9,389431
+CorrectaY;-17,65895
+
+Hora Fin Seleccion;04/09/2019 11:49:40 a.m.
+Bandera Seleccionada [id];334
+Bandera Seleccionada [X];17,97588
+Bandera Seleccionada [Y];-8,767423
+NroIteracion;1
+Angulo;40
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;269
+IzquierdaX;-0,3490481
+IzquierdaY;-19,99695
+IdDerecha;309
+DerechaX;12,58641
+DerechaY;-15,54292
+
+IdCorrecta;289
+CorrectaX;6,511364
+CorrectaY;-18,91037
+
+Captura Bandera;269
+Hora;04/09/2019 11:53:03 a.m.
+Hora Centro;04/09/2019 11:53:20 a.m.
+Captura Bandera;309
+Hora;04/09/2019 11:53:45 a.m.
+Inicio test memoria;04/09/2019 11:54:02 a.m.
+Hora Fin Seleccion;04/09/2019 11:55:36 a.m.
+Bandera Seleccionada [id];287
+Bandera Seleccionada [X];5,847434
+Bandera Seleccionada [Y];-19,12609

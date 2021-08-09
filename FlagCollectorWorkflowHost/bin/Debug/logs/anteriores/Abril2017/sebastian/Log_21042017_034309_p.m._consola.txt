@@ -1,0 +1,731 @@
+as[ { "id":"0", "color":"azul", "x":"20", "y":"0", "visible":"false" }, { "id":"1", "color":"azul", "x":"19.98782", "y":"0.6979899", "visible":"false" }, { "id":"2", "color":"azul", "x":"19.95128", "y":"1.395129", "visible":"false" }, { "id":"3", "color":"azul", "x":"19.89044", "y":"2.090569", "visible":"false" }, { "id":"4", "color":"azul", "x":"19.80536", "y":"2.783462", "visible":"false" }, { "id":"5", "color":"azul", "x":"19.69616", "y":"3.472964", "visible":"false" }, { "id":"6", "color":"azul", "x":"19.56295", "y":"4.158234", "visible":"false" }, { "id":"7", "color":"azul", "x":"19.40591", "y":"4.838438", "visible":"false" }, { "id":"8", "color":"azul", "x":"19.22523", "y":"5.512747", "visible":"false" }, { "id":"9", "color":"azul", "x":"19.02113", "y":"6.18034", "visible":"false" }, { "id":"10", "color":"azul", "x":"18.79385", "y":"6.840403", "visible":"false" }, { "id":"11", "color":"azul", "x":"18.54368", "y":"7.492132", "visible":"false" }, { "id":"12", "color":"azul", "x":"18.27091", "y":"8.134733", "visible":"false" }, { "id":"13", "color":"azul", "x":"17.97588", "y":"8.767423", "visible":"false" }, { "id":"14", "color":"azul", "x":"17.65895", "y":"9.389431", "visible":"false" }, { "id":"15", "color":"azul", "x":"17.32051", "y":"10", "visible":"false" }, { "id":"16", "color":"azul", "x":"16.96096", "y":"10.59838", "visible":"false" }, { "id":"17", "color":"azul", "x":"16.58075", "y":"11.18386", "visible":"false" }, { "id":"18", "color":"azul", "x":"16.18034", "y":"11.7557", "visible":"false" }, { "id":"19", "color":"azul", "x":"15.76022", "y":"12.31323", "visible":"false" }, { "id":"20", "color":"azul", "x":"15.32089", "y":"12.85575", "visible":"false" }, { "id":"21", "color":"azul", "x":"14.8629", "y":"13.38261", "visible":"false" }, { "id":"22", "color":"azul", "x":"14.3868", "y":"13.89317", "visible":"false" }, { "id":"23", "color":"azul", "x":"13.89317", "y":"14.3868", "visible":"false" }, { "id":"24", "color":"azul", "x":"13.38261", "y":"14.8629", "visible":"false" }, { "id":"25", "color":"azul", "x":"12.85575", "y":"15.32089", "visible":"false" }, { "id":"26", "color":"azul", "x":"12.31323", "y":"15.76022", "visible":"false" }, { "id":"27", "color":"azul", "x":"11.7557", "y":"16.18034", "visible":"false" }, { "id":"28", "color":"azul", "x":"11.18386", "y":"16.58075", "visible":"false" }, { "id":"29", "color":"azul", "x":"10.59838", "y":"16.96096", "visible":"false" }, { "id":"30", "color":"azul", "x":"10", "y":"17.32051", "visible":"false" }, { "id":"31", "color":"azul", "x":"9.389431", "y":"17.65895", "visible":"false" }, { "id":"32", "color":"azul", "x":"8.767423", "y":"17.97588", "visible":"false" }, { "id":"33", "color":"azul", "x":"8.134733", "y":"18.27091", "visible":"false" }, { "id":"34", "color":"azul", "x":"7.492132", "y":"18.54368", "visible":"false" }, { "id":"35", "color":"azul", "x":"6.840403", "y":"18.79385", "visible":"false" }, { "id":"36", "color":"azul", "x":"6.18034", "y":"19.02113", "visible":"false" }, { "id":"37", "color":"azul", "x":"5.512747", "y":"19.22523", "visible":"false" }, { "id":"38", "color":"azul", "x":"4.838438", "y":"19.40591", "visible":"false" }, { "id":"39", "color":"azul", "x":"4.158234", "y":"19.56295", "visible":"false" }, { "id":"40", "color":"azul", "x":"3.472964", "y":"19.69616", "visible":"false" }, { "id":"41", "color":"azul", "x":"2.783462", "y":"19.80536", "visible":"false" }, { "id":"42", "color":"azul", "x":"2.090569", "y":"19.89044", "visible":"false" }, { "id":"43", "color":"azul", "x":"1.395129", "y":"19.95128", "visible":"false" }, { "id":"44", "color":"azul", "x":"0.6979899", "y":"19.98782", "visible":"false" }, { "id":"45", "color":"azul", "x":"1.224606E-15", "y":"20", "visible":"false" }, { "id":"46", "color":"azul", "x":"-0.6979899", "y":"19.98782", "visible":"false" }, { "id":"47", "color":"azul", "x":"-1.395129", "y":"19.95128", "visible":"false" }, { "id":"48", "color":"azul", "x":"-2.090569", "y":"19.89044", "visible":"false" }, { "id":"49", "color":"azul", "x":"-2.783462", "y":"19.80536", "visible":"false" }, { "id":"50", "color":"azul", "x":"-3.472964", "y":"19.69616", "visible":"false" }, { "id":"51", "color":"azul", "x":"-4.158234", "y":"19.56295", "visible":"false" }, { "id":"52", "color":"azul", "x":"-4.838438", "y":"19.40591", "visible":"false" }, { "id":"53", "color":"azul", "x":"-5.512747", "y":"19.22523", "visible":"false" }, { "id":"54", "color":"azul", "x":"-6.18034", "y":"19.02113", "visible":"false" }, { "id":"55", "color":"azul", "x":"-6.840403", "y":"18.79385", "visible":"false" }, { "id":"56", "color":"azul", "x":"-7.492132", "y":"18.54368", "visible":"false" }, { "id":"57", "color":"azul", "x":"-8.134733", "y":"18.27091", "visible":"false" }, { "id":"58", "color":"azul", "x":"-8.767423", "y":"17.97588", "visible":"false" }, { "id":"59", "color":"azul", "x":"-9.389431", "y":"17.65895", "visible":"false" }, { "id":"60", "color":"azul", "x":"-10", "y":"17.32051", "visible":"false" }, { "id":"61", "color":"azul", "x":"-10.59838", "y":"16.96096", "visible":"false" }, { "id":"62", "color":"azul", "x":"-11.18386", "y":"16.58075", "visible":"false" }, { "id":"63", "color":"azul", "x":"-11.7557", "y":"16.18034", "visible":"false" }, { "id":"64", "color":"azul", "x":"-12.31323", "y":"15.76022", "visible":"false" }, { "id":"65", "color":"azul", "x":"-12.85575", "y":"15.32089", "visible":"false" }, { "id":"66", "color":"azul", "x":"-13.38261", "y":"14.8629", "visible":"false" }, { "id":"67", "color":"azul", "x":"-13.89317", "y":"14.3868", "visible":"false" }, { "id":"68", "color":"azul", "x":"-14.3868", "y":"13.89317", "visible":"false" }, { "id":"69", "color":"azul", "x":"-14.8629", "y":"13.38261", "visible":"false" }, { "id":"70", "color":"azul", "x":"-15.32089", "y":"12.85575", "visible":"false" }, { "id":"71", "color":"azul", "x":"-15.76022", "y":"12.31323", "visible":"false" }, { "id":"72", "color":"azul", "x":"-16.18034", "y":"11.7557", "visible":"false" }, { "id":"73", "color":"azul", "x":"-16.58075", "y":"11.18386", "visible":"false" }, { "id":"74", "color":"azul", "x":"-16.96096", "y":"10.59838", "visible":"false" }, { "id":"75", "color":"azul", "x":"-17.32051", "y":"10", "visible":"false" }, { "id":"76", "color":"azul", "x":"-17.65895", "y":"9.389431", "visible":"false" }, { "id":"77", "color":"azul", "x":"-17.97588", "y":"8.767423", "visible":"false" }, { "id":"78", "color":"azul", "x":"-18.27091", "y":"8.134733", "visible":"false" }, { "id":"79", "color":"azul", "x":"-18.54368", "y":"7.492132", "visible":"false" }, { "id":"80", "color":"azul", "x":"-18.79385", "y":"6.840403", "visible":"false" }, { "id":"81", "color":"azul", "x":"-19.02113", "y":"6.18034", "visible":"false" }, { "id":"82", "color":"azul", "x":"-19.22523", "y":"5.512747", "visible":"false" }, { "id":"83", "color":"azul", "x":"-19.40591", "y":"4.838438", "visible":"false" }, { "id":"84", "color":"azul", "x":"-19.56295", "y":"4.158234", "visible":"false" }, { "id":"85", "color":"azul", "x":"-19.69616", "y":"3.472964", "visible":"false" }, { "id":"86", "color":"azul", "x":"-19.80536", "y":"2.783462", "visible":"false" }, { "id":"87", "color":"azul", "x":"-19.89044", "y":"2.090569", "visible":"false" }, { "id":"88", "color":"azul", "x":"-19.95128", "y":"1.395129", "visible":"false" }, { "id":"89", "color":"azul", "x":"-19.98782", "y":"0.6979899", "visible":"false" }, { "id":"90", "color":"azul", "x":"-20", "y":"2.449213E-15", "visible":"false" }, { "id":"91", "color":"azul", "x":"-19.98782", "y":"-0.6979899", "visible":"false" }, { "id":"92", "color":"azul", "x":"-19.95128", "y":"-1.395129", "visible":"false" }, { "id":"93", "color":"azul", "x":"-19.89044", "y":"-2.090569", "visible":"false" }, { "id":"94", "color":"azul", "x":"-19.80536", "y":"-2.783462", "visible":"false" }, { "id":"95", "color":"azul", "x":"-19.69616", "y":"-3.472964", "visible":"false" }, { "id":"96", "color":"azul", "x":"-19.56295", "y":"-4.158234", "visible":"false" }, { "id":"97", "color":"azul", "x":"-19.40591", "y":"-4.838438", "visible":"false" }, { "id":"98", "color":"azul", "x":"-19.22523", "y":"-5.512747", "visible":"false" }, { "id":"99", "color":"azul", "x":"-19.02113", "y":"-6.18034", "visible":"false" }, { "id":"100", "color":"azul", "x":"-18.79385", "y":"-6.840403", "visible":"false" }, { "id":"101", "color":"azul", "x":"-18.54368", "y":"-7.492132", "visible":"false" }, { "id":"102", "color":"azul", "x":"-18.27091", "y":"-8.134733", "visible":"false" }, { "id":"103", "color":"azul", "x":"-17.97588", "y":"-8.767423", "visible":"false" }, { "id":"104", "color":"azul", "x":"-17.65895", "y":"-9.389431", "visible":"false" }, { "id":"105", "color":"azul", "x":"-17.32051", "y":"-10", "visible":"false" }, { "id":"106", "color":"azul", "x":"-16.96096", "y":"-10.59838", "visible":"false" }, { "id":"107", "color":"azul", "x":"-16.58075", "y":"-11.18386", "visible":"false" }, { "id":"108", "color":"azul", "x":"-16.18034", "y":"-11.7557", "visible":"false" }, { "id":"109", "color":"azul", "x":"-15.76022", "y":"-12.31323", "visible":"false" }, { "id":"110", "color":"azul", "x":"-15.32089", "y":"-12.85575", "visible":"false" }, { "id":"111", "color":"azul", "x":"-14.8629", "y":"-13.38261", "visible":"false" }, { "id":"112", "color":"azul", "x":"-14.3868", "y":"-13.89317", "visible":"false" }, { "id":"113", "color":"azul", "x":"-13.89317", "y":"-14.3868", "visible":"false" }, { "id":"114", "color":"azul", "x":"-13.38261", "y":"-14.8629", "visible":"false" }, { "id":"115", "color":"azul", "x":"-12.85575", "y":"-15.32089", "visible":"false" }, { "id":"116", "color":"azul", "x":"-12.31323", "y":"-15.76022", "visible":"false" }, { "id":"117", "color":"azul", "x":"-11.7557", "y":"-16.18034", "visible":"false" }, { "id":"118", "color":"azul", "x":"-11.18386", "y":"-16.58075", "visible":"false" }, { "id":"119", "color":"azul", "x":"-10.59838", "y":"-16.96096", "visible":"false" }, { "id":"120", "color":"azul", "x":"-10", "y":"-17.32051", "visible":"false" }, { "id":"121", "color":"azul", "x":"-9.389431", "y":"-17.65895", "visible":"false" }, { "id":"122", "color":"azul", "x":"-8.767423", "y":"-17.97588", "visible":"false" }, { "id":"123", "color":"azul", "x":"-8.134733", "y":"-18.27091", "visible":"false" }, { "id":"124", "color":"azul", "x":"-7.492132", "y":"-18.54368", "visible":"false" }, { "id":"125", "color":"azul", "x":"-6.840403", "y":"-18.79385", "visible":"false" }, { "id":"126", "color":"azul", "x":"-6.18034", "y":"-19.02113", "visible":"false" }, { "id":"127", "color":"azul", "x":"-5.512747", "y":"-19.22523", "visible":"false" }, { "id":"128", "color":"azul", "x":"-4.838438", "y":"-19.40591", "visible":"false" }, { "id":"129", "color":"azul", "x":"-4.158234", "y":"-19.56295", "visible":"false" }, { "id":"130", "color":"azul", "x":"-3.472964", "y":"-19.69616", "visible":"false" }, { "id":"131", "color":"azul", "x":"-2.783462", "y":"-19.80536", "visible":"false" }, { "id":"132", "color":"azul", "x":"-2.090569", "y":"-19.89044", "visible":"false" }, { "id":"133", "color":"azul", "x":"-1.395129", "y":"-19.95128", "visible":"false" }, { "id":"134", "color":"azul", "x":"-0.6979899", "y":"-19.98782", "visible":"false" }, { "id":"135", "color":"azul", "x":"-3.673819E-15", "y":"-20", "visible":"false" }, { "id":"136", "color":"azul", "x":"0.6979899", "y":"-19.98782", "visible":"false" }, { "id":"137", "color":"azul", "x":"1.395129", "y":"-19.95128", "visible":"false" }, { "id":"138", "color":"azul", "x":"2.090569", "y":"-19.89044", "visible":"false" }, { "id":"139", "color":"azul", "x":"2.783462", "y":"-19.80536", "visible":"false" }, { "id":"140", "color":"azul", "x":"3.472964", "y":"-19.69616", "visible":"false" }, { "id":"141", "color":"azul", "x":"4.158234", "y":"-19.56295", "visible":"false" }, { "id":"142", "color":"azul", "x":"4.838438", "y":"-19.40591", "visible":"false" }, { "id":"143", "color":"azul", "x":"5.512747", "y":"-19.22523", "visible":"false" }, { "id":"144", "color":"azul", "x":"6.18034", "y":"-19.02113", "visible":"false" }, { "id":"145", "color":"azul", "x":"6.840403", "y":"-18.79385", "visible":"false" }, { "id":"146", "color":"azul", "x":"7.492132", "y":"-18.54368", "visible":"false" }, { "id":"147", "color":"azul", "x":"8.134733", "y":"-18.27091", "visible":"false" }, { "id":"148", "color":"azul", "x":"8.767423", "y":"-17.97588", "visible":"false" }, { "id":"149", "color":"azul", "x":"9.389431", "y":"-17.65895", "visible":"false" }, { "id":"150", "color":"azul", "x":"10", "y":"-17.32051", "visible":"false" }, { "id":"151", "color":"azul", "x":"10.59838", "y":"-16.96096", "visible":"false" }, { "id":"152", "color":"azul", "x":"11.18386", "y":"-16.58075", "visible":"false" }, { "id":"153", "color":"azul", "x":"11.7557", "y":"-16.18034", "visible":"false" }, { "id":"154", "color":"azul", "x":"12.31323", "y":"-15.76022", "visible":"false" }, { "id":"155", "color":"azul", "x":"12.85575", "y":"-15.32089", "visible":"false" }, { "id":"156", "color":"azul", "x":"13.38261", "y":"-14.8629", "visible":"false" }, { "id":"157", "color":"azul", "x":"13.89317", "y":"-14.3868", "visible":"false" }, { "id":"158", "color":"azul", "x":"14.3868", "y":"-13.89317", "visible":"false" }, { "id":"159", "color":"azul", "x":"14.8629", "y":"-13.38261", "visible":"false" }, { "id":"160", "color":"azul", "x":"15.32089", "y":"-12.85575", "visible":"false" }, { "id":"161", "color":"azul", "x":"15.76022", "y":"-12.31323", "visible":"false" }, { "id":"162", "color":"azul", "x":"16.18034", "y":"-11.7557", "visible":"false" }, { "id":"163", "color":"azul", "x":"16.58075", "y":"-11.18386", "visible":"false" }, { "id":"164", "color":"azul", "x":"16.96096", "y":"-10.59838", "visible":"false" }, { "id":"165", "color":"azul", "x":"17.32051", "y":"-10", "visible":"false" }, { "id":"166", "color":"azul", "x":"17.65895", "y":"-9.389431", "visible":"false" }, { "id":"167", "color":"azul", "x":"17.97588", "y":"-8.767423", "visible":"false" }, { "id":"168", "color":"azul", "x":"18.27091", "y":"-8.134733", "visible":"false" }, { "id":"169", "color":"azul", "x":"18.54368", "y":"-7.492132", "visible":"false" }, { "id":"170", "color":"azul", "x":"18.79385", "y":"-6.840403", "visible":"false" }, { "id":"171", "color":"azul", "x":"19.02113", "y":"-6.18034", "visible":"false" }, { "id":"172", "color":"azul", "x":"19.22523", "y":"-5.512747", "visible":"false" }, { "id":"173", "color":"azul", "x":"19.40591", "y":"-4.838438", "visible":"false" }, { "id":"174", "color":"azul", "x":"19.56295", "y":"-4.158234", "visible":"false" }, { "id":"175", "color":"azul", "x":"19.69616", "y":"-3.472964", "visible":"false" }, { "id":"176", "color":"azul", "x":"19.80536", "y":"-2.783462", "visible":"false" }, { "id":"177", "color":"azul", "x":"19.89044", "y":"-2.090569", "visible":"false" }, { "id":"178", "color":"azul", "x":"19.95128", "y":"-1.395129", "visible":"false" }, { "id":"179", "color":"azul", "x":"19.98782", "y":"-0.6979899", "visible":"false" } ]
+L{ "id":"null" }
+21/04/2017 03:43:10 p.m.;0,3397922;0,2874146;NULL;NULL;NULL;DET
+X{ "value":"rojo" }
+X{ "value":"negro" }
+hide_question
+H{ "id":"117", "visible":"true" }
+21/04/2017 03:43:28 p.m.;1,296896;0,134128;NULL;NULL;NULL;BUS
+21/04/2017 03:43:28 p.m.;0,7872589;0,08992663;NULL;NULL;NULL;BUS
+21/04/2017 03:43:30 p.m.;0,2839972;0,08974615;NULL;NULL;NULL;BUS
+21/04/2017 03:43:31 p.m.;-0,2298184;0,07101018;NULL;NULL;NULL;BUS
+21/04/2017 03:43:34 p.m.;-0,7386617;-0,1409324;NULL;NULL;NULL;BUS
+21/04/2017 03:43:35 p.m.;-1,541997;-1,161894;NULL;NULL;NULL;BUS
+21/04/2017 03:43:36 p.m.;-2,331337;-2,195181;NULL;NULL;NULL;BUS
+21/04/2017 03:43:36 p.m.;-3,08452;-3,201397;NULL;NULL;NULL;BUS
+21/04/2017 03:43:37 p.m.;-3,815194;-4,224026;NULL;NULL;NULL;BUS
+21/04/2017 03:43:38 p.m.;-4,534871;-5,254559;NULL;NULL;NULL;BUS
+21/04/2017 03:43:38 p.m.;-5,254219;-6,284581;NULL;NULL;NULL;BUS
+21/04/2017 03:43:39 p.m.;-5,973828;-7,314642;NULL;NULL;NULL;BUS
+21/04/2017 03:43:40 p.m.;-6,662206;-8,340847;NULL;NULL;NULL;BUS
+21/04/2017 03:43:40 p.m.;-7,290351;-9,356772;NULL;NULL;NULL;BUS
+21/04/2017 03:43:41 p.m.;-7,943371;-10,38185;NULL;NULL;NULL;BUS
+21/04/2017 03:43:41 p.m.;-8,624275;-11,38679;NULL;NULL;NULL;BUS
+21/04/2017 03:43:42 p.m.;-9,308495;-12,38995;NULL;NULL;NULL;BUS
+21/04/2017 03:43:43 p.m.;-10,02857;-13,42081;NULL;NULL;NULL;BUS
+21/04/2017 03:43:43 p.m.;-10,74864;-14,45182;NULL;NULL;NULL;BUS
+21/04/2017 03:43:44 p.m.;-11,46764;-15,48145;NULL;NULL;NULL;BUS
+H{ "id":"117", "visible":"false" }
+21/04/2017 03:43:44 p.m.;-11,46764;-15,48145;-11,7557;-16,18034;117;CAP
+21/04/2017 03:43:51 p.m.;-11,34589;-14,97215;NULL;NULL;NULL;CEN
+21/04/2017 03:43:52 p.m.;-10,46908;-13,95247;NULL;NULL;NULL;CEN
+21/04/2017 03:43:52 p.m.;-9,614542;-12,94454;NULL;NULL;NULL;CEN
+21/04/2017 03:43:53 p.m.;-8,833604;-11,93222;NULL;NULL;NULL;CEN
+21/04/2017 03:43:55 p.m.;-7,328147;-9,895065;NULL;NULL;NULL;CEN
+21/04/2017 03:43:55 p.m.;-6,591999;-8,875793;NULL;NULL;NULL;CEN
+21/04/2017 03:43:56 p.m.;-5,797323;-7,846813;NULL;NULL;NULL;CEN
+21/04/2017 03:43:56 p.m.;-5,026169;-6,826035;NULL;NULL;NULL;CEN
+21/04/2017 03:43:57 p.m.;-4,296239;-5,802407;NULL;NULL;NULL;CEN
+21/04/2017 03:43:58 p.m.;-3,540733;-4,797137;NULL;NULL;NULL;CEN
+21/04/2017 03:43:58 p.m.;-2,785225;-3,791655;NULL;NULL;NULL;CEN
+21/04/2017 03:43:59 p.m.;-2,03003;-2,787013;NULL;NULL;NULL;CEN
+21/04/2017 03:44:00 p.m.;-1,273592;-1,781777;NULL;NULL;NULL;CEN
+21/04/2017 03:44:00 p.m.;-0,5019616;-0,7757926;NULL;NULL;NULL;CEN
+Q{ "text":"Marca la bandera que recolectaste." }
+HS[ { "id":"0", "visible":"true" }, { "id":"1", "visible":"true" }, { "id":"2", "visible":"true" }, { "id":"3", "visible":"true" }, { "id":"4", "visible":"true" }, { "id":"5", "visible":"true" }, { "id":"6", "visible":"true" }, { "id":"7", "visible":"true" }, { "id":"8", "visible":"true" }, { "id":"9", "visible":"true" }, { "id":"10", "visible":"true" }, { "id":"11", "visible":"true" }, { "id":"12", "visible":"true" }, { "id":"13", "visible":"true" }, { "id":"14", "visible":"true" }, { "id":"15", "visible":"true" }, { "id":"16", "visible":"true" }, { "id":"17", "visible":"true" }, { "id":"18", "visible":"true" }, { "id":"19", "visible":"true" }, { "id":"20", "visible":"true" }, { "id":"21", "visible":"true" }, { "id":"22", "visible":"true" }, { "id":"23", "visible":"true" }, { "id":"24", "visible":"true" }, { "id":"25", "visible":"true" }, { "id":"26", "visible":"true" }, { "id":"27", "visible":"true" }, { "id":"28", "visible":"true" }, { "id":"29", "visible":"true" }, { "id":"30", "visible":"true" }, { "id":"31", "visible":"true" }, { "id":"32", "visible":"true" }, { "id":"33", "visible":"true" }, { "id":"34", "visible":"true" }, { "id":"35", "visible":"true" }, { "id":"36", "visible":"true" }, { "id":"37", "visible":"true" }, { "id":"38", "visible":"true" }, { "id":"39", "visible":"true" }, { "id":"40", "visible":"true" }, { "id":"41", "visible":"true" }, { "id":"42", "visible":"true" }, { "id":"43", "visible":"true" }, { "id":"44", "visible":"true" }, { "id":"45", "visible":"true" }, { "id":"46", "visible":"true" }, { "id":"47", "visible":"true" }, { "id":"48", "visible":"true" }, { "id":"49", "visible":"true" }, { "id":"50", "visible":"true" }, { "id":"51", "visible":"true" }, { "id":"52", "visible":"true" }, { "id":"53", "visible":"true" }, { "id":"54", "visible":"true" }, { "id":"55", "visible":"true" }, { "id":"56", "visible":"true" }, { "id":"57", "visible":"true" }, { "id":"58", "visible":"true" }, { "id":"59", "visible":"true" }, { "id":"60", "visible":"true" }, { "id":"61", "visible":"true" }, { "id":"62", "visible":"true" }, { "id":"63", "visible":"true" }, { "id":"64", "visible":"true" }, { "id":"65", "visible":"true" }, { "id":"66", "visible":"true" }, { "id":"67", "visible":"true" }, { "id":"68", "visible":"true" }, { "id":"69", "visible":"true" }, { "id":"70", "visible":"true" }, { "id":"71", "visible":"true" }, { "id":"72", "visible":"true" }, { "id":"73", "visible":"true" }, { "id":"74", "visible":"true" }, { "id":"75", "visible":"true" }, { "id":"76", "visible":"true" }, { "id":"77", "visible":"true" }, { "id":"78", "visible":"true" }, { "id":"79", "visible":"true" }, { "id":"80", "visible":"true" }, { "id":"81", "visible":"true" }, { "id":"82", "visible":"true" }, { "id":"83", "visible":"true" }, { "id":"84", "visible":"true" }, { "id":"85", "visible":"true" }, { "id":"86", "visible":"true" }, { "id":"87", "visible":"true" }, { "id":"88", "visible":"true" }, { "id":"89", "visible":"true" }, { "id":"90", "visible":"true" }, { "id":"91", "visible":"true" }, { "id":"92", "visible":"true" }, { "id":"93", "visible":"true" }, { "id":"94", "visible":"true" }, { "id":"95", "visible":"true" }, { "id":"96", "visible":"true" }, { "id":"97", "visible":"true" }, { "id":"98", "visible":"true" }, { "id":"99", "visible":"true" }, { "id":"100", "visible":"true" }, { "id":"101", "visible":"true" }, { "id":"102", "visible":"true" }, { "id":"103", "visible":"true" }, { "id":"104", "visible":"true" }, { "id":"105", "visible":"true" }, { "id":"106", "visible":"true" }, { "id":"107", "visible":"true" }, { "id":"108", "visible":"true" }, { "id":"109", "visible":"true" }, { "id":"110", "visible":"true" }, { "id":"111", "visible":"true" }, { "id":"112", "visible":"true" }, { "id":"113", "visible":"true" }, { "id":"114", "visible":"true" }, { "id":"115", "visible":"true" }, { "id":"116", "visible":"true" }, { "id":"117", "visible":"true" }, { "id":"118", "visible":"true" }, { "id":"119", "visible":"true" }, { "id":"120", "visible":"true" }, { "id":"121", "visible":"true" }, { "id":"122", "visible":"true" }, { "id":"123", "visible":"true" }, { "id":"124", "visible":"true" }, { "id":"125", "visible":"true" }, { "id":"126", "visible":"true" }, { "id":"127", "visible":"true" }, { "id":"128", "visible":"true" }, { "id":"129", "visible":"true" }, { "id":"130", "visible":"true" }, { "id":"131", "visible":"true" }, { "id":"132", "visible":"true" }, { "id":"133", "visible":"true" }, { "id":"134", "visible":"true" }, { "id":"135", "visible":"true" }, { "id":"136", "visible":"true" }, { "id":"137", "visible":"true" }, { "id":"138", "visible":"true" }, { "id":"139", "visible":"true" }, { "id":"140", "visible":"true" }, { "id":"141", "visible":"true" }, { "id":"142", "visible":"true" }, { "id":"143", "visible":"true" }, { "id":"144", "visible":"true" }, { "id":"145", "visible":"true" }, { "id":"146", "visible":"true" }, { "id":"147", "visible":"true" }, { "id":"148", "visible":"true" }, { "id":"149", "visible":"true" }, { "id":"150", "visible":"true" }, { "id":"151", "visible":"true" }, { "id":"152", "visible":"true" }, { "id":"153", "visible":"true" }, { "id":"154", "visible":"true" }, { "id":"155", "visible":"true" }, { "id":"156", "visible":"true" }, { "id":"157", "visible":"true" }, { "id":"158", "visible":"true" }, { "id":"159", "visible":"true" }, { "id":"160", "visible":"true" }, { "id":"161", "visible":"true" }, { "id":"162", "visible":"true" }, { "id":"163", "visible":"true" }, { "id":"164", "visible":"true" }, { "id":"165", "visible":"true" }, { "id":"166", "visible":"true" }, { "id":"167", "visible":"true" }, { "id":"168", "visible":"true" }, { "id":"169", "visible":"true" }, { "id":"170", "visible":"true" }, { "id":"171", "visible":"true" }, { "id":"172", "visible":"true" }, { "id":"173", "visible":"true" }, { "id":"174", "visible":"true" }, { "id":"175", "visible":"true" }, { "id":"176", "visible":"true" }, { "id":"177", "visible":"true" }, { "id":"178", "visible":"true" }, { "id":"179", "visible":"true" } ]
+C{ "id":"0", "color":"verde" }
+C{ "id":"0", "color":"azul" }
+C{ "id":"1", "color":"verde" }
+C{ "id":"1", "color":"azul" }
+C{ "id":"2", "color":"verde" }
+C{ "id":"2", "color":"azul" }
+C{ "id":"3", "color":"verde" }
+C{ "id":"3", "color":"azul" }
+C{ "id":"4", "color":"verde" }
+C{ "id":"4", "color":"azul" }
+C{ "id":"5", "color":"verde" }
+C{ "id":"5", "color":"azul" }
+C{ "id":"6", "color":"verde" }
+C{ "id":"6", "color":"azul" }
+C{ "id":"7", "color":"verde" }
+C{ "id":"7", "color":"azul" }
+C{ "id":"8", "color":"verde" }
+C{ "id":"8", "color":"azul" }
+C{ "id":"9", "color":"verde" }
+C{ "id":"9", "color":"azul" }
+C{ "id":"10", "color":"verde" }
+C{ "id":"10", "color":"azul" }
+C{ "id":"11", "color":"verde" }
+C{ "id":"11", "color":"azul" }
+C{ "id":"12", "color":"verde" }
+C{ "id":"12", "color":"azul" }
+C{ "id":"13", "color":"verde" }
+C{ "id":"13", "color":"azul" }
+C{ "id":"14", "color":"verde" }
+C{ "id":"14", "color":"azul" }
+C{ "id":"15", "color":"verde" }
+C{ "id":"15", "color":"azul" }
+C{ "id":"16", "color":"verde" }
+C{ "id":"16", "color":"azul" }
+C{ "id":"17", "color":"verde" }
+C{ "id":"17", "color":"azul" }
+C{ "id":"18", "color":"verde" }
+C{ "id":"18", "color":"azul" }
+C{ "id":"19", "color":"verde" }
+C{ "id":"19", "color":"azul" }
+C{ "id":"20", "color":"verde" }
+C{ "id":"20", "color":"azul" }
+C{ "id":"21", "color":"verde" }
+C{ "id":"21", "color":"azul" }
+C{ "id":"22", "color":"verde" }
+C{ "id":"22", "color":"azul" }
+C{ "id":"23", "color":"verde" }
+C{ "id":"23", "color":"azul" }
+C{ "id":"24", "color":"verde" }
+C{ "id":"24", "color":"azul" }
+C{ "id":"25", "color":"verde" }
+C{ "id":"25", "color":"azul" }
+C{ "id":"26", "color":"verde" }
+C{ "id":"26", "color":"azul" }
+C{ "id":"27", "color":"verde" }
+C{ "id":"27", "color":"azul" }
+C{ "id":"28", "color":"verde" }
+C{ "id":"28", "color":"azul" }
+C{ "id":"29", "color":"verde" }
+C{ "id":"29", "color":"azul" }
+C{ "id":"30", "color":"verde" }
+C{ "id":"30", "color":"azul" }
+C{ "id":"31", "color":"verde" }
+C{ "id":"31", "color":"azul" }
+C{ "id":"32", "color":"verde" }
+C{ "id":"32", "color":"azul" }
+C{ "id":"33", "color":"verde" }
+C{ "id":"33", "color":"azul" }
+C{ "id":"34", "color":"verde" }
+C{ "id":"34", "color":"azul" }
+C{ "id":"35", "color":"verde" }
+C{ "id":"35", "color":"azul" }
+C{ "id":"36", "color":"verde" }
+C{ "id":"36", "color":"azul" }
+C{ "id":"37", "color":"verde" }
+C{ "id":"37", "color":"azul" }
+C{ "id":"38", "color":"verde" }
+C{ "id":"38", "color":"azul" }
+C{ "id":"39", "color":"verde" }
+C{ "id":"39", "color":"azul" }
+C{ "id":"40", "color":"verde" }
+C{ "id":"40", "color":"azul" }
+C{ "id":"41", "color":"verde" }
+C{ "id":"41", "color":"azul" }
+C{ "id":"42", "color":"verde" }
+C{ "id":"42", "color":"azul" }
+C{ "id":"43", "color":"verde" }
+C{ "id":"43", "color":"azul" }
+C{ "id":"44", "color":"verde" }
+C{ "id":"44", "color":"azul" }
+C{ "id":"45", "color":"verde" }
+C{ "id":"45", "color":"azul" }
+C{ "id":"46", "color":"verde" }
+C{ "id":"46", "color":"azul" }
+C{ "id":"47", "color":"verde" }
+C{ "id":"47", "color":"azul" }
+C{ "id":"48", "color":"verde" }
+C{ "id":"48", "color":"azul" }
+C{ "id":"49", "color":"verde" }
+C{ "id":"49", "color":"azul" }
+C{ "id":"50", "color":"verde" }
+C{ "id":"50", "color":"azul" }
+C{ "id":"51", "color":"verde" }
+C{ "id":"51", "color":"azul" }
+C{ "id":"52", "color":"verde" }
+C{ "id":"52", "color":"azul" }
+C{ "id":"53", "color":"verde" }
+C{ "id":"53", "color":"azul" }
+C{ "id":"54", "color":"verde" }
+C{ "id":"54", "color":"azul" }
+C{ "id":"55", "color":"verde" }
+C{ "id":"55", "color":"azul" }
+C{ "id":"56", "color":"verde" }
+C{ "id":"56", "color":"azul" }
+C{ "id":"57", "color":"verde" }
+C{ "id":"57", "color":"azul" }
+C{ "id":"58", "color":"verde" }
+C{ "id":"58", "color":"azul" }
+C{ "id":"59", "color":"verde" }
+C{ "id":"59", "color":"azul" }
+C{ "id":"60", "color":"verde" }
+C{ "id":"60", "color":"azul" }
+C{ "id":"61", "color":"verde" }
+C{ "id":"61", "color":"azul" }
+C{ "id":"62", "color":"verde" }
+C{ "id":"62", "color":"azul" }
+C{ "id":"63", "color":"verde" }
+C{ "id":"63", "color":"azul" }
+C{ "id":"64", "color":"verde" }
+C{ "id":"64", "color":"azul" }
+C{ "id":"65", "color":"verde" }
+C{ "id":"65", "color":"azul" }
+C{ "id":"66", "color":"verde" }
+C{ "id":"66", "color":"azul" }
+C{ "id":"67", "color":"verde" }
+C{ "id":"67", "color":"azul" }
+C{ "id":"68", "color":"verde" }
+C{ "id":"68", "color":"azul" }
+C{ "id":"69", "color":"verde" }
+C{ "id":"69", "color":"azul" }
+C{ "id":"70", "color":"verde" }
+C{ "id":"70", "color":"azul" }
+C{ "id":"71", "color":"verde" }
+C{ "id":"71", "color":"azul" }
+C{ "id":"72", "color":"verde" }
+C{ "id":"72", "color":"azul" }
+C{ "id":"73", "color":"verde" }
+C{ "id":"73", "color":"azul" }
+C{ "id":"74", "color":"verde" }
+C{ "id":"74", "color":"azul" }
+C{ "id":"75", "color":"verde" }
+C{ "id":"75", "color":"azul" }
+C{ "id":"76", "color":"verde" }
+C{ "id":"76", "color":"azul" }
+C{ "id":"77", "color":"verde" }
+C{ "id":"77", "color":"azul" }
+C{ "id":"78", "color":"verde" }
+C{ "id":"78", "color":"azul" }
+C{ "id":"79", "color":"verde" }
+C{ "id":"79", "color":"azul" }
+C{ "id":"80", "color":"verde" }
+C{ "id":"80", "color":"azul" }
+C{ "id":"81", "color":"verde" }
+C{ "id":"81", "color":"azul" }
+C{ "id":"82", "color":"verde" }
+C{ "id":"82", "color":"azul" }
+C{ "id":"83", "color":"verde" }
+C{ "id":"83", "color":"azul" }
+C{ "id":"84", "color":"verde" }
+C{ "id":"84", "color":"azul" }
+C{ "id":"85", "color":"verde" }
+C{ "id":"85", "color":"azul" }
+C{ "id":"86", "color":"verde" }
+C{ "id":"86", "color":"azul" }
+C{ "id":"87", "color":"verde" }
+C{ "id":"87", "color":"azul" }
+C{ "id":"88", "color":"verde" }
+C{ "id":"88", "color":"azul" }
+C{ "id":"89", "color":"verde" }
+C{ "id":"89", "color":"azul" }
+C{ "id":"90", "color":"verde" }
+C{ "id":"90", "color":"azul" }
+C{ "id":"91", "color":"verde" }
+C{ "id":"91", "color":"azul" }
+C{ "id":"92", "color":"verde" }
+C{ "id":"92", "color":"azul" }
+C{ "id":"93", "color":"verde" }
+C{ "id":"93", "color":"azul" }
+C{ "id":"94", "color":"verde" }
+C{ "id":"94", "color":"azul" }
+C{ "id":"95", "color":"verde" }
+C{ "id":"95", "color":"azul" }
+C{ "id":"96", "color":"verde" }
+C{ "id":"96", "color":"azul" }
+C{ "id":"97", "color":"verde" }
+C{ "id":"97", "color":"azul" }
+C{ "id":"98", "color":"verde" }
+C{ "id":"98", "color":"azul" }
+C{ "id":"99", "color":"verde" }
+C{ "id":"99", "color":"azul" }
+C{ "id":"100", "color":"verde" }
+C{ "id":"100", "color":"azul" }
+C{ "id":"101", "color":"verde" }
+C{ "id":"101", "color":"azul" }
+C{ "id":"102", "color":"verde" }
+C{ "id":"102", "color":"azul" }
+C{ "id":"103", "color":"verde" }
+C{ "id":"103", "color":"azul" }
+C{ "id":"104", "color":"verde" }
+C{ "id":"104", "color":"azul" }
+C{ "id":"105", "color":"verde" }
+C{ "id":"105", "color":"azul" }
+C{ "id":"106", "color":"verde" }
+C{ "id":"106", "color":"azul" }
+C{ "id":"107", "color":"verde" }
+C{ "id":"107", "color":"azul" }
+C{ "id":"108", "color":"verde" }
+C{ "id":"108", "color":"azul" }
+C{ "id":"109", "color":"verde" }
+C{ "id":"109", "color":"azul" }
+C{ "id":"110", "color":"verde" }
+C{ "id":"110", "color":"azul" }
+C{ "id":"111", "color":"verde" }
+C{ "id":"111", "color":"azul" }
+C{ "id":"112", "color":"verde" }
+21/04/2017 03:44:32 p.m.;-0,5019616;-0,7757926;-14,3868;-13,89317;112;SEL
+Eligió la: 112
+C{ "id":"112", "color":"azul" }
+HS[ { "id":"0", "visible":"false" }, { "id":"1", "visible":"false" }, { "id":"2", "visible":"false" }, { "id":"3", "visible":"false" }, { "id":"4", "visible":"false" }, { "id":"5", "visible":"false" }, { "id":"6", "visible":"false" }, { "id":"7", "visible":"false" }, { "id":"8", "visible":"false" }, { "id":"9", "visible":"false" }, { "id":"10", "visible":"false" }, { "id":"11", "visible":"false" }, { "id":"12", "visible":"false" }, { "id":"13", "visible":"false" }, { "id":"14", "visible":"false" }, { "id":"15", "visible":"false" }, { "id":"16", "visible":"false" }, { "id":"17", "visible":"false" }, { "id":"18", "visible":"false" }, { "id":"19", "visible":"false" }, { "id":"20", "visible":"false" }, { "id":"21", "visible":"false" }, { "id":"22", "visible":"false" }, { "id":"23", "visible":"false" }, { "id":"24", "visible":"false" }, { "id":"25", "visible":"false" }, { "id":"26", "visible":"false" }, { "id":"27", "visible":"false" }, { "id":"28", "visible":"false" }, { "id":"29", "visible":"false" }, { "id":"30", "visible":"false" }, { "id":"31", "visible":"false" }, { "id":"32", "visible":"false" }, { "id":"33", "visible":"false" }, { "id":"34", "visible":"false" }, { "id":"35", "visible":"false" }, { "id":"36", "visible":"false" }, { "id":"37", "visible":"false" }, { "id":"38", "visible":"false" }, { "id":"39", "visible":"false" }, { "id":"40", "visible":"false" }, { "id":"41", "visible":"false" }, { "id":"42", "visible":"false" }, { "id":"43", "visible":"false" }, { "id":"44", "visible":"false" }, { "id":"45", "visible":"false" }, { "id":"46", "visible":"false" }, { "id":"47", "visible":"false" }, { "id":"48", "visible":"false" }, { "id":"49", "visible":"false" }, { "id":"50", "visible":"false" }, { "id":"51", "visible":"false" }, { "id":"52", "visible":"false" }, { "id":"53", "visible":"false" }, { "id":"54", "visible":"false" }, { "id":"55", "visible":"false" }, { "id":"56", "visible":"false" }, { "id":"57", "visible":"false" }, { "id":"58", "visible":"false" }, { "id":"59", "visible":"false" }, { "id":"60", "visible":"false" }, { "id":"61", "visible":"false" }, { "id":"62", "visible":"false" }, { "id":"63", "visible":"false" }, { "id":"64", "visible":"false" }, { "id":"65", "visible":"false" }, { "id":"66", "visible":"false" }, { "id":"67", "visible":"false" }, { "id":"68", "visible":"false" }, { "id":"69", "visible":"false" }, { "id":"70", "visible":"false" }, { "id":"71", "visible":"false" }, { "id":"72", "visible":"false" }, { "id":"73", "visible":"false" }, { "id":"74", "visible":"false" }, { "id":"75", "visible":"false" }, { "id":"76", "visible":"false" }, { "id":"77", "visible":"false" }, { "id":"78", "visible":"false" }, { "id":"79", "visible":"false" }, { "id":"80", "visible":"false" }, { "id":"81", "visible":"false" }, { "id":"82", "visible":"false" }, { "id":"83", "visible":"false" }, { "id":"84", "visible":"false" }, { "id":"85", "visible":"false" }, { "id":"86", "visible":"false" }, { "id":"87", "visible":"false" }, { "id":"88", "visible":"false" }, { "id":"89", "visible":"false" }, { "id":"90", "visible":"false" }, { "id":"91", "visible":"false" }, { "id":"92", "visible":"false" }, { "id":"93", "visible":"false" }, { "id":"94", "visible":"false" }, { "id":"95", "visible":"false" }, { "id":"96", "visible":"false" }, { "id":"97", "visible":"false" }, { "id":"98", "visible":"false" }, { "id":"99", "visible":"false" }, { "id":"100", "visible":"false" }, { "id":"101", "visible":"false" }, { "id":"102", "visible":"false" }, { "id":"103", "visible":"false" }, { "id":"104", "visible":"false" }, { "id":"105", "visible":"false" }, { "id":"106", "visible":"false" }, { "id":"107", "visible":"false" }, { "id":"108", "visible":"false" }, { "id":"109", "visible":"false" }, { "id":"110", "visible":"false" }, { "id":"111", "visible":"false" }, { "id":"112", "visible":"false" }, { "id":"113", "visible":"false" }, { "id":"114", "visible":"false" }, { "id":"115", "visible":"false" }, { "id":"116", "visible":"false" }, { "id":"117", "visible":"false" }, { "id":"118", "visible":"false" }, { "id":"119", "visible":"false" }, { "id":"120", "visible":"false" }, { "id":"121", "visible":"false" }, { "id":"122", "visible":"false" }, { "id":"123", "visible":"false" }, { "id":"124", "visible":"false" }, { "id":"125", "visible":"false" }, { "id":"126", "visible":"false" }, { "id":"127", "visible":"false" }, { "id":"128", "visible":"false" }, { "id":"129", "visible":"false" }, { "id":"130", "visible":"false" }, { "id":"131", "visible":"false" }, { "id":"132", "visible":"false" }, { "id":"133", "visible":"false" }, { "id":"134", "visible":"false" }, { "id":"135", "visible":"false" }, { "id":"136", "visible":"false" }, { "id":"137", "visible":"false" }, { "id":"138", "visible":"false" }, { "id":"139", "visible":"false" }, { "id":"140", "visible":"false" }, { "id":"141", "visible":"false" }, { "id":"142", "visible":"false" }, { "id":"143", "visible":"false" }, { "id":"144", "visible":"false" }, { "id":"145", "visible":"false" }, { "id":"146", "visible":"false" }, { "id":"147", "visible":"false" }, { "id":"148", "visible":"false" }, { "id":"149", "visible":"false" }, { "id":"150", "visible":"false" }, { "id":"151", "visible":"false" }, { "id":"152", "visible":"false" }, { "id":"153", "visible":"false" }, { "id":"154", "visible":"false" }, { "id":"155", "visible":"false" }, { "id":"156", "visible":"false" }, { "id":"157", "visible":"false" }, { "id":"158", "visible":"false" }, { "id":"159", "visible":"false" }, { "id":"160", "visible":"false" }, { "id":"161", "visible":"false" }, { "id":"162", "visible":"false" }, { "id":"163", "visible":"false" }, { "id":"164", "visible":"false" }, { "id":"165", "visible":"false" }, { "id":"166", "visible":"false" }, { "id":"167", "visible":"false" }, { "id":"168", "visible":"false" }, { "id":"169", "visible":"false" }, { "id":"170", "visible":"false" }, { "id":"171", "visible":"false" }, { "id":"172", "visible":"false" }, { "id":"173", "visible":"false" }, { "id":"174", "visible":"false" }, { "id":"175", "visible":"false" }, { "id":"176", "visible":"false" }, { "id":"177", "visible":"false" }, { "id":"178", "visible":"false" }, { "id":"179", "visible":"false" } ]
+hide_question
+Q{ "text":"Terminar Experimento?" }
+hide_question
+M{ "x":"6", "y":"6" }
+21/04/2017 03:44:37 p.m.;-0,2259206;-0,7752416;-14,3868;-13,89317;112;CRUZ
+21/04/2017 03:44:38 p.m.;-0,1971643;-1,27561;-14,3868;-13,89317;112;CRUZ
+21/04/2017 03:44:39 p.m.;0,4287464;-2,29594;-14,3868;-13,89317;112;CRUZ
+21/04/2017 03:44:40 p.m.;0,9428627;-2,472663;-14,3868;-13,89317;112;CRUZ
+21/04/2017 03:44:41 p.m.;1,356229;-2,973334;-14,3868;-13,89317;112;CRUZ
+21/04/2017 03:44:42 p.m.;1,278688;-2,455966;-14,3868;-13,89317;112;CRUZ
+21/04/2017 03:44:43 p.m.;1,50323;-1,433353;-14,3868;-13,89317;112;CRUZ
+21/04/2017 03:44:43 p.m.;1,60068;-0,4052801;-14,3868;-13,89317;112;CRUZ
+21/04/2017 03:44:44 p.m.;1,715009;0,6157844;-14,3868;-13,89317;112;CRUZ
+21/04/2017 03:44:45 p.m.;2,505006;1,558733;-14,3868;-13,89317;112;CRUZ
+21/04/2017 03:44:45 p.m.;3,334307;2,551308;-14,3868;-13,89317;112;CRUZ
+21/04/2017 03:44:46 p.m.;4,209698;3,568513;-14,3868;-13,89317;112;CRUZ
+21/04/2017 03:44:47 p.m.;4,912576;4,580323;-14,3868;-13,89317;112;CRUZ
+21/04/2017 03:44:47 p.m.;5,676694;5,592128;-14,3868;-13,89317;112;CRUZ
+21/04/2017 03:44:47 p.m.;5,676694;5,592128;NULL;NULL;NULL;DET
+X{ "value":"rojo" }
+X{ "value":"negro" }
+hide_question
+H{ "id":"122", "visible":"true" }
+21/04/2017 03:45:06 p.m.;4,166759;5,225953;NULL;NULL;NULL;BUS
+21/04/2017 03:45:06 p.m.;3,44059;4,192724;NULL;NULL;NULL;BUS
+21/04/2017 03:45:07 p.m.;2,952504;3,176381;NULL;NULL;NULL;BUS
+21/04/2017 03:45:08 p.m.;2,411887;2,165241;NULL;NULL;NULL;BUS
+21/04/2017 03:45:08 p.m.;1,824501;1,152994;NULL;NULL;NULL;BUS
+21/04/2017 03:45:09 p.m.;1,237171;0,1409069;NULL;NULL;NULL;BUS
+21/04/2017 03:45:09 p.m.;0,6688924;-0,8848544;NULL;NULL;NULL;BUS
+21/04/2017 03:45:10 p.m.;0,0835115;-1,894143;NULL;NULL;NULL;BUS
+21/04/2017 03:45:11 p.m.;-0,5035741;-2,905986;NULL;NULL;NULL;BUS
+21/04/2017 03:45:11 p.m.;-1,090837;-3,917423;NULL;NULL;NULL;BUS
+21/04/2017 03:45:12 p.m.;-1,677187;-4,928792;NULL;NULL;NULL;BUS
+21/04/2017 03:45:12 p.m.;-2,233842;-5,958091;NULL;NULL;NULL;BUS
+21/04/2017 03:45:13 p.m.;-2,788424;-6,988154;NULL;NULL;NULL;BUS
+21/04/2017 03:45:14 p.m.;-3,338929;-8,019816;NULL;NULL;NULL;BUS
+21/04/2017 03:45:14 p.m.;-3,889542;-9,053441;NULL;NULL;NULL;BUS
+21/04/2017 03:45:15 p.m.;-4,440112;-10,0871;NULL;NULL;NULL;BUS
+21/04/2017 03:45:15 p.m.;-4,990489;-11,11999;NULL;NULL;NULL;BUS
+21/04/2017 03:45:16 p.m.;-5,540611;-12,15205;NULL;NULL;NULL;BUS
+21/04/2017 03:45:17 p.m.;-6,102606;-13,17736;NULL;NULL;NULL;BUS
+21/04/2017 03:45:17 p.m.;-6,67726;-14,19624;NULL;NULL;NULL;BUS
+21/04/2017 03:45:18 p.m.;-7,252438;-15,21597;NULL;NULL;NULL;BUS
+21/04/2017 03:45:18 p.m.;-7,827322;-16,23555;NULL;NULL;NULL;BUS
+21/04/2017 03:45:19 p.m.;-8,402402;-17,25517;NULL;NULL;NULL;BUS
+H{ "id":"122", "visible":"false" }
+21/04/2017 03:45:19 p.m.;-8,402402;-17,25517;-8,767423;-17,97588;122;CAP
+21/04/2017 03:45:30 p.m.;-8,180393;-18,17438;NULL;NULL;NULL;CEN
+21/04/2017 03:45:30 p.m.;-7,154462;-18,33049;NULL;NULL;NULL;CEN
+21/04/2017 03:45:31 p.m.;-5,62305;-18,26;NULL;NULL;NULL;CEN
+21/04/2017 03:45:32 p.m.;-4,084254;-17,87927;NULL;NULL;NULL;CEN
+21/04/2017 03:45:32 p.m.;-3,060955;-17,56193;NULL;NULL;NULL;CEN
+21/04/2017 03:45:33 p.m.;-2,040254;-16,82969;NULL;NULL;NULL;CEN
+21/04/2017 03:45:34 p.m.;-1,02757;-16,23304;NULL;NULL;NULL;CEN
+21/04/2017 03:45:34 p.m.;-0,6187966;-15,22084;NULL;NULL;NULL;CEN
+21/04/2017 03:45:35 p.m.;-0,1678788;-14,21276;NULL;NULL;NULL;CEN
+21/04/2017 03:45:35 p.m.;0,1408826;-13,19945;NULL;NULL;NULL;CEN
+21/04/2017 03:45:36 p.m.;0,4118954;-12,19658;NULL;NULL;NULL;CEN
+21/04/2017 03:45:36 p.m.;0,6426173;-11,18227;NULL;NULL;NULL;CEN
+21/04/2017 03:45:37 p.m.;0,8698715;-10,17149;NULL;NULL;NULL;CEN
+21/04/2017 03:45:37 p.m.;1,124473;-9,163644;NULL;NULL;NULL;CEN
+21/04/2017 03:45:38 p.m.;1,397916;-8,161192;NULL;NULL;NULL;CEN
+21/04/2017 03:45:39 p.m.;1,67362;-7,157992;NULL;NULL;NULL;CEN
+21/04/2017 03:45:39 p.m.;1,951788;-6,154432;NULL;NULL;NULL;CEN
+21/04/2017 03:45:40 p.m.;2,230463;-5,149057;NULL;NULL;NULL;CEN
+21/04/2017 03:45:40 p.m.;2,509125;-4,145962;NULL;NULL;NULL;CEN
+21/04/2017 03:45:41 p.m.;2,788109;-3,142482;NULL;NULL;NULL;CEN
+21/04/2017 03:45:41 p.m.;3,092436;-2,103746;NULL;NULL;NULL;CEN
+21/04/2017 03:45:42 p.m.;3,422587;-1,071272;NULL;NULL;NULL;CEN
+21/04/2017 03:45:42 p.m.;3,750764;-0,04576388;NULL;NULL;NULL;CEN
+21/04/2017 03:45:43 p.m.;4,100611;0,9792741;NULL;NULL;NULL;CEN
+21/04/2017 03:45:43 p.m.;4,452112;2,004766;NULL;NULL;NULL;CEN
+21/04/2017 03:45:44 p.m.;4,831802;3,017179;NULL;NULL;NULL;CEN
+21/04/2017 03:45:45 p.m.;5,267312;4,056363;NULL;NULL;NULL;CEN
+21/04/2017 03:45:45 p.m.;5,701661;5,091794;NULL;NULL;NULL;CEN
+Q{ "text":"Marca la bandera que recolectaste." }
+HS[ { "id":"0", "visible":"true" }, { "id":"1", "visible":"true" }, { "id":"2", "visible":"true" }, { "id":"3", "visible":"true" }, { "id":"4", "visible":"true" }, { "id":"5", "visible":"true" }, { "id":"6", "visible":"true" }, { "id":"7", "visible":"true" }, { "id":"8", "visible":"true" }, { "id":"9", "visible":"true" }, { "id":"10", "visible":"true" }, { "id":"11", "visible":"true" }, { "id":"12", "visible":"true" }, { "id":"13", "visible":"true" }, { "id":"14", "visible":"true" }, { "id":"15", "visible":"true" }, { "id":"16", "visible":"true" }, { "id":"17", "visible":"true" }, { "id":"18", "visible":"true" }, { "id":"19", "visible":"true" }, { "id":"20", "visible":"true" }, { "id":"21", "visible":"true" }, { "id":"22", "visible":"true" }, { "id":"23", "visible":"true" }, { "id":"24", "visible":"true" }, { "id":"25", "visible":"true" }, { "id":"26", "visible":"true" }, { "id":"27", "visible":"true" }, { "id":"28", "visible":"true" }, { "id":"29", "visible":"true" }, { "id":"30", "visible":"true" }, { "id":"31", "visible":"true" }, { "id":"32", "visible":"true" }, { "id":"33", "visible":"true" }, { "id":"34", "visible":"true" }, { "id":"35", "visible":"true" }, { "id":"36", "visible":"true" }, { "id":"37", "visible":"true" }, { "id":"38", "visible":"true" }, { "id":"39", "visible":"true" }, { "id":"40", "visible":"true" }, { "id":"41", "visible":"true" }, { "id":"42", "visible":"true" }, { "id":"43", "visible":"true" }, { "id":"44", "visible":"true" }, { "id":"45", "visible":"true" }, { "id":"46", "visible":"true" }, { "id":"47", "visible":"true" }, { "id":"48", "visible":"true" }, { "id":"49", "visible":"true" }, { "id":"50", "visible":"true" }, { "id":"51", "visible":"true" }, { "id":"52", "visible":"true" }, { "id":"53", "visible":"true" }, { "id":"54", "visible":"true" }, { "id":"55", "visible":"true" }, { "id":"56", "visible":"true" }, { "id":"57", "visible":"true" }, { "id":"58", "visible":"true" }, { "id":"59", "visible":"true" }, { "id":"60", "visible":"true" }, { "id":"61", "visible":"true" }, { "id":"62", "visible":"true" }, { "id":"63", "visible":"true" }, { "id":"64", "visible":"true" }, { "id":"65", "visible":"true" }, { "id":"66", "visible":"true" }, { "id":"67", "visible":"true" }, { "id":"68", "visible":"true" }, { "id":"69", "visible":"true" }, { "id":"70", "visible":"true" }, { "id":"71", "visible":"true" }, { "id":"72", "visible":"true" }, { "id":"73", "visible":"true" }, { "id":"74", "visible":"true" }, { "id":"75", "visible":"true" }, { "id":"76", "visible":"true" }, { "id":"77", "visible":"true" }, { "id":"78", "visible":"true" }, { "id":"79", "visible":"true" }, { "id":"80", "visible":"true" }, { "id":"81", "visible":"true" }, { "id":"82", "visible":"true" }, { "id":"83", "visible":"true" }, { "id":"84", "visible":"true" }, { "id":"85", "visible":"true" }, { "id":"86", "visible":"true" }, { "id":"87", "visible":"true" }, { "id":"88", "visible":"true" }, { "id":"89", "visible":"true" }, { "id":"90", "visible":"true" }, { "id":"91", "visible":"true" }, { "id":"92", "visible":"true" }, { "id":"93", "visible":"true" }, { "id":"94", "visible":"true" }, { "id":"95", "visible":"true" }, { "id":"96", "visible":"true" }, { "id":"97", "visible":"true" }, { "id":"98", "visible":"true" }, { "id":"99", "visible":"true" }, { "id":"100", "visible":"true" }, { "id":"101", "visible":"true" }, { "id":"102", "visible":"true" }, { "id":"103", "visible":"true" }, { "id":"104", "visible":"true" }, { "id":"105", "visible":"true" }, { "id":"106", "visible":"true" }, { "id":"107", "visible":"true" }, { "id":"108", "visible":"true" }, { "id":"109", "visible":"true" }, { "id":"110", "visible":"true" }, { "id":"111", "visible":"true" }, { "id":"112", "visible":"true" }, { "id":"113", "visible":"true" }, { "id":"114", "visible":"true" }, { "id":"115", "visible":"true" }, { "id":"116", "visible":"true" }, { "id":"117", "visible":"true" }, { "id":"118", "visible":"true" }, { "id":"119", "visible":"true" }, { "id":"120", "visible":"true" }, { "id":"121", "visible":"true" }, { "id":"122", "visible":"true" }, { "id":"123", "visible":"true" }, { "id":"124", "visible":"true" }, { "id":"125", "visible":"true" }, { "id":"126", "visible":"true" }, { "id":"127", "visible":"true" }, { "id":"128", "visible":"true" }, { "id":"129", "visible":"true" }, { "id":"130", "visible":"true" }, { "id":"131", "visible":"true" }, { "id":"132", "visible":"true" }, { "id":"133", "visible":"true" }, { "id":"134", "visible":"true" }, { "id":"135", "visible":"true" }, { "id":"136", "visible":"true" }, { "id":"137", "visible":"true" }, { "id":"138", "visible":"true" }, { "id":"139", "visible":"true" }, { "id":"140", "visible":"true" }, { "id":"141", "visible":"true" }, { "id":"142", "visible":"true" }, { "id":"143", "visible":"true" }, { "id":"144", "visible":"true" }, { "id":"145", "visible":"true" }, { "id":"146", "visible":"true" }, { "id":"147", "visible":"true" }, { "id":"148", "visible":"true" }, { "id":"149", "visible":"true" }, { "id":"150", "visible":"true" }, { "id":"151", "visible":"true" }, { "id":"152", "visible":"true" }, { "id":"153", "visible":"true" }, { "id":"154", "visible":"true" }, { "id":"155", "visible":"true" }, { "id":"156", "visible":"true" }, { "id":"157", "visible":"true" }, { "id":"158", "visible":"true" }, { "id":"159", "visible":"true" }, { "id":"160", "visible":"true" }, { "id":"161", "visible":"true" }, { "id":"162", "visible":"true" }, { "id":"163", "visible":"true" }, { "id":"164", "visible":"true" }, { "id":"165", "visible":"true" }, { "id":"166", "visible":"true" }, { "id":"167", "visible":"true" }, { "id":"168", "visible":"true" }, { "id":"169", "visible":"true" }, { "id":"170", "visible":"true" }, { "id":"171", "visible":"true" }, { "id":"172", "visible":"true" }, { "id":"173", "visible":"true" }, { "id":"174", "visible":"true" }, { "id":"175", "visible":"true" }, { "id":"176", "visible":"true" }, { "id":"177", "visible":"true" }, { "id":"178", "visible":"true" }, { "id":"179", "visible":"true" } ]
+C{ "id":"0", "color":"verde" }
+C{ "id":"0", "color":"azul" }
+C{ "id":"1", "color":"verde" }
+C{ "id":"1", "color":"azul" }
+C{ "id":"0", "color":"verde" }
+C{ "id":"0", "color":"azul" }
+C{ "id":"179", "color":"verde" }
+C{ "id":"179", "color":"azul" }
+C{ "id":"178", "color":"verde" }
+C{ "id":"178", "color":"azul" }
+C{ "id":"177", "color":"verde" }
+C{ "id":"177", "color":"azul" }
+C{ "id":"176", "color":"verde" }
+C{ "id":"176", "color":"azul" }
+C{ "id":"175", "color":"verde" }
+C{ "id":"175", "color":"azul" }
+C{ "id":"174", "color":"verde" }
+C{ "id":"174", "color":"azul" }
+C{ "id":"173", "color":"verde" }
+C{ "id":"173", "color":"azul" }
+C{ "id":"172", "color":"verde" }
+C{ "id":"172", "color":"azul" }
+C{ "id":"171", "color":"verde" }
+C{ "id":"171", "color":"azul" }
+C{ "id":"170", "color":"verde" }
+C{ "id":"170", "color":"azul" }
+C{ "id":"169", "color":"verde" }
+C{ "id":"169", "color":"azul" }
+C{ "id":"168", "color":"verde" }
+C{ "id":"168", "color":"azul" }
+C{ "id":"167", "color":"verde" }
+C{ "id":"167", "color":"azul" }
+C{ "id":"166", "color":"verde" }
+C{ "id":"166", "color":"azul" }
+C{ "id":"165", "color":"verde" }
+C{ "id":"165", "color":"azul" }
+C{ "id":"164", "color":"verde" }
+C{ "id":"164", "color":"azul" }
+C{ "id":"163", "color":"verde" }
+C{ "id":"163", "color":"azul" }
+C{ "id":"162", "color":"verde" }
+C{ "id":"162", "color":"azul" }
+C{ "id":"161", "color":"verde" }
+C{ "id":"161", "color":"azul" }
+C{ "id":"160", "color":"verde" }
+C{ "id":"160", "color":"azul" }
+C{ "id":"159", "color":"verde" }
+C{ "id":"159", "color":"azul" }
+C{ "id":"158", "color":"verde" }
+C{ "id":"158", "color":"azul" }
+C{ "id":"157", "color":"verde" }
+C{ "id":"157", "color":"azul" }
+C{ "id":"156", "color":"verde" }
+C{ "id":"156", "color":"azul" }
+C{ "id":"155", "color":"verde" }
+C{ "id":"155", "color":"azul" }
+C{ "id":"154", "color":"verde" }
+C{ "id":"154", "color":"azul" }
+C{ "id":"153", "color":"verde" }
+C{ "id":"153", "color":"azul" }
+C{ "id":"152", "color":"verde" }
+C{ "id":"152", "color":"azul" }
+C{ "id":"151", "color":"verde" }
+C{ "id":"151", "color":"azul" }
+C{ "id":"150", "color":"verde" }
+C{ "id":"150", "color":"azul" }
+C{ "id":"149", "color":"verde" }
+C{ "id":"149", "color":"azul" }
+C{ "id":"148", "color":"verde" }
+C{ "id":"148", "color":"azul" }
+C{ "id":"147", "color":"verde" }
+C{ "id":"147", "color":"azul" }
+C{ "id":"146", "color":"verde" }
+C{ "id":"146", "color":"azul" }
+C{ "id":"145", "color":"verde" }
+C{ "id":"145", "color":"azul" }
+C{ "id":"144", "color":"verde" }
+C{ "id":"144", "color":"azul" }
+C{ "id":"143", "color":"verde" }
+C{ "id":"143", "color":"azul" }
+C{ "id":"142", "color":"verde" }
+C{ "id":"142", "color":"azul" }
+C{ "id":"141", "color":"verde" }
+C{ "id":"141", "color":"azul" }
+C{ "id":"140", "color":"verde" }
+C{ "id":"140", "color":"azul" }
+C{ "id":"139", "color":"verde" }
+C{ "id":"139", "color":"azul" }
+C{ "id":"138", "color":"verde" }
+C{ "id":"138", "color":"azul" }
+C{ "id":"137", "color":"verde" }
+C{ "id":"137", "color":"azul" }
+C{ "id":"136", "color":"verde" }
+C{ "id":"136", "color":"azul" }
+C{ "id":"135", "color":"verde" }
+C{ "id":"135", "color":"azul" }
+C{ "id":"134", "color":"verde" }
+C{ "id":"134", "color":"azul" }
+C{ "id":"133", "color":"verde" }
+C{ "id":"133", "color":"azul" }
+C{ "id":"132", "color":"verde" }
+C{ "id":"132", "color":"azul" }
+C{ "id":"131", "color":"verde" }
+C{ "id":"131", "color":"azul" }
+C{ "id":"130", "color":"verde" }
+C{ "id":"130", "color":"azul" }
+C{ "id":"129", "color":"verde" }
+C{ "id":"129", "color":"azul" }
+C{ "id":"128", "color":"verde" }
+C{ "id":"128", "color":"azul" }
+C{ "id":"127", "color":"verde" }
+C{ "id":"127", "color":"azul" }
+C{ "id":"126", "color":"verde" }
+C{ "id":"126", "color":"azul" }
+C{ "id":"125", "color":"verde" }
+C{ "id":"125", "color":"azul" }
+C{ "id":"124", "color":"verde" }
+C{ "id":"124", "color":"azul" }
+C{ "id":"123", "color":"verde" }
+C{ "id":"123", "color":"azul" }
+C{ "id":"124", "color":"verde" }
+C{ "id":"124", "color":"azul" }
+C{ "id":"123", "color":"verde" }
+21/04/2017 03:46:14 p.m.;5,701661;5,091794;-8,134733;-18,27091;123;SEL
+Eligió la: 123
+C{ "id":"123", "color":"azul" }
+HS[ { "id":"0", "visible":"false" }, { "id":"1", "visible":"false" }, { "id":"2", "visible":"false" }, { "id":"3", "visible":"false" }, { "id":"4", "visible":"false" }, { "id":"5", "visible":"false" }, { "id":"6", "visible":"false" }, { "id":"7", "visible":"false" }, { "id":"8", "visible":"false" }, { "id":"9", "visible":"false" }, { "id":"10", "visible":"false" }, { "id":"11", "visible":"false" }, { "id":"12", "visible":"false" }, { "id":"13", "visible":"false" }, { "id":"14", "visible":"false" }, { "id":"15", "visible":"false" }, { "id":"16", "visible":"false" }, { "id":"17", "visible":"false" }, { "id":"18", "visible":"false" }, { "id":"19", "visible":"false" }, { "id":"20", "visible":"false" }, { "id":"21", "visible":"false" }, { "id":"22", "visible":"false" }, { "id":"23", "visible":"false" }, { "id":"24", "visible":"false" }, { "id":"25", "visible":"false" }, { "id":"26", "visible":"false" }, { "id":"27", "visible":"false" }, { "id":"28", "visible":"false" }, { "id":"29", "visible":"false" }, { "id":"30", "visible":"false" }, { "id":"31", "visible":"false" }, { "id":"32", "visible":"false" }, { "id":"33", "visible":"false" }, { "id":"34", "visible":"false" }, { "id":"35", "visible":"false" }, { "id":"36", "visible":"false" }, { "id":"37", "visible":"false" }, { "id":"38", "visible":"false" }, { "id":"39", "visible":"false" }, { "id":"40", "visible":"false" }, { "id":"41", "visible":"false" }, { "id":"42", "visible":"false" }, { "id":"43", "visible":"false" }, { "id":"44", "visible":"false" }, { "id":"45", "visible":"false" }, { "id":"46", "visible":"false" }, { "id":"47", "visible":"false" }, { "id":"48", "visible":"false" }, { "id":"49", "visible":"false" }, { "id":"50", "visible":"false" }, { "id":"51", "visible":"false" }, { "id":"52", "visible":"false" }, { "id":"53", "visible":"false" }, { "id":"54", "visible":"false" }, { "id":"55", "visible":"false" }, { "id":"56", "visible":"false" }, { "id":"57", "visible":"false" }, { "id":"58", "visible":"false" }, { "id":"59", "visible":"false" }, { "id":"60", "visible":"false" }, { "id":"61", "visible":"false" }, { "id":"62", "visible":"false" }, { "id":"63", "visible":"false" }, { "id":"64", "visible":"false" }, { "id":"65", "visible":"false" }, { "id":"66", "visible":"false" }, { "id":"67", "visible":"false" }, { "id":"68", "visible":"false" }, { "id":"69", "visible":"false" }, { "id":"70", "visible":"false" }, { "id":"71", "visible":"false" }, { "id":"72", "visible":"false" }, { "id":"73", "visible":"false" }, { "id":"74", "visible":"false" }, { "id":"75", "visible":"false" }, { "id":"76", "visible":"false" }, { "id":"77", "visible":"false" }, { "id":"78", "visible":"false" }, { "id":"79", "visible":"false" }, { "id":"80", "visible":"false" }, { "id":"81", "visible":"false" }, { "id":"82", "visible":"false" }, { "id":"83", "visible":"false" }, { "id":"84", "visible":"false" }, { "id":"85", "visible":"false" }, { "id":"86", "visible":"false" }, { "id":"87", "visible":"false" }, { "id":"88", "visible":"false" }, { "id":"89", "visible":"false" }, { "id":"90", "visible":"false" }, { "id":"91", "visible":"false" }, { "id":"92", "visible":"false" }, { "id":"93", "visible":"false" }, { "id":"94", "visible":"false" }, { "id":"95", "visible":"false" }, { "id":"96", "visible":"false" }, { "id":"97", "visible":"false" }, { "id":"98", "visible":"false" }, { "id":"99", "visible":"false" }, { "id":"100", "visible":"false" }, { "id":"101", "visible":"false" }, { "id":"102", "visible":"false" }, { "id":"103", "visible":"false" }, { "id":"104", "visible":"false" }, { "id":"105", "visible":"false" }, { "id":"106", "visible":"false" }, { "id":"107", "visible":"false" }, { "id":"108", "visible":"false" }, { "id":"109", "visible":"false" }, { "id":"110", "visible":"false" }, { "id":"111", "visible":"false" }, { "id":"112", "visible":"false" }, { "id":"113", "visible":"false" }, { "id":"114", "visible":"false" }, { "id":"115", "visible":"false" }, { "id":"116", "visible":"false" }, { "id":"117", "visible":"false" }, { "id":"118", "visible":"false" }, { "id":"119", "visible":"false" }, { "id":"120", "visible":"false" }, { "id":"121", "visible":"false" }, { "id":"122", "visible":"false" }, { "id":"123", "visible":"false" }, { "id":"124", "visible":"false" }, { "id":"125", "visible":"false" }, { "id":"126", "visible":"false" }, { "id":"127", "visible":"false" }, { "id":"128", "visible":"false" }, { "id":"129", "visible":"false" }, { "id":"130", "visible":"false" }, { "id":"131", "visible":"false" }, { "id":"132", "visible":"false" }, { "id":"133", "visible":"false" }, { "id":"134", "visible":"false" }, { "id":"135", "visible":"false" }, { "id":"136", "visible":"false" }, { "id":"137", "visible":"false" }, { "id":"138", "visible":"false" }, { "id":"139", "visible":"false" }, { "id":"140", "visible":"false" }, { "id":"141", "visible":"false" }, { "id":"142", "visible":"false" }, { "id":"143", "visible":"false" }, { "id":"144", "visible":"false" }, { "id":"145", "visible":"false" }, { "id":"146", "visible":"false" }, { "id":"147", "visible":"false" }, { "id":"148", "visible":"false" }, { "id":"149", "visible":"false" }, { "id":"150", "visible":"false" }, { "id":"151", "visible":"false" }, { "id":"152", "visible":"false" }, { "id":"153", "visible":"false" }, { "id":"154", "visible":"false" }, { "id":"155", "visible":"false" }, { "id":"156", "visible":"false" }, { "id":"157", "visible":"false" }, { "id":"158", "visible":"false" }, { "id":"159", "visible":"false" }, { "id":"160", "visible":"false" }, { "id":"161", "visible":"false" }, { "id":"162", "visible":"false" }, { "id":"163", "visible":"false" }, { "id":"164", "visible":"false" }, { "id":"165", "visible":"false" }, { "id":"166", "visible":"false" }, { "id":"167", "visible":"false" }, { "id":"168", "visible":"false" }, { "id":"169", "visible":"false" }, { "id":"170", "visible":"false" }, { "id":"171", "visible":"false" }, { "id":"172", "visible":"false" }, { "id":"173", "visible":"false" }, { "id":"174", "visible":"false" }, { "id":"175", "visible":"false" }, { "id":"176", "visible":"false" }, { "id":"177", "visible":"false" }, { "id":"178", "visible":"false" }, { "id":"179", "visible":"false" } ]
+hide_question
+Q{ "text":"Terminar Experimento?" }
+hide_question
+M{ "x":"10", "y":"10" }
+21/04/2017 03:46:23 p.m.;6,128151;5,592594;-8,134733;-18,27091;123;CRUZ
+21/04/2017 03:46:24 p.m.;6,631252;5,222701;-8,134733;-18,27091;123;CRUZ
+21/04/2017 03:46:25 p.m.;6,778694;5,725404;-8,134733;-18,27091;123;CRUZ
+21/04/2017 03:46:25 p.m.;7,462826;6,456842;-8,134733;-18,27091;123;CRUZ
+21/04/2017 03:46:26 p.m.;8,490929;7,164014;-8,134733;-18,27091;123;CRUZ
+21/04/2017 03:46:26 p.m.;9,180864;8,181227;-8,134733;-18,27091;123;CRUZ
+21/04/2017 03:46:27 p.m.;9,661322;9,199971;-8,134733;-18,27091;123;CRUZ
+21/04/2017 03:46:27 p.m.;9,661322;9,199971;NULL;NULL;NULL;DET
+X{ "value":"rojo" }
+X{ "value":"negro" }
+hide_question
+H{ "id":"134", "visible":"true" }
+21/04/2017 03:46:43 p.m.;9,792141;7,655649;NULL;NULL;NULL;BUS
+21/04/2017 03:46:43 p.m.;9,376058;6,636092;NULL;NULL;NULL;BUS
+21/04/2017 03:46:44 p.m.;8,859818;5,615207;NULL;NULL;NULL;BUS
+21/04/2017 03:46:45 p.m.;8,348361;4,588479;NULL;NULL;NULL;BUS
+21/04/2017 03:46:45 p.m.;7,851042;3,557631;NULL;NULL;NULL;BUS
+21/04/2017 03:46:46 p.m.;7,407053;2,556087;NULL;NULL;NULL;BUS
+21/04/2017 03:46:46 p.m.;6,943424;1,53514;NULL;NULL;NULL;BUS
+21/04/2017 03:46:47 p.m.;6,488809;0,5339129;NULL;NULL;NULL;BUS
+21/04/2017 03:46:47 p.m.;6,025666;-0,4861852;NULL;NULL;NULL;BUS
+21/04/2017 03:46:48 p.m.;5,567076;-1,500982;NULL;NULL;NULL;BUS
+21/04/2017 03:46:49 p.m.;5,118722;-2,504806;NULL;NULL;NULL;BUS
+21/04/2017 03:46:49 p.m.;4,676283;-3,509774;NULL;NULL;NULL;BUS
+21/04/2017 03:46:50 p.m.;4,242513;-4,518449;NULL;NULL;NULL;BUS
+21/04/2017 03:46:50 p.m.;3,824446;-5,531418;NULL;NULL;NULL;BUS
+21/04/2017 03:46:51 p.m.;3,405725;-6,544597;NULL;NULL;NULL;BUS
+21/04/2017 03:46:51 p.m.;2,987268;-7,558833;NULL;NULL;NULL;BUS
+21/04/2017 03:46:52 p.m.;2,619013;-8,59245;NULL;NULL;NULL;BUS
+21/04/2017 03:46:52 p.m.;2,269082;-9,63046;NULL;NULL;NULL;BUS
+21/04/2017 03:46:53 p.m.;2,021156;-10,64047;NULL;NULL;NULL;BUS
+21/04/2017 03:46:54 p.m.;1,776742;-11,65187;NULL;NULL;NULL;BUS
+21/04/2017 03:46:54 p.m.;1,514359;-12,6593;NULL;NULL;NULL;BUS
+21/04/2017 03:46:55 p.m.;1,193812;-13,67456;NULL;NULL;NULL;BUS
+21/04/2017 03:46:55 p.m.;0,845651;-14,7041;NULL;NULL;NULL;BUS
+21/04/2017 03:46:56 p.m.;0,5256431;-15,72045;NULL;NULL;NULL;BUS
+21/04/2017 03:46:56 p.m.;0,2170619;-16,75521;NULL;NULL;NULL;BUS
+21/04/2017 03:46:57 p.m.;-0,03436665;-17,76433;NULL;NULL;NULL;BUS
+21/04/2017 03:46:57 p.m.;-0,2736137;-18,77569;NULL;NULL;NULL;BUS
+21/04/2017 03:46:58 p.m.;-0,6315671;-19,78484;NULL;NULL;NULL;BUS
+H{ "id":"134", "visible":"false" }
+21/04/2017 03:46:58 p.m.;-0,6315671;-19,78484;-0,6979899;-19,98782;134;CAP
+21/04/2017 03:47:05 p.m.;-0,7422887;-19,27067;NULL;NULL;NULL;CEN
+21/04/2017 03:47:06 p.m.;-0,7787688;-18,24209;NULL;NULL;NULL;CEN
+21/04/2017 03:47:06 p.m.;-0,6921169;-17,20471;NULL;NULL;NULL;CEN
+21/04/2017 03:47:07 p.m.;-0,5796636;-16,17823;NULL;NULL;NULL;CEN
+21/04/2017 03:47:08 p.m.;-0,3728439;-15,15463;NULL;NULL;NULL;CEN
+21/04/2017 03:47:08 p.m.;0,1433173;-13,59908;NULL;NULL;NULL;CEN
+21/04/2017 03:47:09 p.m.;0,4821026;-12,06207;NULL;NULL;NULL;CEN
+21/04/2017 03:47:10 p.m.;1,08496;-10,52604;NULL;NULL;NULL;CEN
+21/04/2017 03:47:11 p.m.;1,76045;-9,506483;NULL;NULL;NULL;CEN
+21/04/2017 03:47:11 p.m.;2,477545;-8,482928;NULL;NULL;NULL;CEN
+21/04/2017 03:47:12 p.m.;2,959541;-7,471068;NULL;NULL;NULL;CEN
+21/04/2017 03:47:12 p.m.;3,336722;-6,454469;NULL;NULL;NULL;CEN
+21/04/2017 03:47:13 p.m.;3,763083;-5,431309;NULL;NULL;NULL;CEN
+21/04/2017 03:47:13 p.m.;4,209944;-4,399296;NULL;NULL;NULL;CEN
+21/04/2017 03:47:14 p.m.;4,62317;-3,396335;NULL;NULL;NULL;CEN
+21/04/2017 03:47:15 p.m.;4,999487;-2,381719;NULL;NULL;NULL;CEN
+21/04/2017 03:47:15 p.m.;5,422445;-1,359986;NULL;NULL;NULL;CEN
+21/04/2017 03:47:16 p.m.;5,856513;-0,3269141;NULL;NULL;NULL;CEN
+21/04/2017 03:47:16 p.m.;6,265052;0,6765814;NULL;NULL;NULL;CEN
+21/04/2017 03:47:17 p.m.;6,64852;1,69033;NULL;NULL;NULL;CEN
+21/04/2017 03:47:17 p.m.;7,030719;2,702638;NULL;NULL;NULL;CEN
+21/04/2017 03:47:18 p.m.;7,470337;3,739413;NULL;NULL;NULL;CEN
+21/04/2017 03:47:19 p.m.;7,913044;4,770653;NULL;NULL;NULL;CEN
+21/04/2017 03:47:19 p.m.;8,356509;5,803609;NULL;NULL;NULL;CEN
+21/04/2017 03:47:20 p.m.;8,799571;6,838014;NULL;NULL;NULL;CEN
+21/04/2017 03:47:20 p.m.;9,195106;7,845436;NULL;NULL;NULL;CEN
+21/04/2017 03:47:21 p.m.;9,577974;8,856592;NULL;NULL;NULL;CEN
+21/04/2017 03:47:22 p.m.;9,961027;9,868624;NULL;NULL;NULL;CEN
+Q{ "text":"Marca la bandera que recolectaste." }
+HS[ { "id":"0", "visible":"true" }, { "id":"1", "visible":"true" }, { "id":"2", "visible":"true" }, { "id":"3", "visible":"true" }, { "id":"4", "visible":"true" }, { "id":"5", "visible":"true" }, { "id":"6", "visible":"true" }, { "id":"7", "visible":"true" }, { "id":"8", "visible":"true" }, { "id":"9", "visible":"true" }, { "id":"10", "visible":"true" }, { "id":"11", "visible":"true" }, { "id":"12", "visible":"true" }, { "id":"13", "visible":"true" }, { "id":"14", "visible":"true" }, { "id":"15", "visible":"true" }, { "id":"16", "visible":"true" }, { "id":"17", "visible":"true" }, { "id":"18", "visible":"true" }, { "id":"19", "visible":"true" }, { "id":"20", "visible":"true" }, { "id":"21", "visible":"true" }, { "id":"22", "visible":"true" }, { "id":"23", "visible":"true" }, { "id":"24", "visible":"true" }, { "id":"25", "visible":"true" }, { "id":"26", "visible":"true" }, { "id":"27", "visible":"true" }, { "id":"28", "visible":"true" }, { "id":"29", "visible":"true" }, { "id":"30", "visible":"true" }, { "id":"31", "visible":"true" }, { "id":"32", "visible":"true" }, { "id":"33", "visible":"true" }, { "id":"34", "visible":"true" }, { "id":"35", "visible":"true" }, { "id":"36", "visible":"true" }, { "id":"37", "visible":"true" }, { "id":"38", "visible":"true" }, { "id":"39", "visible":"true" }, { "id":"40", "visible":"true" }, { "id":"41", "visible":"true" }, { "id":"42", "visible":"true" }, { "id":"43", "visible":"true" }, { "id":"44", "visible":"true" }, { "id":"45", "visible":"true" }, { "id":"46", "visible":"true" }, { "id":"47", "visible":"true" }, { "id":"48", "visible":"true" }, { "id":"49", "visible":"true" }, { "id":"50", "visible":"true" }, { "id":"51", "visible":"true" }, { "id":"52", "visible":"true" }, { "id":"53", "visible":"true" }, { "id":"54", "visible":"true" }, { "id":"55", "visible":"true" }, { "id":"56", "visible":"true" }, { "id":"57", "visible":"true" }, { "id":"58", "visible":"true" }, { "id":"59", "visible":"true" }, { "id":"60", "visible":"true" }, { "id":"61", "visible":"true" }, { "id":"62", "visible":"true" }, { "id":"63", "visible":"true" }, { "id":"64", "visible":"true" }, { "id":"65", "visible":"true" }, { "id":"66", "visible":"true" }, { "id":"67", "visible":"true" }, { "id":"68", "visible":"true" }, { "id":"69", "visible":"true" }, { "id":"70", "visible":"true" }, { "id":"71", "visible":"true" }, { "id":"72", "visible":"true" }, { "id":"73", "visible":"true" }, { "id":"74", "visible":"true" }, { "id":"75", "visible":"true" }, { "id":"76", "visible":"true" }, { "id":"77", "visible":"true" }, { "id":"78", "visible":"true" }, { "id":"79", "visible":"true" }, { "id":"80", "visible":"true" }, { "id":"81", "visible":"true" }, { "id":"82", "visible":"true" }, { "id":"83", "visible":"true" }, { "id":"84", "visible":"true" }, { "id":"85", "visible":"true" }, { "id":"86", "visible":"true" }, { "id":"87", "visible":"true" }, { "id":"88", "visible":"true" }, { "id":"89", "visible":"true" }, { "id":"90", "visible":"true" }, { "id":"91", "visible":"true" }, { "id":"92", "visible":"true" }, { "id":"93", "visible":"true" }, { "id":"94", "visible":"true" }, { "id":"95", "visible":"true" }, { "id":"96", "visible":"true" }, { "id":"97", "visible":"true" }, { "id":"98", "visible":"true" }, { "id":"99", "visible":"true" }, { "id":"100", "visible":"true" }, { "id":"101", "visible":"true" }, { "id":"102", "visible":"true" }, { "id":"103", "visible":"true" }, { "id":"104", "visible":"true" }, { "id":"105", "visible":"true" }, { "id":"106", "visible":"true" }, { "id":"107", "visible":"true" }, { "id":"108", "visible":"true" }, { "id":"109", "visible":"true" }, { "id":"110", "visible":"true" }, { "id":"111", "visible":"true" }, { "id":"112", "visible":"true" }, { "id":"113", "visible":"true" }, { "id":"114", "visible":"true" }, { "id":"115", "visible":"true" }, { "id":"116", "visible":"true" }, { "id":"117", "visible":"true" }, { "id":"118", "visible":"true" }, { "id":"119", "visible":"true" }, { "id":"120", "visible":"true" }, { "id":"121", "visible":"true" }, { "id":"122", "visible":"true" }, { "id":"123", "visible":"true" }, { "id":"124", "visible":"true" }, { "id":"125", "visible":"true" }, { "id":"126", "visible":"true" }, { "id":"127", "visible":"true" }, { "id":"128", "visible":"true" }, { "id":"129", "visible":"true" }, { "id":"130", "visible":"true" }, { "id":"131", "visible":"true" }, { "id":"132", "visible":"true" }, { "id":"133", "visible":"true" }, { "id":"134", "visible":"true" }, { "id":"135", "visible":"true" }, { "id":"136", "visible":"true" }, { "id":"137", "visible":"true" }, { "id":"138", "visible":"true" }, { "id":"139", "visible":"true" }, { "id":"140", "visible":"true" }, { "id":"141", "visible":"true" }, { "id":"142", "visible":"true" }, { "id":"143", "visible":"true" }, { "id":"144", "visible":"true" }, { "id":"145", "visible":"true" }, { "id":"146", "visible":"true" }, { "id":"147", "visible":"true" }, { "id":"148", "visible":"true" }, { "id":"149", "visible":"true" }, { "id":"150", "visible":"true" }, { "id":"151", "visible":"true" }, { "id":"152", "visible":"true" }, { "id":"153", "visible":"true" }, { "id":"154", "visible":"true" }, { "id":"155", "visible":"true" }, { "id":"156", "visible":"true" }, { "id":"157", "visible":"true" }, { "id":"158", "visible":"true" }, { "id":"159", "visible":"true" }, { "id":"160", "visible":"true" }, { "id":"161", "visible":"true" }, { "id":"162", "visible":"true" }, { "id":"163", "visible":"true" }, { "id":"164", "visible":"true" }, { "id":"165", "visible":"true" }, { "id":"166", "visible":"true" }, { "id":"167", "visible":"true" }, { "id":"168", "visible":"true" }, { "id":"169", "visible":"true" }, { "id":"170", "visible":"true" }, { "id":"171", "visible":"true" }, { "id":"172", "visible":"true" }, { "id":"173", "visible":"true" }, { "id":"174", "visible":"true" }, { "id":"175", "visible":"true" }, { "id":"176", "visible":"true" }, { "id":"177", "visible":"true" }, { "id":"178", "visible":"true" }, { "id":"179", "visible":"true" } ]
+C{ "id":"0", "color":"verde" }
+C{ "id":"0", "color":"azul" }
+C{ "id":"179", "color":"verde" }
+C{ "id":"179", "color":"azul" }
+C{ "id":"178", "color":"verde" }
+C{ "id":"178", "color":"azul" }
+C{ "id":"177", "color":"verde" }
+C{ "id":"177", "color":"azul" }
+C{ "id":"176", "color":"verde" }
+C{ "id":"176", "color":"azul" }
+C{ "id":"175", "color":"verde" }
+C{ "id":"175", "color":"azul" }
+C{ "id":"174", "color":"verde" }
+C{ "id":"174", "color":"azul" }
+C{ "id":"173", "color":"verde" }
+C{ "id":"173", "color":"azul" }
+C{ "id":"172", "color":"verde" }
+C{ "id":"172", "color":"azul" }
+C{ "id":"171", "color":"verde" }
+C{ "id":"171", "color":"azul" }
+C{ "id":"170", "color":"verde" }
+C{ "id":"170", "color":"azul" }
+C{ "id":"169", "color":"verde" }
+C{ "id":"169", "color":"azul" }
+C{ "id":"168", "color":"verde" }
+C{ "id":"168", "color":"azul" }
+C{ "id":"167", "color":"verde" }
+C{ "id":"167", "color":"azul" }
+C{ "id":"166", "color":"verde" }
+C{ "id":"166", "color":"azul" }
+C{ "id":"165", "color":"verde" }
+C{ "id":"165", "color":"azul" }
+C{ "id":"164", "color":"verde" }
+C{ "id":"164", "color":"azul" }
+C{ "id":"163", "color":"verde" }
+C{ "id":"163", "color":"azul" }
+C{ "id":"162", "color":"verde" }
+C{ "id":"162", "color":"azul" }
+C{ "id":"161", "color":"verde" }
+C{ "id":"161", "color":"azul" }
+C{ "id":"160", "color":"verde" }
+C{ "id":"160", "color":"azul" }
+C{ "id":"159", "color":"verde" }
+C{ "id":"159", "color":"azul" }
+C{ "id":"158", "color":"verde" }
+C{ "id":"158", "color":"azul" }
+C{ "id":"157", "color":"verde" }
+C{ "id":"157", "color":"azul" }
+C{ "id":"156", "color":"verde" }
+C{ "id":"156", "color":"azul" }
+C{ "id":"155", "color":"verde" }
+C{ "id":"155", "color":"azul" }
+C{ "id":"154", "color":"verde" }
+C{ "id":"154", "color":"azul" }
+C{ "id":"153", "color":"verde" }
+C{ "id":"153", "color":"azul" }
+C{ "id":"152", "color":"verde" }
+C{ "id":"152", "color":"azul" }
+C{ "id":"151", "color":"verde" }
+C{ "id":"151", "color":"azul" }
+C{ "id":"150", "color":"verde" }
+C{ "id":"150", "color":"azul" }
+C{ "id":"149", "color":"verde" }
+C{ "id":"149", "color":"azul" }
+C{ "id":"148", "color":"verde" }
+C{ "id":"148", "color":"azul" }
+C{ "id":"147", "color":"verde" }
+C{ "id":"147", "color":"azul" }
+C{ "id":"146", "color":"verde" }
+C{ "id":"146", "color":"azul" }
+C{ "id":"145", "color":"verde" }
+C{ "id":"145", "color":"azul" }
+C{ "id":"144", "color":"verde" }
+C{ "id":"144", "color":"azul" }
+C{ "id":"143", "color":"verde" }
+C{ "id":"143", "color":"azul" }
+C{ "id":"142", "color":"verde" }
+C{ "id":"142", "color":"azul" }
+C{ "id":"141", "color":"verde" }
+C{ "id":"141", "color":"azul" }
+C{ "id":"140", "color":"verde" }
+C{ "id":"140", "color":"azul" }
+C{ "id":"139", "color":"verde" }
+C{ "id":"139", "color":"azul" }
+C{ "id":"138", "color":"verde" }
+C{ "id":"138", "color":"azul" }
+C{ "id":"137", "color":"verde" }
+C{ "id":"137", "color":"azul" }
+C{ "id":"136", "color":"verde" }
+C{ "id":"136", "color":"azul" }
+C{ "id":"135", "color":"verde" }
+21/04/2017 03:47:42 p.m.;9,961027;9,868624;-3,673819E-15;-20;135;SEL
+Eligió la: 135
+C{ "id":"135", "color":"azul" }
+HS[ { "id":"0", "visible":"false" }, { "id":"1", "visible":"false" }, { "id":"2", "visible":"false" }, { "id":"3", "visible":"false" }, { "id":"4", "visible":"false" }, { "id":"5", "visible":"false" }, { "id":"6", "visible":"false" }, { "id":"7", "visible":"false" }, { "id":"8", "visible":"false" }, { "id":"9", "visible":"false" }, { "id":"10", "visible":"false" }, { "id":"11", "visible":"false" }, { "id":"12", "visible":"false" }, { "id":"13", "visible":"false" }, { "id":"14", "visible":"false" }, { "id":"15", "visible":"false" }, { "id":"16", "visible":"false" }, { "id":"17", "visible":"false" }, { "id":"18", "visible":"false" }, { "id":"19", "visible":"false" }, { "id":"20", "visible":"false" }, { "id":"21", "visible":"false" }, { "id":"22", "visible":"false" }, { "id":"23", "visible":"false" }, { "id":"24", "visible":"false" }, { "id":"25", "visible":"false" }, { "id":"26", "visible":"false" }, { "id":"27", "visible":"false" }, { "id":"28", "visible":"false" }, { "id":"29", "visible":"false" }, { "id":"30", "visible":"false" }, { "id":"31", "visible":"false" }, { "id":"32", "visible":"false" }, { "id":"33", "visible":"false" }, { "id":"34", "visible":"false" }, { "id":"35", "visible":"false" }, { "id":"36", "visible":"false" }, { "id":"37", "visible":"false" }, { "id":"38", "visible":"false" }, { "id":"39", "visible":"false" }, { "id":"40", "visible":"false" }, { "id":"41", "visible":"false" }, { "id":"42", "visible":"false" }, { "id":"43", "visible":"false" }, { "id":"44", "visible":"false" }, { "id":"45", "visible":"false" }, { "id":"46", "visible":"false" }, { "id":"47", "visible":"false" }, { "id":"48", "visible":"false" }, { "id":"49", "visible":"false" }, { "id":"50", "visible":"false" }, { "id":"51", "visible":"false" }, { "id":"52", "visible":"false" }, { "id":"53", "visible":"false" }, { "id":"54", "visible":"false" }, { "id":"55", "visible":"false" }, { "id":"56", "visible":"false" }, { "id":"57", "visible":"false" }, { "id":"58", "visible":"false" }, { "id":"59", "visible":"false" }, { "id":"60", "visible":"false" }, { "id":"61", "visible":"false" }, { "id":"62", "visible":"false" }, { "id":"63", "visible":"false" }, { "id":"64", "visible":"false" }, { "id":"65", "visible":"false" }, { "id":"66", "visible":"false" }, { "id":"67", "visible":"false" }, { "id":"68", "visible":"false" }, { "id":"69", "visible":"false" }, { "id":"70", "visible":"false" }, { "id":"71", "visible":"false" }, { "id":"72", "visible":"false" }, { "id":"73", "visible":"false" }, { "id":"74", "visible":"false" }, { "id":"75", "visible":"false" }, { "id":"76", "visible":"false" }, { "id":"77", "visible":"false" }, { "id":"78", "visible":"false" }, { "id":"79", "visible":"false" }, { "id":"80", "visible":"false" }, { "id":"81", "visible":"false" }, { "id":"82", "visible":"false" }, { "id":"83", "visible":"false" }, { "id":"84", "visible":"false" }, { "id":"85", "visible":"false" }, { "id":"86", "visible":"false" }, { "id":"87", "visible":"false" }, { "id":"88", "visible":"false" }, { "id":"89", "visible":"false" }, { "id":"90", "visible":"false" }, { "id":"91", "visible":"false" }, { "id":"92", "visible":"false" }, { "id":"93", "visible":"false" }, { "id":"94", "visible":"false" }, { "id":"95", "visible":"false" }, { "id":"96", "visible":"false" }, { "id":"97", "visible":"false" }, { "id":"98", "visible":"false" }, { "id":"99", "visible":"false" }, { "id":"100", "visible":"false" }, { "id":"101", "visible":"false" }, { "id":"102", "visible":"false" }, { "id":"103", "visible":"false" }, { "id":"104", "visible":"false" }, { "id":"105", "visible":"false" }, { "id":"106", "visible":"false" }, { "id":"107", "visible":"false" }, { "id":"108", "visible":"false" }, { "id":"109", "visible":"false" }, { "id":"110", "visible":"false" }, { "id":"111", "visible":"false" }, { "id":"112", "visible":"false" }, { "id":"113", "visible":"false" }, { "id":"114", "visible":"false" }, { "id":"115", "visible":"false" }, { "id":"116", "visible":"false" }, { "id":"117", "visible":"false" }, { "id":"118", "visible":"false" }, { "id":"119", "visible":"false" }, { "id":"120", "visible":"false" }, { "id":"121", "visible":"false" }, { "id":"122", "visible":"false" }, { "id":"123", "visible":"false" }, { "id":"124", "visible":"false" }, { "id":"125", "visible":"false" }, { "id":"126", "visible":"false" }, { "id":"127", "visible":"false" }, { "id":"128", "visible":"false" }, { "id":"129", "visible":"false" }, { "id":"130", "visible":"false" }, { "id":"131", "visible":"false" }, { "id":"132", "visible":"false" }, { "id":"133", "visible":"false" }, { "id":"134", "visible":"false" }, { "id":"135", "visible":"false" }, { "id":"136", "visible":"false" }, { "id":"137", "visible":"false" }, { "id":"138", "visible":"false" }, { "id":"139", "visible":"false" }, { "id":"140", "visible":"false" }, { "id":"141", "visible":"false" }, { "id":"142", "visible":"false" }, { "id":"143", "visible":"false" }, { "id":"144", "visible":"false" }, { "id":"145", "visible":"false" }, { "id":"146", "visible":"false" }, { "id":"147", "visible":"false" }, { "id":"148", "visible":"false" }, { "id":"149", "visible":"false" }, { "id":"150", "visible":"false" }, { "id":"151", "visible":"false" }, { "id":"152", "visible":"false" }, { "id":"153", "visible":"false" }, { "id":"154", "visible":"false" }, { "id":"155", "visible":"false" }, { "id":"156", "visible":"false" }, { "id":"157", "visible":"false" }, { "id":"158", "visible":"false" }, { "id":"159", "visible":"false" }, { "id":"160", "visible":"false" }, { "id":"161", "visible":"false" }, { "id":"162", "visible":"false" }, { "id":"163", "visible":"false" }, { "id":"164", "visible":"false" }, { "id":"165", "visible":"false" }, { "id":"166", "visible":"false" }, { "id":"167", "visible":"false" }, { "id":"168", "visible":"false" }, { "id":"169", "visible":"false" }, { "id":"170", "visible":"false" }, { "id":"171", "visible":"false" }, { "id":"172", "visible":"false" }, { "id":"173", "visible":"false" }, { "id":"174", "visible":"false" }, { "id":"175", "visible":"false" }, { "id":"176", "visible":"false" }, { "id":"177", "visible":"false" }, { "id":"178", "visible":"false" }, { "id":"179", "visible":"false" } ]
+hide_question
+Q{ "text":"Terminar Experimento?" }
+hide_question
+M{ "x":"-8", "y":"-8" }
+21/04/2017 03:47:49 p.m.;9,951908;9,360168;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:47:50 p.m.;9,39261;8,344481;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:47:50 p.m.;8,598091;7,317495;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:47:51 p.m.;7,596829;6,295749;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:47:52 p.m.;6,591382;5,337533;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:47:52 p.m.;5,585433;4,377327;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:47:53 p.m.;4,582829;3,422453;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:47:54 p.m.;3,578004;2,465634;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:47:55 p.m.;2,574237;1,510126;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:47:55 p.m.;1,554039;0,5706745;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:47:56 p.m.;0,5339689;-0,388118;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:47:57 p.m.;-0,4877512;-1,329454;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:47:57 p.m.;-1,513406;-2,262897;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:47:58 p.m.;-2,529273;-3,16964;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:47:59 p.m.;-3,532039;-4,0641;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:48:00 p.m.;-4,534811;-4,958557;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:48:00 p.m.;-5,537632;-5,853271;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:48:01 p.m.;-6,540461;-6,748215;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:48:02 p.m.;-7,543029;-7,642706;-3,673819E-15;-20;135;CRUZ
+21/04/2017 03:48:02 p.m.;-7,543029;-7,642706;NULL;NULL;NULL;DET
+X{ "value":"rojo" }
+X{ "value":"negro" }
+hide_question
+H{ "id":"58", "visible":"true" }
+21/04/2017 03:48:15 p.m.;-9,069702;-7,470268;NULL;NULL;NULL;BUS
+21/04/2017 03:48:16 p.m.;-9,771327;-6,511906;NULL;NULL;NULL;BUS
+21/04/2017 03:48:16 p.m.;-10,28394;-5,490801;NULL;NULL;NULL;BUS
+21/04/2017 03:48:17 p.m.;-10,49661;-4,455646;NULL;NULL;NULL;BUS
+21/04/2017 03:48:17 p.m.;-10,52959;-3,417454;NULL;NULL;NULL;BUS
+21/04/2017 03:48:18 p.m.;-10,52496;-2,37809;NULL;NULL;NULL;BUS
+21/04/2017 03:48:18 p.m.;-10,47277;-1,338865;NULL;NULL;NULL;BUS
+21/04/2017 03:48:19 p.m.;-10,40725;-0,3004572;NULL;NULL;NULL;BUS
+21/04/2017 03:48:19 p.m.;-10,34004;0,7378164;NULL;NULL;NULL;BUS
+21/04/2017 03:48:20 p.m.;-10,27284;1,776166;NULL;NULL;NULL;BUS
+21/04/2017 03:48:20 p.m.;-10,13313;2,808233;NULL;NULL;NULL;BUS
+21/04/2017 03:48:21 p.m.;-9,801331;3,828642;NULL;NULL;NULL;BUS
+21/04/2017 03:48:21 p.m.;-9,483144;4,851409;NULL;NULL;NULL;BUS
+21/04/2017 03:48:22 p.m.;-9,413417;5,8896;NULL;NULL;NULL;BUS
+21/04/2017 03:48:23 p.m.;-9,346199;6,926846;NULL;NULL;NULL;BUS
+21/04/2017 03:48:23 p.m.;-9,317449;7,966826;NULL;NULL;NULL;BUS
+21/04/2017 03:48:24 p.m.;-9,130218;9,004421;NULL;NULL;NULL;BUS
+21/04/2017 03:48:24 p.m.;-9,097725;10,04294;NULL;NULL;NULL;BUS
+21/04/2017 03:48:25 p.m.;-8,975222;11,08153;NULL;NULL;NULL;BUS
+21/04/2017 03:48:25 p.m.;-8,931726;12,11979;NULL;NULL;NULL;BUS
+21/04/2017 03:48:26 p.m.;-8,913713;13,15942;NULL;NULL;NULL;BUS
+21/04/2017 03:48:26 p.m.;-8,846793;14,19747;NULL;NULL;NULL;BUS
+21/04/2017 03:48:27 p.m.;-8,766791;15,2338;NULL;NULL;NULL;BUS
+21/04/2017 03:48:27 p.m.;-8,728538;16,27383;NULL;NULL;NULL;BUS
+21/04/2017 03:48:28 p.m.;-8,739255;17,31502;NULL;NULL;NULL;BUS
+H{ "id":"58", "visible":"false" }
+21/04/2017 03:48:28 p.m.;-8,739255;17,31502;-8,767423;17,97588;58;CAP
+21/04/2017 03:48:36 p.m.;-8,96343;16,79491;NULL;NULL;NULL;CEN
+21/04/2017 03:48:37 p.m.;-9,034125;15,76004;NULL;NULL;NULL;CEN
+21/04/2017 03:48:37 p.m.;-9,063973;14,72158;NULL;NULL;NULL;CEN
+21/04/2017 03:48:38 p.m.;-9,057633;13,68334;NULL;NULL;NULL;CEN
+21/04/2017 03:48:38 p.m.;-9,019921;12,64468;NULL;NULL;NULL;CEN
+21/04/2017 03:48:39 p.m.;-8,992297;11,605;NULL;NULL;NULL;CEN
+21/04/2017 03:48:39 p.m.;-8,964722;10,56555;NULL;NULL;NULL;CEN
+21/04/2017 03:48:40 p.m.;-8,937119;9,525377;NULL;NULL;NULL;CEN
+21/04/2017 03:48:41 p.m.;-8,909605;8,486214;NULL;NULL;NULL;CEN
+21/04/2017 03:48:41 p.m.;-8,882002;7,44604;NULL;NULL;NULL;CEN
+21/04/2017 03:48:42 p.m.;-8,854398;6,406009;NULL;NULL;NULL;CEN
+21/04/2017 03:48:42 p.m.;-8,826865;5,36793;NULL;NULL;NULL;CEN
+21/04/2017 03:48:43 p.m.;-8,799262;4,327757;NULL;NULL;NULL;CEN
+21/04/2017 03:48:43 p.m.;-8,771719;3,287222;NULL;NULL;NULL;CEN
+21/04/2017 03:48:44 p.m.;-8,715865;2,249257;NULL;NULL;NULL;CEN
+21/04/2017 03:48:44 p.m.;-8,659424;1,21028;NULL;NULL;NULL;CEN
+21/04/2017 03:48:45 p.m.;-8,617422;0,1720252;NULL;NULL;NULL;CEN
+21/04/2017 03:48:45 p.m.;-8,578146;-0,8677664;NULL;NULL;NULL;CEN
+21/04/2017 03:48:46 p.m.;-8,53887;-1,907557;NULL;NULL;NULL;CEN
+21/04/2017 03:48:46 p.m.;-8,481675;-2,945801;NULL;NULL;NULL;CEN
+21/04/2017 03:48:47 p.m.;-8,420614;-3,984545;NULL;NULL;NULL;CEN
+21/04/2017 03:48:47 p.m.;-8,360728;-5,023413;NULL;NULL;NULL;CEN
+21/04/2017 03:48:48 p.m.;-8,301049;-6,061452;NULL;NULL;NULL;CEN
+21/04/2017 03:48:49 p.m.;-8,241357;-7,100282;NULL;NULL;NULL;CEN
+Q{ "text":"Marca la bandera que recolectaste." }
+HS[ { "id":"0", "visible":"true" }, { "id":"1", "visible":"true" }, { "id":"2", "visible":"true" }, { "id":"3", "visible":"true" }, { "id":"4", "visible":"true" }, { "id":"5", "visible":"true" }, { "id":"6", "visible":"true" }, { "id":"7", "visible":"true" }, { "id":"8", "visible":"true" }, { "id":"9", "visible":"true" }, { "id":"10", "visible":"true" }, { "id":"11", "visible":"true" }, { "id":"12", "visible":"true" }, { "id":"13", "visible":"true" }, { "id":"14", "visible":"true" }, { "id":"15", "visible":"true" }, { "id":"16", "visible":"true" }, { "id":"17", "visible":"true" }, { "id":"18", "visible":"true" }, { "id":"19", "visible":"true" }, { "id":"20", "visible":"true" }, { "id":"21", "visible":"true" }, { "id":"22", "visible":"true" }, { "id":"23", "visible":"true" }, { "id":"24", "visible":"true" }, { "id":"25", "visible":"true" }, { "id":"26", "visible":"true" }, { "id":"27", "visible":"true" }, { "id":"28", "visible":"true" }, { "id":"29", "visible":"true" }, { "id":"30", "visible":"true" }, { "id":"31", "visible":"true" }, { "id":"32", "visible":"true" }, { "id":"33", "visible":"true" }, { "id":"34", "visible":"true" }, { "id":"35", "visible":"true" }, { "id":"36", "visible":"true" }, { "id":"37", "visible":"true" }, { "id":"38", "visible":"true" }, { "id":"39", "visible":"true" }, { "id":"40", "visible":"true" }, { "id":"41", "visible":"true" }, { "id":"42", "visible":"true" }, { "id":"43", "visible":"true" }, { "id":"44", "visible":"true" }, { "id":"45", "visible":"true" }, { "id":"46", "visible":"true" }, { "id":"47", "visible":"true" }, { "id":"48", "visible":"true" }, { "id":"49", "visible":"true" }, { "id":"50", "visible":"true" }, { "id":"51", "visible":"true" }, { "id":"52", "visible":"true" }, { "id":"53", "visible":"true" }, { "id":"54", "visible":"true" }, { "id":"55", "visible":"true" }, { "id":"56", "visible":"true" }, { "id":"57", "visible":"true" }, { "id":"58", "visible":"true" }, { "id":"59", "visible":"true" }, { "id":"60", "visible":"true" }, { "id":"61", "visible":"true" }, { "id":"62", "visible":"true" }, { "id":"63", "visible":"true" }, { "id":"64", "visible":"true" }, { "id":"65", "visible":"true" }, { "id":"66", "visible":"true" }, { "id":"67", "visible":"true" }, { "id":"68", "visible":"true" }, { "id":"69", "visible":"true" }, { "id":"70", "visible":"true" }, { "id":"71", "visible":"true" }, { "id":"72", "visible":"true" }, { "id":"73", "visible":"true" }, { "id":"74", "visible":"true" }, { "id":"75", "visible":"true" }, { "id":"76", "visible":"true" }, { "id":"77", "visible":"true" }, { "id":"78", "visible":"true" }, { "id":"79", "visible":"true" }, { "id":"80", "visible":"true" }, { "id":"81", "visible":"true" }, { "id":"82", "visible":"true" }, { "id":"83", "visible":"true" }, { "id":"84", "visible":"true" }, { "id":"85", "visible":"true" }, { "id":"86", "visible":"true" }, { "id":"87", "visible":"true" }, { "id":"88", "visible":"true" }, { "id":"89",

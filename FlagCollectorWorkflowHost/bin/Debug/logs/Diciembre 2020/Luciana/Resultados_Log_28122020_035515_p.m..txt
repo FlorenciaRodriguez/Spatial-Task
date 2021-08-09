@@ -1,0 +1,59 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:Luciana        
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,rojo,rojo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:20,20,20,20,20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):3,2,2,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;Luciana        
+Radio;20
+Hora Inicio;28/12/2020 03:55:55 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;279
+IzquierdaX;3,128689
+IzquierdaY;-19,75377
+IdDerecha;299
+DerechaX;9,696192
+DerechaY;-17,49239
+
+IdCorrecta;299
+CorrectaX;9,696192
+CorrectaY;-17,49239
+
+Hora Fin Seleccion;28/12/2020 03:57:54 p.m.
+Bandera Seleccionada [id];233
+Bandera Seleccionada [X];-12,0363
+Bandera Seleccionada [Y];-15,97271
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;281
+IzquierdaX;3,81618
+IzquierdaY;-19,63254
+IdDerecha;301
+DerechaX;10,30076
+DerechaY;-17,14335
+
+IdCorrecta;291
+CorrectaX;7,167359
+CorrectaY;-18,67161
+
+Captura Bandera;281
+Hora;28/12/2020 04:04:07 p.m.
+Hora Centro;28/12/2020 04:04:21 p.m.
+Captura Bandera;301
+Hora;28/12/2020 04:04:40 p.m.

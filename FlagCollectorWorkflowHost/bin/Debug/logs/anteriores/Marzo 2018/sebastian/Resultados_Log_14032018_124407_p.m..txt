@@ -1,0 +1,36 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:sebastian
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo
+Escenario(1-11,null):0
+Nro Protocolo:2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):3
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;sebastian
+Radio;20
+Hora Inicio;14/03/2018 12:44:15 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;7
+IzquierdaX;19,85092
+IzquierdaY;2,437387
+IdDerecha;27
+DerechaX;17,82013
+DerechaY;9,07981
+
+IdCorrecta;17
+CorrectaX;19,12609
+CorrectaY;5,847434
+
+Hora Fin Seleccion;14/03/2018 12:45:19 p.m.
+Bandera Seleccionada [id];42
+Bandera Seleccionada [X];14,8629
+Bandera Seleccionada [Y];13,38261

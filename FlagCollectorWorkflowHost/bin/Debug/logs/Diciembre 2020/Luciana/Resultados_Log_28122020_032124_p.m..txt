@@ -1,0 +1,91 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:Luciana        
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,rojo,rojo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:60,20,20,20,20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,2,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;Luciana        
+Radio;20
+Hora Inicio;28/12/2020 03:21:32 p.m.
+NroIteracion;0
+Angulo;60
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;89
+IzquierdaX;0,3490481
+IzquierdaY;19,99695
+IdDerecha;149
+DerechaX;-17,14335
+DerechaY;10,30076
+
+IdCorrecta;149
+CorrectaX;-17,14335
+CorrectaY;10,30076
+
+Captura Bandera;89
+Hora;28/12/2020 03:22:10 p.m.
+Hora Centro;28/12/2020 03:22:24 p.m.
+Captura Bandera;149
+Hora;28/12/2020 03:22:42 p.m.
+Inicio test memoria;28/12/2020 03:22:56 p.m.
+Hora Fin Seleccion;28/12/2020 03:23:57 p.m.
+Bandera Seleccionada [id];148
+Bandera Seleccionada [X];-16,96096
+Bandera Seleccionada [Y];10,59838
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;36
+IzquierdaX;16,18034
+IzquierdaY;11,7557
+IdDerecha;56
+DerechaX;11,18386
+DerechaY;16,58075
+
+IdCorrecta;46
+CorrectaX;13,89317
+CorrectaY;14,3868
+
+Captura Bandera;36
+Hora;28/12/2020 03:24:29 p.m.
+Hora Centro;28/12/2020 03:24:43 p.m.
+Captura Bandera;56
+Hora;28/12/2020 03:25:07 p.m.
+Inicio test memoria;28/12/2020 03:25:21 p.m.
+Hora Fin Seleccion;28/12/2020 03:26:23 p.m.
+Bandera Seleccionada [id];44
+Bandera Seleccionada [X];14,3868
+Bandera Seleccionada [Y];13,89317
+NroIteracion;2
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;316
+IzquierdaX;14,3868
+IzquierdaY;-13,89317
+IdDerecha;336
+DerechaX;18,27091
+DerechaY;-8,134733
+
+IdCorrecta;326
+CorrectaX;16,58075
+CorrectaY;-11,18386
+
+Captura Bandera;316
+Hora;28/12/2020 03:26:59 p.m.
+Hora Centro;28/12/2020 03:27:14 p.m.
+Captura Bandera;336
+Hora;28/12/2020 03:27:33 p.m.

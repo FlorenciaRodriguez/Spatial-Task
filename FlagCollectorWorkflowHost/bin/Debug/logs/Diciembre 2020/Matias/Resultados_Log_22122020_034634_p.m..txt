@@ -1,0 +1,59 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:Matias
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:20,20,20,20,20,20,20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):3,2,2,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;Matias
+Radio;20
+Hora Inicio;22/12/2020 03:47:05 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;355
+IzquierdaX;19,92389
+IzquierdaY;-1,743115
+IdDerecha;15
+DerechaX;19,31852
+DerechaY;5,176381
+
+IdCorrecta;15
+CorrectaX;19,31852
+CorrectaY;5,176381
+
+Hora Fin Seleccion;22/12/2020 03:48:53 p.m.
+Bandera Seleccionada [id];166
+Bandera Seleccionada [X];-19,40591
+Bandera Seleccionada [Y];4,838438
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;197
+IzquierdaX;-19,12609
+IzquierdaY;-5,847434
+IdDerecha;217
+DerechaX;-15,97271
+DerechaY;-12,0363
+
+IdCorrecta;207
+CorrectaX;-17,82013
+CorrectaY;-9,07981
+
+Captura Bandera;197
+Hora;22/12/2020 03:54:20 p.m.
+Hora Centro;22/12/2020 03:54:33 p.m.
+Captura Bandera;217
+Hora;22/12/2020 03:54:49 p.m.

@@ -1,0 +1,15 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:bernardo
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,rojo
+Escenario(1-11,null):0,0,0,0
+Nro Protocolo:2,2,2,2
+Angulos:60,20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,2,2
+Lateralidad(I/D/M):M,M,M,M
+Pares(S/N):N,N,N
+bandera:-1
+bandera:-1

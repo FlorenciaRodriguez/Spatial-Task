@@ -1,0 +1,37 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:oriana
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo
+Escenario(1-11,null):0
+Nro Protocolo:2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):2
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;oriana
+Radio;20
+Hora Inicio;14/03/2018 04:50:51 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;46
+IzquierdaX;13,89317
+IzquierdaY;14,3868
+IdDerecha;66
+DerechaX;8,134733
+DerechaY;18,27091
+
+IdCorrecta;56
+CorrectaX;11,18386
+CorrectaY;16,58075
+
+Captura Bandera;46
+Hora;14/03/2018 04:51:20 p.m.
+Hora Centro;14/03/2018 04:51:33 p.m.
+Captura Bandera;66
+Hora;14/03/2018 04:51:49 p.m.

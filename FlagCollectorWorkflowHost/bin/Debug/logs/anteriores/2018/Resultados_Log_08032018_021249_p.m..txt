@@ -1,0 +1,195 @@
+IP(192.168.31.101):127.0.0.1
+Trial(T) o PreTraining(P):P
+Nombre Sujeto:flor1
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo
+Escenario(1-11,null):5
+Nro Protocolo:0
+Angulos:60
+Test Memoria (1Si/2No/3Solo Evaluar):1
+Lateralidad(I/D/M):M
+Pares(S/N):S
+Sujeto;flor1
+Radio;20
+Hora Inicio;08/03/2018 02:13:07 p.m.
+NroIteracion;0
+Protocolo;0
+IdBandera;147
+IdBanderaX;-16,77341
+IdBanderaY;10,89278
+
+IdCorrecta;147
+CorrectaX;-16,77341
+CorrectaY;10,89278
+
+Captura Bandera;147
+Hora;08/03/2018 02:13:22 p.m.
+Inicio test memoria;08/03/2018 02:13:39 p.m.
+Hora Fin Seleccion;08/03/2018 02:13:46 p.m.
+Bandera Seleccionada [id];0
+Bandera Seleccionada [X];20
+Bandera Seleccionada [Y];0
+CruzX;9
+CruzY;9
+NroIteracion;1
+IdBandera;330
+IdBanderaX;17,32051
+IdBanderaY;-10
+
+IdCorrecta;330
+CorrectaX;17,32051
+CorrectaY;-10
+
+Captura Bandera;330
+Hora;08/03/2018 02:14:29 p.m.
+Inicio test memoria;08/03/2018 02:14:41 p.m.
+Hora Fin Seleccion;08/03/2018 02:14:50 p.m.
+Bandera Seleccionada [id];359
+Bandera Seleccionada [X];19,99695
+Bandera Seleccionada [Y];-0,3490481
+CruzX;-9
+CruzY;-9
+NroIteracion;2
+IdBandera;276
+IdBanderaX;2,090569
+IdBanderaY;-19,89044
+
+IdCorrecta;276
+CorrectaX;2,090569
+CorrectaY;-19,89044
+
+Captura Bandera;276
+Hora;08/03/2018 02:15:18 p.m.
+Inicio test memoria;08/03/2018 02:15:27 p.m.
+Hora Fin Seleccion;08/03/2018 02:15:33 p.m.
+Bandera Seleccionada [id];0
+Bandera Seleccionada [X];20
+Bandera Seleccionada [Y];0
+CruzX;12
+CruzY;12
+NroIteracion;3
+IdBandera;321
+IdBanderaX;15,54292
+IdBanderaY;-12,58641
+
+IdCorrecta;321
+CorrectaX;15,54292
+CorrectaY;-12,58641
+
+Captura Bandera;321
+Hora;08/03/2018 02:16:25 p.m.
+Inicio test memoria;08/03/2018 02:16:52 p.m.
+Hora Fin Seleccion;08/03/2018 02:17:00 p.m.
+Bandera Seleccionada [id];359
+Bandera Seleccionada [X];19,99695
+Bandera Seleccionada [Y];-0,3490481
+CruzX;8
+CruzY;8
+NroIteracion;4
+IdBandera;322
+IdBanderaX;15,76022
+IdBanderaY;-12,31323
+
+IdCorrecta;322
+CorrectaX;15,76022
+CorrectaY;-12,31323
+
+Captura Bandera;322
+Hora;08/03/2018 02:17:53 p.m.
+Inicio test memoria;08/03/2018 02:18:11 p.m.
+Hora Fin Seleccion;08/03/2018 02:18:17 p.m.
+Bandera Seleccionada [id];0
+Bandera Seleccionada [X];20
+Bandera Seleccionada [Y];0
+CruzX;11
+CruzY;11
+NroIteracion;5
+IdBandera;170
+IdBanderaX;-19,69616
+IdBanderaY;3,472964
+
+IdCorrecta;170
+CorrectaX;-19,69616
+CorrectaY;3,472964
+
+Captura Bandera;170
+Hora;08/03/2018 02:19:00 p.m.
+Inicio test memoria;08/03/2018 02:19:19 p.m.
+Hora Fin Seleccion;08/03/2018 02:19:33 p.m.
+Bandera Seleccionada [id];0
+Bandera Seleccionada [X];20
+Bandera Seleccionada [Y];0
+CruzX;-2
+CruzY;-2
+NroIteracion;6
+IdBandera;124
+IdBanderaX;-11,18386
+IdBanderaY;16,58075
+
+IdCorrecta;124
+CorrectaX;-11,18386
+CorrectaY;16,58075
+
+Captura Bandera;124
+Hora;08/03/2018 02:20:18 p.m.
+Inicio test memoria;08/03/2018 02:20:30 p.m.
+Hora Fin Seleccion;08/03/2018 02:20:38 p.m.
+Bandera Seleccionada [id];359
+Bandera Seleccionada [X];19,99695
+Bandera Seleccionada [Y];-0,3490481
+CruzX;10
+CruzY;10
+NroIteracion;7
+IdBandera;326
+IdBanderaX;16,58075
+IdBanderaY;-11,18386
+
+IdCorrecta;326
+CorrectaX;16,58075
+CorrectaY;-11,18386
+
+Captura Bandera;326
+Hora;08/03/2018 02:21:07 p.m.
+Inicio test memoria;08/03/2018 02:21:20 p.m.
+Hora Fin Seleccion;08/03/2018 02:21:26 p.m.
+Bandera Seleccionada [id];0
+Bandera Seleccionada [X];20
+Bandera Seleccionada [Y];0
+CruzX;-4
+CruzY;-4
+NroIteracion;8
+IdBandera;295
+IdBanderaX;8,452366
+IdBanderaY;-18,12616
+
+IdCorrecta;295
+CorrectaX;8,452366
+CorrectaY;-18,12616
+
+Captura Bandera;295
+Hora;08/03/2018 02:21:56 p.m.
+Inicio test memoria;08/03/2018 02:22:07 p.m.
+Hora Fin Seleccion;08/03/2018 02:22:13 p.m.
+Bandera Seleccionada [id];0
+Bandera Seleccionada [X];20
+Bandera Seleccionada [Y];0
+CruzX;2
+CruzY;2
+NroIteracion;9
+IdBandera;320
+IdBanderaX;15,32089
+IdBanderaY;-12,85575
+
+IdCorrecta;320
+CorrectaX;15,32089
+CorrectaY;-12,85575
+
+Captura Bandera;320
+Hora;08/03/2018 02:22:41 p.m.
+Inicio test memoria;08/03/2018 02:22:54 p.m.
+Hora Fin Seleccion;08/03/2018 02:23:00 p.m.
+Bandera Seleccionada [id];359
+Bandera Seleccionada [X];19,99695
+Bandera Seleccionada [Y];-0,3490481

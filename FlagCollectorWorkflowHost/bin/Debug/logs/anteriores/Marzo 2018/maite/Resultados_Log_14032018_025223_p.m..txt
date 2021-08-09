@@ -1,0 +1,37 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:maite
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo
+Escenario(1-11,null):0
+Nro Protocolo:2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):2
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;maite
+Radio;20
+Hora Inicio;14/03/2018 02:52:30 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;203
+IzquierdaX;-18,4101
+IzquierdaY;-7,814622
+IdDerecha;223
+DerechaX;-14,62707
+DerechaY;-13,63997
+
+IdCorrecta;213
+CorrectaX;-16,77341
+CorrectaY;-10,89278
+
+Captura Bandera;203
+Hora;14/03/2018 02:53:43 p.m.
+Hora Centro;14/03/2018 02:53:56 p.m.
+Captura Bandera;223
+Hora;14/03/2018 02:54:30 p.m.

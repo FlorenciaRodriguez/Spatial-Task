@@ -1,0 +1,38 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:Victoria        
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):3,1,2,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;Victoria        
+Radio;20
+Hora Inicio;23/12/2020 11:57:52 a.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;32
+IzquierdaX;16,96096
+IzquierdaY;10,59838
+IdDerecha;52
+DerechaX;12,31323
+DerechaY;15,76022
+
+IdCorrecta;52
+CorrectaX;12,31323
+CorrectaY;15,76022
+
+Hora Fin Seleccion;23/12/2020 11:59:00 a.m.
+Bandera Seleccionada [id];250
+Bandera Seleccionada [X];-6,840403
+Bandera Seleccionada [Y];-18,79385

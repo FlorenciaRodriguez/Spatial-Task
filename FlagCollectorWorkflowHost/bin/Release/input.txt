@@ -1,0 +1,11 @@
+IP:127.0.0.1
+IdSujeto:3
+Radio:20
+Angulo(Nro Protocolo=1,2):120
+Autoevaluacion(Nro Protocolo=1,2)(S/N):N
+Color Bandera(rojo/amarillo/verde/azul):verde
+Nro Protocolo (0/1/2):2
+Test Memoria(Nro Protocolo=1,2)(S/N):S
+Protocolos(Nro Protocolo=1):2,1
+Cantidad de Banderas(Nro Protocolo=2,0):90
+Separacion(Nro Protocolo=2,0):2

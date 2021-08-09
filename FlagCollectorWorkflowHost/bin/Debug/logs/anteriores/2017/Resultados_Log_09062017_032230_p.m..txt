@@ -1,0 +1,52 @@
+IP(192.168.31.101):127.0.0.1
+Trial(T) o PreTraining(P):P
+Nombre Sujeto:P1
+Radio:4
+Cantidad de Banderas:180
+Separacion:2
+Color Bandera (rojo/amarillo/verde):rojo,amarillo,amarillo,rojo
+Escenario(1-11,null):0,1,2,3
+Nro Protocolo:2,3,3,2,3
+Angulos:120,80,20,40,30
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,1,1,2
+Lateralidad(I/D/M):I,M,D,I,M
+Pares(S/N):S,N,S,N,S
+Sujeto;P1
+Radio;4
+Hora Inicio;09/06/2017 03:22:39 p.m.
+NroIteracion;0
+Protocolo;2
+IdBandera;63
+IdBanderaX;-2,351141
+IdBanderaY;3,236068
+
+IdCorrecta;63
+CorrectaX;-2,351141
+CorrectaY;3,236068
+
+Captura Bandera;63
+Hora;09/06/2017 03:22:47 p.m.
+Inicio test memoria;09/06/2017 03:22:51 p.m.
+Hora Fin Seleccion;09/06/2017 03:22:59 p.m.
+Bandera Seleccionada [id];179
+Bandera Seleccionada [X];3,997563
+Bandera Seleccionada [Y];-0,139598
+CruzX;7
+CruzY;7
+NroIteracion;1
+Protocolo;3
+IdBandera;159
+IdBanderaX;2,972579
+IdBanderaY;-2,676522
+
+IdCorrecta;159
+CorrectaX;2,972579
+CorrectaY;-2,676522
+
+Captura Bandera;159
+Hora;09/06/2017 03:23:21 p.m.
+Inicio test memoria;09/06/2017 03:23:28 p.m.
+Hora Fin Seleccion;09/06/2017 03:23:39 p.m.
+Bandera Seleccionada [id];180
+Bandera Seleccionada [X];7,663444
+Bandera Seleccionada [Y];8,056271

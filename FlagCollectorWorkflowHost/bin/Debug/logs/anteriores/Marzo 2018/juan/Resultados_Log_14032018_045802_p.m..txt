@@ -1,0 +1,36 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:juan
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo
+Escenario(1-11,null):0
+Nro Protocolo:2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):3
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;juan
+Radio;20
+Hora Inicio;14/03/2018 04:58:12 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;172
+IzquierdaX;-19,80536
+IzquierdaY;2,783462
+IdDerecha;192
+DerechaX;-19,56295
+DerechaY;-4,158234
+
+IdCorrecta;182
+CorrectaX;-19,98782
+CorrectaY;-0,6979899
+
+Hora Fin Seleccion;14/03/2018 05:00:28 p.m.
+Bandera Seleccionada [id];302
+Bandera Seleccionada [X];10,59838
+Bandera Seleccionada [Y];-16,96096

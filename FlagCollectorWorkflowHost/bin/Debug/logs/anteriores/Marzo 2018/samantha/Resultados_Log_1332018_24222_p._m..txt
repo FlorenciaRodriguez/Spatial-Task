@@ -1,0 +1,37 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:samanta
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo
+Escenario(1-11,null):0
+Nro Protocolo:2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):2
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;samanta
+Radio;20
+Hora Inicio;13/3/2018 2:42:29 p. m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;146
+IzquierdaX;-16,58075
+IzquierdaY;11,18386
+IdDerecha;166
+DerechaX;-19,40591
+DerechaY;4,838438
+
+IdCorrecta;156
+CorrectaX;-18,27091
+CorrectaY;8,134733
+
+Captura Bandera;146
+Hora;13/3/2018 2:42:50 p. m.
+Hora Centro;13/3/2018 2:43:05 p. m.
+Captura Bandera;166
+Hora;13/3/2018 2:43:25 p. m.

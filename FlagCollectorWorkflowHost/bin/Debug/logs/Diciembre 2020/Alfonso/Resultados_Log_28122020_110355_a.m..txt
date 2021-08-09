@@ -1,0 +1,65 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:Alfonso        
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,2,1,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;Alfonso        
+Radio;20
+Hora Inicio;28/12/2020 11:04:03 a.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;307
+IzquierdaX;12,0363
+IzquierdaY;-15,97271
+IdDerecha;327
+DerechaX;16,77341
+DerechaY;-10,89278
+
+IdCorrecta;327
+CorrectaX;16,77341
+CorrectaY;-10,89278
+
+Captura Bandera;307
+Hora;28/12/2020 11:04:29 a.m.
+Hora Centro;28/12/2020 11:04:45 a.m.
+Captura Bandera;327
+Hora;28/12/2020 11:05:10 a.m.
+Inicio test memoria;28/12/2020 11:05:23 a.m.
+Hora Fin Seleccion;28/12/2020 11:06:30 a.m.
+Bandera Seleccionada [id];315
+Bandera Seleccionada [X];14,14214
+Bandera Seleccionada [Y];-14,14214
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;3
+IzquierdaX;19,97259
+IzquierdaY;1,046719
+IdDerecha;23
+DerechaX;18,4101
+DerechaY;7,814622
+
+IdCorrecta;13
+CorrectaX;19,4874
+CorrectaY;4,499021
+
+Captura Bandera;3
+Hora;28/12/2020 11:07:08 a.m.
+Hora Centro;28/12/2020 11:07:24 a.m.
+Captura Bandera;23
+Hora;28/12/2020 11:07:45 a.m.

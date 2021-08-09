@@ -1,0 +1,91 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:victoria
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,rojo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:60,20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,2,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;victoria
+Radio;20
+Hora Inicio;22/12/2020 12:20:02 p.m.
+NroIteracion;0
+Angulo;60
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;342
+IzquierdaX;19,02113
+IzquierdaY;-6,18034
+IdDerecha;42
+DerechaX;14,8629
+DerechaY;13,38261
+
+IdCorrecta;42
+CorrectaX;14,8629
+CorrectaY;13,38261
+
+Captura Bandera;342
+Hora;22/12/2020 12:20:33 p.m.
+Hora Centro;22/12/2020 12:20:53 p.m.
+Captura Bandera;42
+Hora;22/12/2020 12:21:19 p.m.
+Inicio test memoria;22/12/2020 12:21:36 p.m.
+Hora Fin Seleccion;22/12/2020 12:22:23 p.m.
+Bandera Seleccionada [id];320
+Bandera Seleccionada [X];15,32089
+Bandera Seleccionada [Y];-12,85575
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;102
+IzquierdaX;-4,158234
+IzquierdaY;19,56295
+IdDerecha;122
+DerechaX;-10,59838
+DerechaY;16,96096
+
+IdCorrecta;112
+CorrectaX;-7,492132
+CorrectaY;18,54368
+
+Captura Bandera;102
+Hora;22/12/2020 12:22:57 p.m.
+Hora Centro;22/12/2020 12:23:15 p.m.
+Captura Bandera;122
+Hora;22/12/2020 12:23:40 p.m.
+Inicio test memoria;22/12/2020 12:23:58 p.m.
+Hora Fin Seleccion;22/12/2020 12:25:32 p.m.
+Bandera Seleccionada [id];133
+Bandera Seleccionada [X];-13,63997
+Bandera Seleccionada [Y];14,62707
+NroIteracion;2
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;304
+IzquierdaX;11,18386
+IzquierdaY;-16,58075
+IdDerecha;324
+DerechaX;16,18034
+DerechaY;-11,7557
+
+IdCorrecta;314
+CorrectaX;13,89317
+CorrectaY;-14,3868
+
+Captura Bandera;304
+Hora;22/12/2020 12:30:13 p.m.
+Hora Centro;22/12/2020 12:30:38 p.m.
+Captura Bandera;324
+Hora;22/12/2020 12:30:57 p.m.

@@ -1,0 +1,64 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:Sol        
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):3,1,2,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;Sol        
+Radio;20
+Hora Inicio;23/12/2020 01:52:17 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;294
+IzquierdaX;8,134733
+IzquierdaY;-18,27091
+IdDerecha;314
+DerechaX;13,89317
+DerechaY;-14,3868
+
+IdCorrecta;314
+CorrectaX;13,89317
+CorrectaY;-14,3868
+
+Hora Fin Seleccion;23/12/2020 01:59:41 p.m.
+Bandera Seleccionada [id];252
+Bandera Seleccionada [X];-6,18034
+Bandera Seleccionada [Y];-19,02113
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;344
+IzquierdaX;19,22523
+IzquierdaY;-5,512747
+IdDerecha;4
+DerechaX;19,95128
+DerechaY;1,395129
+
+IdCorrecta;354
+CorrectaX;19,89044
+CorrectaY;-2,090569
+
+Captura Bandera;344
+Hora;23/12/2020 02:01:12 p.m.
+Hora Centro;23/12/2020 02:01:37 p.m.
+Captura Bandera;4
+Hora;23/12/2020 02:02:04 p.m.
+Inicio test memoria;23/12/2020 02:02:26 p.m.
+Hora Fin Seleccion;23/12/2020 02:03:25 p.m.
+Bandera Seleccionada [id];357
+Bandera Seleccionada [X];19,97259
+Bandera Seleccionada [Y];-1,046719

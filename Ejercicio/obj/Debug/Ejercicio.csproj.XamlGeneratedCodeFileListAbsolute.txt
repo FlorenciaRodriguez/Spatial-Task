@@ -1,0 +1,4 @@
+obj\Debug\_Ejercicio.g.cs
+obj\Debug\Ejercicio.g.cs
+obj\Debug\Ejercicio_Ejercicio_BeforeInitializeComponentHelper.cs
+C:\Users\DellPladema\Desktop\neuro\Ejercicio\obj\Debug\Ejercicio_Ejercicio_CompiledExpressionRoot.cs

@@ -1,0 +1,68 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:jose
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo
+Escenario(1-11,null):0,0,0
+Nro Protocolo:2,2,2
+Angulos:20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,1
+Lateralidad(I/D/M):M,M
+Pares(S/N):N,N,N
+Sujeto;jose
+Radio;20
+Hora Inicio;14/03/2018 12:58:00 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;291
+IzquierdaX;7,167359
+IzquierdaY;-18,67161
+IdDerecha;311
+DerechaX;13,12118
+DerechaY;-15,09419
+
+IdCorrecta;301
+CorrectaX;10,30076
+CorrectaY;-17,14335
+
+Captura Bandera;291
+Hora;14/03/2018 12:58:34 p.m.
+Hora Centro;14/03/2018 12:58:45 p.m.
+Captura Bandera;311
+Hora;14/03/2018 12:59:05 p.m.
+Inicio test memoria;14/03/2018 12:59:17 p.m.
+Hora Fin Seleccion;14/03/2018 01:00:01 p.m.
+Bandera Seleccionada [id];299
+Bandera Seleccionada [X];9,696192
+Bandera Seleccionada [Y];-17,49239
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;317
+IzquierdaX;14,62707
+IzquierdaY;-13,63997
+IdDerecha;337
+DerechaX;18,4101
+DerechaY;-7,814622
+
+IdCorrecta;327
+CorrectaX;16,77341
+CorrectaY;-10,89278
+
+Captura Bandera;317
+Hora;14/03/2018 01:00:27 p.m.
+Hora Centro;14/03/2018 01:00:37 p.m.
+Captura Bandera;337
+Hora;14/03/2018 01:00:54 p.m.
+Inicio test memoria;14/03/2018 01:01:06 p.m.
+Hora Fin Seleccion;14/03/2018 01:01:44 p.m.
+Bandera Seleccionada [id];328
+Bandera Seleccionada [X];16,96096
+Bandera Seleccionada [Y];-10,59838

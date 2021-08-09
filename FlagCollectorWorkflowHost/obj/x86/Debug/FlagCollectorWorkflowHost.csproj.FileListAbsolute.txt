@@ -1,0 +1,201 @@
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.csprojResolveAssemblyReference.cache
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe.config
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowActivities.pdb
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowActivities.dll
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENet_Win32.dll
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENet_x64.dll
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\AdmClaves.dll
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetClient.dll
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetComun.dll
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetCS.dll
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DellPladema\Documents\Flor\ws\visual\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe.config
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENet_Win32.dll
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENet_x64.dll
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\AdmClaves.dll
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetClient.dll
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetComun.dll
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetCS.dll
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowActivities.dll
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowActivities.pdb
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.csprojResolveAssemblyReference.cache
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Habituación.dll
+C:\Users\Flor\Desktop\vs\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Habituación.pdb
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe.config
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENet_Win32.dll
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENet_x64.dll
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\AdmClaves.dll
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetClient.dll
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetComun.dll
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetCS.dll
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowActivities.dll
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Habituación.dll
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Habituación.pdb
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowActivities.pdb
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.csprojResolveAssemblyReference.cache
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Seleccion.dll
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.dll
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Seleccion.pdb
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.pdb
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.Fakes.dll
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.Fakes.xml
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\BuscarBanderas.dll
+C:\Users\DellPladema\Desktop\neurociecia_ultima\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\BuscarBanderas.pdb
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe.config
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENet_Win32.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENet_x64.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\AdmClaves.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\BuscarBanderas.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetClient.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetComun.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetCS.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowActivities.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Habituación.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Seleccion.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.Fakes.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowActivities.pdb
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Habituación.pdb
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Seleccion.pdb
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\BuscarBanderas.pdb
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.Fakes.xml
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.pdb
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Flor\Documents\Visual Studio 2012\Projects\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.csprojResolveAssemblyReference.cache
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe.config
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENet_Win32.dll
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENet_x64.dll
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\AdmClaves.dll
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\BuscarBanderas.dll
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetClient.dll
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetComun.dll
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetCS.dll
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowActivities.dll
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Habituación.dll
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Seleccion.dll
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.Fakes.dll
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.dll
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowActivities.pdb
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Habituación.pdb
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Seleccion.pdb
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\BuscarBanderas.pdb
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.Fakes.xml
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.pdb
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\DellPladema\Desktop\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.csprojResolveAssemblyReference.cache
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe.config
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENet_Win32.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENet_x64.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\AdmClaves.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetClient.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetComun.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetCS.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Habituación.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.Fakes.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Habituación.pdb
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.Fakes.xml
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.csprojResolveAssemblyReference.cache
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ProtocoloSimple.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollectorWorkflowHost\bin\Debug\ProtocoloSimple.pdb
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENet_Win32.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENet_x64.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe.config
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\AdmClaves.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\Ejercicio.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetClient.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetComun.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\ENetCS.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.Fakes.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\Ejercicio.pdb
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\Selección.Fakes.xml
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.csprojResolveAssemblyReference.cache
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\DellPladema\Desktop\Nueva carpeta (2)\VFinal\WFFlagCollector\FlagCollector\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe.config
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\ENet_Win32.dll
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\ENet_x64.dll
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\AdmClaves.dll
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\Ejercicio.dll
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\ENetClient.dll
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\ENetComun.dll
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\ENetCS.dll
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\Selección.Fakes.dll
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\Ejercicio.pdb
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\Selección.Fakes.xml
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\DellPladema\Desktop\FlagCollector-master\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.csprojResolveAssemblyReference.cache
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe.config
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\bin\Debug\ENet_Win32.dll
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\bin\Debug\ENet_x64.dll
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\bin\Debug\AdmClaves.dll
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\bin\Debug\Ejercicio.dll
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\bin\Debug\ENetClient.dll
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\bin\Debug\ENetComun.dll
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\bin\Debug\ENetCS.dll
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\bin\Debug\Selección.Fakes.dll
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\bin\Debug\Ejercicio.pdb
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\bin\Debug\Selección.Fakes.xml
+C:\Users\DellPladema\Desktop\neuro\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.csprojResolveAssemblyReference.cache
+C:\Users\DellPladema\Desktop\guardar\neuro\FlagCollectorWorkflowHost\bin\Debug\FlagCollectorWorkflowHost.exe.config
+C:\Users\DellPladema\Desktop\guardar\neuro\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\DellPladema\Desktop\guardar\neuro\FlagCollectorWorkflowHost\obj\x86\Debug\FlagCollectorWorkflowHost.pdb

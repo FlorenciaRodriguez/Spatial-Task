@@ -1,0 +1,91 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:KatherinePatiño
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,rojo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:60,20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,2,1,1,1,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;KatherinePatiño
+Radio;20
+Hora Inicio;22/12/2020 10:36:08 a.m.
+NroIteracion;0
+Angulo;60
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;163
+IzquierdaX;-19,12609
+IzquierdaY;5,847434
+IdDerecha;223
+DerechaX;-14,62707
+DerechaY;-13,63997
+
+IdCorrecta;223
+CorrectaX;-14,62707
+CorrectaY;-13,63997
+
+Captura Bandera;163
+Hora;22/12/2020 10:36:36 a.m.
+Hora Centro;22/12/2020 10:37:00 a.m.
+Captura Bandera;223
+Hora;22/12/2020 10:37:21 a.m.
+Inicio test memoria;22/12/2020 10:37:42 a.m.
+Hora Fin Seleccion;22/12/2020 10:38:50 a.m.
+Bandera Seleccionada [id];158
+Bandera Seleccionada [X];-18,54368
+Bandera Seleccionada [Y];7,492132
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;210
+IzquierdaX;-17,32051
+IzquierdaY;-10
+IdDerecha;230
+DerechaX;-12,85575
+DerechaY;-15,32089
+
+IdCorrecta;220
+CorrectaX;-15,32089
+CorrectaY;-12,85575
+
+Captura Bandera;210
+Hora;22/12/2020 10:39:15 a.m.
+Hora Centro;22/12/2020 10:39:32 a.m.
+Captura Bandera;230
+Hora;22/12/2020 10:39:50 a.m.
+Inicio test memoria;22/12/2020 10:40:04 a.m.
+Hora Fin Seleccion;22/12/2020 10:40:54 a.m.
+Bandera Seleccionada [id];226
+Bandera Seleccionada [X];-13,89317
+Bandera Seleccionada [Y];-14,3868
+NroIteracion;2
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;169
+IzquierdaX;-19,63254
+IzquierdaY;3,81618
+IdDerecha;189
+DerechaX;-19,75377
+DerechaY;-3,128689
+
+IdCorrecta;179
+CorrectaX;-19,99695
+CorrectaY;0,3490481
+
+Captura Bandera;169
+Hora;22/12/2020 10:41:24 a.m.
+Hora Centro;22/12/2020 10:41:39 a.m.
+Captura Bandera;189
+Hora;22/12/2020 10:41:54 a.m.

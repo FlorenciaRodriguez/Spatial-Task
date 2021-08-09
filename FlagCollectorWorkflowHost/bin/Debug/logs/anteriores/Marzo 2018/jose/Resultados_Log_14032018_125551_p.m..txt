@@ -1,0 +1,36 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:jose
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo
+Escenario(1-11,null):0
+Nro Protocolo:2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):3
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;jose
+Radio;20
+Hora Inicio;14/03/2018 12:56:01 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;321
+IzquierdaX;15,54292
+IzquierdaY;-12,58641
+IdDerecha;341
+DerechaX;18,91037
+DerechaY;-6,511364
+
+IdCorrecta;331
+CorrectaX;17,49239
+CorrectaY;-9,696192
+
+Hora Fin Seleccion;14/03/2018 12:57:15 p.m.
+Bandera Seleccionada [id];348
+Bandera Seleccionada [X];19,56295
+Bandera Seleccionada [Y];-4,158234

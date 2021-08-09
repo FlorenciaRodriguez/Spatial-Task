@@ -1,0 +1,37 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:leandro
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo
+Escenario(1-11,null):0
+Nro Protocolo:2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):2
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;leandro
+Radio;20
+Hora Inicio;13/3/2018 3:12:11 p. m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;166
+IzquierdaX;-19,40591
+IzquierdaY;4,838438
+IdDerecha;186
+DerechaX;-19,89044
+DerechaY;-2,090569
+
+IdCorrecta;176
+CorrectaX;-19,95128
+CorrectaY;1,395129
+
+Captura Bandera;166
+Hora;13/3/2018 3:12:34 p. m.
+Hora Centro;13/3/2018 3:12:48 p. m.
+Captura Bandera;186
+Hora;13/3/2018 3:13:06 p. m.

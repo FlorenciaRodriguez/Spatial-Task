@@ -1,0 +1,91 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:cintia
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,rojo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:60,40,40,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,2,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;cintia
+Radio;20
+Hora Inicio;03/09/2019 11:26:13 a.m.
+NroIteracion;0
+Angulo;60
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;262
+IzquierdaX;-2,783462
+IzquierdaY;-19,80536
+IdDerecha;322
+DerechaX;15,76022
+DerechaY;-12,31323
+
+IdCorrecta;322
+CorrectaX;15,76022
+CorrectaY;-12,31323
+
+Captura Bandera;262
+Hora;03/09/2019 11:26:52 a.m.
+Hora Centro;03/09/2019 11:27:10 a.m.
+Captura Bandera;322
+Hora;03/09/2019 11:27:36 a.m.
+Inicio test memoria;03/09/2019 11:27:53 a.m.
+Hora Fin Seleccion;03/09/2019 11:28:37 a.m.
+Bandera Seleccionada [id];322
+Bandera Seleccionada [X];15,76022
+Bandera Seleccionada [Y];-12,31323
+NroIteracion;1
+Angulo;40
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;221
+IzquierdaX;-15,09419
+IzquierdaY;-13,12118
+IdDerecha;261
+DerechaX;-3,128689
+DerechaY;-19,75377
+
+IdCorrecta;241
+CorrectaX;-9,696192
+CorrectaY;-17,49239
+
+Captura Bandera;221
+Hora;03/09/2019 11:29:18 a.m.
+Hora Centro;03/09/2019 11:29:38 a.m.
+Captura Bandera;261
+Hora;03/09/2019 11:30:06 a.m.
+Inicio test memoria;03/09/2019 11:30:23 a.m.
+Hora Fin Seleccion;03/09/2019 11:31:40 a.m.
+Bandera Seleccionada [id];261
+Bandera Seleccionada [X];-3,128689
+Bandera Seleccionada [Y];-19,75377
+NroIteracion;2
+Angulo;40
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;235
+IzquierdaX;-11,47153
+IzquierdaY;-16,38304
+IdDerecha;275
+DerechaX;1,743115
+DerechaY;-19,92389
+
+IdCorrecta;255
+CorrectaX;-5,176381
+CorrectaY;-19,31852
+
+Captura Bandera;235
+Hora;03/09/2019 11:32:11 a.m.
+Hora Centro;03/09/2019 11:32:29 a.m.
+Captura Bandera;275
+Hora;03/09/2019 11:33:02 a.m.

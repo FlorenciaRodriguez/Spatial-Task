@@ -1,0 +1,94 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:jeremias
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo
+Escenario(1-11,null):0,0,0
+Nro Protocolo:2,2,2
+Angulos:40,20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,1
+Lateralidad(I/D/M):D,M,M
+Pares(S/N):N,N,N
+Sujeto;jeremias
+Radio;20
+Hora Inicio;13/03/2018 05:43:24 p.m.
+NroIteracion;0
+Angulo;40
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;231
+IzquierdaX;-12,58641
+IzquierdaY;-15,54292
+IdDerecha;271
+DerechaX;0,3490481
+DerechaY;-19,99695
+
+IdCorrecta;271
+CorrectaX;0,3490481
+CorrectaY;-19,99695
+
+Captura Bandera;231
+Hora;13/03/2018 05:43:44 p.m.
+Hora Centro;13/03/2018 05:43:59 p.m.
+Captura Bandera;271
+Hora;13/03/2018 05:44:14 p.m.
+Inicio test memoria;13/03/2018 05:44:26 p.m.
+Hora Fin Seleccion;13/03/2018 05:45:04 p.m.
+Bandera Seleccionada [id];263
+Bandera Seleccionada [X];-2,437387
+Bandera Seleccionada [Y];-19,85092
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;6
+IzquierdaX;19,89044
+IzquierdaY;2,090569
+IdDerecha;26
+DerechaX;17,97588
+DerechaY;8,767423
+
+IdCorrecta;16
+CorrectaX;19,22523
+CorrectaY;5,512747
+
+Captura Bandera;6
+Hora;13/03/2018 05:45:25 p.m.
+Hora Centro;13/03/2018 05:45:39 p.m.
+Captura Bandera;26
+Hora;13/03/2018 05:45:56 p.m.
+Inicio test memoria;13/03/2018 05:46:07 p.m.
+Hora Fin Seleccion;13/03/2018 05:46:31 p.m.
+Bandera Seleccionada [id];15
+Bandera Seleccionada [X];19,31852
+Bandera Seleccionada [Y];5,176381
+NroIteracion;2
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;97
+IzquierdaX;-2,437387
+IzquierdaY;19,85092
+IdDerecha;117
+DerechaX;-9,07981
+DerechaY;17,82013
+
+IdCorrecta;107
+CorrectaX;-5,847434
+CorrectaY;19,12609
+
+Captura Bandera;97
+Hora;13/03/2018 05:46:53 p.m.
+Hora Centro;13/03/2018 05:47:05 p.m.
+Captura Bandera;117
+Hora;13/03/2018 05:47:28 p.m.
+Inicio test memoria;13/03/2018 05:47:40 p.m.
+Hora Fin Seleccion;13/03/2018 05:48:20 p.m.
+Bandera Seleccionada [id];112
+Bandera Seleccionada [X];-7,492132
+Bandera Seleccionada [Y];18,54368

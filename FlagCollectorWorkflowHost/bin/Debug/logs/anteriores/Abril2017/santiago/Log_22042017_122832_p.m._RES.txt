@@ -1,0 +1,8 @@
+Parametros: 
+IdSujeto: Santiago
+Numero de Protocolo: 5
+Radio: 20
+Cantidad de Banderas: 180
+Separacion: 2
+Resultados
+Prueba: 0

@@ -1,0 +1,36 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:jeremias
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo
+Escenario(1-11,null):0
+Nro Protocolo:2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):3
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;jeremias
+Radio;20
+Hora Inicio;14/03/2018 05:24:49 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;93
+IzquierdaX;-1,046719
+IzquierdaY;19,97259
+IdDerecha;113
+DerechaX;-7,814622
+DerechaY;18,4101
+
+IdCorrecta;103
+CorrectaX;-4,499021
+CorrectaY;19,4874
+
+Hora Fin Seleccion;14/03/2018 05:25:59 p.m.
+Bandera Seleccionada [id];215
+Bandera Seleccionada [X];-16,38304
+Bandera Seleccionada [Y];-11,47153

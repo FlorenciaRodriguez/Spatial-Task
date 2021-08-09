@@ -1,0 +1,39 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:Cecilia        
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,rojo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):2,2,2,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;Cecilia        
+Radio;20
+Hora Inicio;28/12/2020 12:11:21 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;266
+IzquierdaX;-1,395129
+IzquierdaY;-19,95128
+IdDerecha;286
+DerechaX;5,512747
+DerechaY;-19,22523
+
+IdCorrecta;286
+CorrectaX;5,512747
+CorrectaY;-19,22523
+
+Captura Bandera;266
+Hora;28/12/2020 12:11:42 p.m.
+Hora Centro;28/12/2020 12:12:00 p.m.
+Captura Bandera;286
+Hora;28/12/2020 12:12:21 p.m.
