@@ -1,2 +1,0 @@
-obj\Release\Ejercicio.g.xaml
-obj\Release\Ejercicio_Ejercicio_BeforeInitializeComponentHelper.txt

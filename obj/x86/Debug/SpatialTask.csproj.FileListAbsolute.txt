@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\NC\Flag Collector\bin\Debug\ENet_Win32.dll
+C:\Users\Usuario\Documents\NC\Flag Collector\bin\Debug\ENet_x64.dll
+C:\Users\Usuario\Documents\NC\Flag Collector\bin\Debug\FlagCollectorWorkflowHost.exe.config
+C:\Users\Usuario\Documents\NC\Flag Collector\bin\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\Usuario\Documents\NC\Flag Collector\bin\Debug\FlagCollectorWorkflowHost.pdb
+C:\Users\Usuario\Documents\NC\Flag Collector\bin\Debug\AdmClaves.dll
+C:\Users\Usuario\Documents\NC\Flag Collector\bin\Debug\ENetClient.dll
+C:\Users\Usuario\Documents\NC\Flag Collector\bin\Debug\ENetComun.dll
+C:\Users\Usuario\Documents\NC\Flag Collector\bin\Debug\ENetCS.dll
+C:\Users\Usuario\Documents\NC\Flag Collector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\NC\Flag Collector\bin\Debug\Selección.Fakes.dll
+C:\Users\Usuario\Documents\NC\Flag Collector\bin\Debug\Selección.Fakes.xml
+C:\Users\Usuario\Documents\NC\Flag Collector\obj\x86\Debug\SpatialTask.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\NC\Flag Collector\obj\x86\Debug\SpatialTask.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\NC\Flag Collector\obj\x86\Debug\SpatialTask.csproj.CopyComplete
+C:\Users\Usuario\Documents\NC\Flag Collector\obj\x86\Debug\FlagCollectorWorkflowHost.exe
+C:\Users\Usuario\Documents\NC\Flag Collector\obj\x86\Debug\FlagCollectorWorkflowHost.pdb

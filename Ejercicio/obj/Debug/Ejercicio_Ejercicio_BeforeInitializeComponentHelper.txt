@@ -1,2 +1,0 @@
-Ejercicio.g.xaml
-XamlStaticHelperNamespace._XamlStaticHelper
