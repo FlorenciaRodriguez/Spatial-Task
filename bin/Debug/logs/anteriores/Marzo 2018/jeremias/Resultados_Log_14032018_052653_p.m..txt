@@ -1,0 +1,68 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:jeremias
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo
+Escenario(1-11,null):0,0,0
+Nro Protocolo:2,2,2
+Angulos:20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,1
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;jeremias
+Radio;20
+Hora Inicio;14/03/2018 05:27:04 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;345
+IzquierdaX;19,31852
+IzquierdaY;-5,176381
+IdDerecha;5
+DerechaX;19,92389
+DerechaY;1,743115
+
+IdCorrecta;355
+CorrectaX;19,92389
+CorrectaY;-1,743115
+
+Captura Bandera;345
+Hora;14/03/2018 05:27:26 p.m.
+Hora Centro;14/03/2018 05:27:38 p.m.
+Captura Bandera;5
+Hora;14/03/2018 05:27:52 p.m.
+Inicio test memoria;14/03/2018 05:28:03 p.m.
+Hora Fin Seleccion;14/03/2018 05:28:15 p.m.
+Bandera Seleccionada [id];358
+Bandera Seleccionada [X];19,98782
+Bandera Seleccionada [Y];-0,6979899
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;71
+IzquierdaX;6,511364
+IzquierdaY;18,91037
+IdDerecha;91
+DerechaX;-0,3490481
+DerechaY;19,99695
+
+IdCorrecta;81
+CorrectaX;3,128689
+CorrectaY;19,75377
+
+Captura Bandera;71
+Hora;14/03/2018 05:28:36 p.m.
+Hora Centro;14/03/2018 05:28:47 p.m.
+Captura Bandera;91
+Hora;14/03/2018 05:29:03 p.m.
+Inicio test memoria;14/03/2018 05:29:13 p.m.
+Hora Fin Seleccion;14/03/2018 05:29:39 p.m.
+Bandera Seleccionada [id];83
+Bandera Seleccionada [X];2,437387
+Bandera Seleccionada [Y];19,85092

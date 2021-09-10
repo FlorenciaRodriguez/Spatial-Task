@@ -1,0 +1,36 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:celeste
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo
+Escenario(1-11,null):0,0,0
+Nro Protocolo:2,2,2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):3,1,3
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;celeste
+Radio;20
+Hora Inicio;15/03/2018 10:51:19 a.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;309
+IzquierdaX;12,58641
+IzquierdaY;-15,54292
+IdDerecha;329
+DerechaX;17,14335
+DerechaY;-10,30076
+
+IdCorrecta;319
+CorrectaX;15,09419
+CorrectaY;-13,12118
+
+Hora Fin Seleccion;15/03/2018 10:52:46 a.m.
+Bandera Seleccionada [id];84
+Bandera Seleccionada [X];2,090569
+Bandera Seleccionada [Y];19,89044

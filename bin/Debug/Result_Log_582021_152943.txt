@@ -1,0 +1,12 @@
+Participant Name: prueba
+Trial strat time: 5/8/2021 15:29:56
+NoTrial: 0
+Flag Taget (id): 354
+Flag Taget [X]: 19,89044
+Flag Taget [Y]: -2,090569
+Flag catch time: 5/8/2021 15:30:18
+Start test time: 5/8/2021 15:30:29
+Finish test time: 5/8/2021 15:30:37
+Selected flag (id): 359
+Selected flag [X]: 19,99695
+Selected flag [Y]: -0,3490481

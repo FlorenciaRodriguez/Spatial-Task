@@ -1,0 +1,94 @@
+IP(192.168.31.101):127.0.0.1
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:flor1
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo
+Escenario(1-11,null):0,0,0
+Nro Protocolo:2,2,2
+Angulos:60,20,40,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,2
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;flor1
+Radio;20
+Hora Inicio;08/03/2018 02:49:54 p.m.
+NroIteracion;0
+Angulo;60
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;213
+IzquierdaX;-16,77341
+IzquierdaY;-10,89278
+IdDerecha;273
+DerechaX;1,046719
+DerechaY;-19,97259
+
+IdCorrecta;243
+CorrectaX;-9,07981
+CorrectaY;-17,82013
+
+Captura Bandera;213
+Hora;08/03/2018 02:50:25 p.m.
+Hora Centro;08/03/2018 02:50:38 p.m.
+Captura Bandera;273
+Hora;08/03/2018 02:50:50 p.m.
+Inicio test memoria;08/03/2018 02:51:03 p.m.
+Hora Fin Seleccion;08/03/2018 02:51:08 p.m.
+Bandera Seleccionada [id];0
+Bandera Seleccionada [X];20
+Bandera Seleccionada [Y];0
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;103
+IzquierdaX;-4,499021
+IzquierdaY;19,4874
+IdDerecha;123
+DerechaX;-10,89278
+DerechaY;16,77341
+
+IdCorrecta;113
+CorrectaX;-7,814622
+CorrectaY;18,4101
+
+Captura Bandera;103
+Hora;08/03/2018 02:51:25 p.m.
+Hora Centro;08/03/2018 02:51:35 p.m.
+Captura Bandera;123
+Hora;08/03/2018 02:51:47 p.m.
+Inicio test memoria;08/03/2018 02:51:57 p.m.
+Hora Fin Seleccion;08/03/2018 02:52:03 p.m.
+Bandera Seleccionada [id];359
+Bandera Seleccionada [X];19,99695
+Bandera Seleccionada [Y];-0,3490481
+NroIteracion;2
+Angulo;40
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;35
+IzquierdaX;16,38304
+IzquierdaY;11,47153
+IdDerecha;75
+DerechaX;5,176381
+DerechaY;19,31852
+
+IdCorrecta;55
+CorrectaX;11,47153
+CorrectaY;16,38304
+
+Captura Bandera;35
+Hora;08/03/2018 02:52:20 p.m.
+Hora Centro;08/03/2018 02:52:31 p.m.
+Captura Bandera;75
+Hora;08/03/2018 02:52:43 p.m.
+Inicio test memoria;08/03/2018 02:52:54 p.m.
+Hora Fin Seleccion;08/03/2018 02:53:03 p.m.
+Bandera Seleccionada [id];359
+Bandera Seleccionada [X];19,99695
+Bandera Seleccionada [Y];-0,3490481

@@ -1,0 +1,94 @@
+IP(192.168.31.101):127.0.0.1
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:flor1
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo
+Escenario(1-11,null):0,0,0
+Nro Protocolo:2,2,2
+Angulos:60,20,40,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,2
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;flor1
+Radio;20
+Hora Inicio;08/03/2018 02:43:43 p.m.
+NroIteracion;0
+Angulo;60
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;333
+IzquierdaX;17,82013
+IzquierdaY;-9,07981
+IdDerecha;33
+DerechaX;16,77341
+DerechaY;10,89278
+
+IdCorrecta;3
+CorrectaX;19,97259
+CorrectaY;1,046719
+
+Captura Bandera;333
+Hora;08/03/2018 02:44:03 p.m.
+Hora Centro;08/03/2018 02:44:16 p.m.
+Captura Bandera;33
+Hora;08/03/2018 02:44:30 p.m.
+Inicio test memoria;08/03/2018 02:44:44 p.m.
+Hora Fin Seleccion;08/03/2018 02:44:50 p.m.
+Bandera Seleccionada [id];0
+Bandera Seleccionada [X];20
+Bandera Seleccionada [Y];0
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;310
+IzquierdaX;12,85575
+IzquierdaY;-15,32089
+IdDerecha;330
+DerechaX;17,32051
+DerechaY;-10
+
+IdCorrecta;320
+CorrectaX;15,32089
+CorrectaY;-12,85575
+
+Captura Bandera;310
+Hora;08/03/2018 02:45:07 p.m.
+Hora Centro;08/03/2018 02:45:18 p.m.
+Captura Bandera;330
+Hora;08/03/2018 02:45:31 p.m.
+Inicio test memoria;08/03/2018 02:45:41 p.m.
+Hora Fin Seleccion;08/03/2018 02:45:47 p.m.
+Bandera Seleccionada [id];0
+Bandera Seleccionada [X];20
+Bandera Seleccionada [Y];0
+NroIteracion;2
+Angulo;40
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;167
+IzquierdaX;-19,4874
+IzquierdaY;4,499021
+IdDerecha;207
+DerechaX;-17,82013
+DerechaY;-9,07981
+
+IdCorrecta;187
+CorrectaX;-19,85092
+CorrectaY;-2,437387
+
+Captura Bandera;167
+Hora;08/03/2018 02:46:10 p.m.
+Hora Centro;08/03/2018 02:46:22 p.m.
+Captura Bandera;207
+Hora;08/03/2018 02:46:37 p.m.
+Inicio test memoria;08/03/2018 02:46:48 p.m.
+Hora Fin Seleccion;08/03/2018 02:46:56 p.m.
+Bandera Seleccionada [id];359
+Bandera Seleccionada [X];19,99695
+Bandera Seleccionada [Y];-0,3490481

@@ -1,0 +1,37 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:micaela
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo
+Escenario(1-11,null):0
+Nro Protocolo:2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):2
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;micaela
+Radio;20
+Hora Inicio;14/03/2018 06:44:12 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;338
+IzquierdaX;18,54368
+IzquierdaY;-7,492132
+IdDerecha;358
+DerechaX;19,98782
+DerechaY;-0,6979899
+
+IdCorrecta;348
+CorrectaX;19,56295
+CorrectaY;-4,158234
+
+Captura Bandera;338
+Hora;14/03/2018 06:44:41 p.m.
+Hora Centro;14/03/2018 06:44:57 p.m.
+Captura Bandera;358
+Hora;14/03/2018 06:45:14 p.m.

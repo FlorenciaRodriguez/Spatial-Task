@@ -1,0 +1,204 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):P
+Nombre Sujeto:ivan
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:60,20,40,1,20,40,1,20,40,1,20,40,1,20,40,1,1,20,40,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Sujeto;ivan
+Radio;20
+Hora Inicio;13/3/2018 11:30:02 a. m.
+NroIteracion;0
+Protocolo;2
+IdBandera;284
+IdBanderaX;4,838438
+IdBanderaY;-19,40591
+
+IdCorrecta;284
+CorrectaX;4,838438
+CorrectaY;-19,40591
+
+Captura Bandera;284
+Hora;13/3/2018 11:30:29 a. m.
+Inicio test memoria;13/3/2018 11:30:46 a. m.
+Hora Fin Seleccion;13/3/2018 11:31:39 a. m.
+Bandera Seleccionada [id];22
+Bandera Seleccionada [X];18,54368
+Bandera Seleccionada [Y];7,492132
+CruzX;1
+CruzY;1
+NroIteracion;1
+Protocolo;2
+IdBandera;176
+IdBanderaX;-19,95128
+IdBanderaY;1,395129
+
+IdCorrecta;176
+CorrectaX;-19,95128
+CorrectaY;1,395129
+
+Captura Bandera;176
+Hora;13/3/2018 11:32:06 a. m.
+Inicio test memoria;13/3/2018 11:32:22 a. m.
+Hora Fin Seleccion;13/3/2018 11:33:32 a. m.
+Bandera Seleccionada [id];168
+Bandera Seleccionada [X];-19,56295
+Bandera Seleccionada [Y];4,158234
+CruzX;-8
+CruzY;-8
+NroIteracion;2
+Protocolo;2
+IdBandera;243
+IdBanderaX;-9,07981
+IdBanderaY;-17,82013
+
+IdCorrecta;243
+CorrectaX;-9,07981
+CorrectaY;-17,82013
+
+Captura Bandera;243
+Hora;13/3/2018 11:33:58 a. m.
+Inicio test memoria;13/3/2018 11:34:10 a. m.
+Hora Fin Seleccion;13/3/2018 11:35:05 a. m.
+Bandera Seleccionada [id];295
+Bandera Seleccionada [X];8,452366
+Bandera Seleccionada [Y];-18,12616
+CruzX;-10
+CruzY;-10
+NroIteracion;3
+Protocolo;2
+IdBandera;310
+IdBanderaX;12,85575
+IdBanderaY;-15,32089
+
+IdCorrecta;310
+CorrectaX;12,85575
+CorrectaY;-15,32089
+
+Captura Bandera;310
+Hora;13/3/2018 11:35:37 a. m.
+Inicio test memoria;13/3/2018 11:36:19 a. m.
+Hora Fin Seleccion;13/3/2018 11:36:49 a. m.
+Bandera Seleccionada [id];305
+Bandera Seleccionada [X];11,47153
+Bandera Seleccionada [Y];-16,38304
+CruzX;-13
+CruzY;-13
+NroIteracion;4
+Protocolo;2
+IdBandera;16
+IdBanderaX;19,22523
+IdBanderaY;5,512747
+
+IdCorrecta;16
+CorrectaX;19,22523
+CorrectaY;5,512747
+
+Captura Bandera;16
+Hora;13/3/2018 11:37:25 a. m.
+Inicio test memoria;13/3/2018 11:38:05 a. m.
+Hora Fin Seleccion;13/3/2018 11:38:29 a. m.
+Bandera Seleccionada [id];27
+Bandera Seleccionada [X];17,82013
+Bandera Seleccionada [Y];9,07981
+CruzX;-5
+CruzY;-5
+NroIteracion;5
+Protocolo;2
+IdBandera;235
+IdBanderaX;-11,47153
+IdBanderaY;-16,38304
+
+IdCorrecta;235
+CorrectaX;-11,47153
+CorrectaY;-16,38304
+
+Captura Bandera;235
+Hora;13/3/2018 11:38:57 a. m.
+Inicio test memoria;13/3/2018 11:39:10 a. m.
+Hora Fin Seleccion;13/3/2018 11:40:05 a. m.
+Bandera Seleccionada [id];223
+Bandera Seleccionada [X];-14,62707
+Bandera Seleccionada [Y];-13,63997
+CruzX;9
+CruzY;9
+NroIteracion;6
+Protocolo;2
+IdBandera;155
+IdBanderaX;-18,12616
+IdBanderaY;8,452366
+
+IdCorrecta;155
+CorrectaX;-18,12616
+CorrectaY;8,452366
+
+Captura Bandera;155
+Hora;13/3/2018 11:40:45 a. m.
+Inicio test memoria;13/3/2018 11:41:05 a. m.
+Hora Fin Seleccion;13/3/2018 11:41:57 a. m.
+Bandera Seleccionada [id];148
+Bandera Seleccionada [X];-16,96096
+Bandera Seleccionada [Y];10,59838
+CruzX;-7
+CruzY;-7
+NroIteracion;7
+Protocolo;2
+IdBandera;151
+IdBanderaX;-17,49239
+IdBanderaY;9,696192
+
+IdCorrecta;151
+CorrectaX;-17,49239
+CorrectaY;9,696192
+
+Captura Bandera;151
+Hora;13/3/2018 11:42:40 a. m.
+Inicio test memoria;13/3/2018 11:42:55 a. m.
+Hora Fin Seleccion;13/3/2018 11:44:00 a. m.
+Bandera Seleccionada [id];164
+Bandera Seleccionada [X];-19,22523
+Bandera Seleccionada [Y];5,512747
+CruzX;11
+CruzY;11
+NroIteracion;8
+Protocolo;2
+IdBandera;234
+IdBanderaX;-11,7557
+IdBanderaY;-16,18034
+
+IdCorrecta;234
+CorrectaX;-11,7557
+CorrectaY;-16,18034
+
+Captura Bandera;234
+Hora;13/3/2018 11:45:06 a. m.
+Inicio test memoria;13/3/2018 11:45:30 a. m.
+Hora Fin Seleccion;13/3/2018 11:46:20 a. m.
+Bandera Seleccionada [id];225
+Bandera Seleccionada [X];-14,14214
+Bandera Seleccionada [Y];-14,14214
+CruzX;4
+CruzY;4
+NroIteracion;9
+Protocolo;2
+IdBandera;103
+IdBanderaX;-4,499021
+IdBanderaY;19,4874
+
+IdCorrecta;103
+CorrectaX;-4,499021
+CorrectaY;19,4874
+
+Captura Bandera;103
+Hora;13/3/2018 11:46:51 a. m.
+Inicio test memoria;13/3/2018 11:47:05 a. m.
+Hora Fin Seleccion;13/3/2018 11:47:56 a. m.
+Bandera Seleccionada [id];125
+Bandera Seleccionada [X];-11,47153
+Bandera Seleccionada [Y];16,38304

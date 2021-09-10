@@ -1,0 +1,64 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:cristian
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,rojo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):3,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;cristian
+Radio;20
+Hora Inicio;29/10/2019 05:30:51 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;73
+IzquierdaX;5,847434
+IzquierdaY;19,12609
+IdDerecha;93
+DerechaX;-1,046719
+DerechaY;19,97259
+
+IdCorrecta;93
+CorrectaX;-1,046719
+CorrectaY;19,97259
+
+Hora Fin Seleccion;29/10/2019 05:33:43 p.m.
+Bandera Seleccionada [id];81
+Bandera Seleccionada [X];3,128689
+Bandera Seleccionada [Y];19,75377
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;88
+IzquierdaX;0,6979899
+IzquierdaY;19,98782
+IdDerecha;108
+DerechaX;-6,18034
+DerechaY;19,02113
+
+IdCorrecta;98
+CorrectaX;-2,783462
+CorrectaY;19,80536
+
+Captura Bandera;88
+Hora;29/10/2019 05:34:51 p.m.
+Hora Centro;29/10/2019 05:35:07 p.m.
+Captura Bandera;108
+Hora;29/10/2019 05:35:26 p.m.
+Inicio test memoria;29/10/2019 05:35:40 p.m.
+Hora Fin Seleccion;29/10/2019 05:36:23 p.m.
+Bandera Seleccionada [id];109
+Bandera Seleccionada [X];-6,511364
+Bandera Seleccionada [Y];18,91037

@@ -1,0 +1,36 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:jimena
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo
+Escenario(1-11,null):0
+Nro Protocolo:2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):3
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;jimena
+Radio;20
+Hora Inicio;15/03/2018 09:26:48 a.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;27
+IzquierdaX;17,82013
+IzquierdaY;9,07981
+IdDerecha;47
+DerechaX;13,63997
+DerechaY;14,62707
+
+IdCorrecta;37
+CorrectaX;15,97271
+CorrectaY;12,0363
+
+Hora Fin Seleccion;15/03/2018 09:32:55 a.m.
+Bandera Seleccionada [id];231
+Bandera Seleccionada [X];-12,58641
+Bandera Seleccionada [Y];-15,54292

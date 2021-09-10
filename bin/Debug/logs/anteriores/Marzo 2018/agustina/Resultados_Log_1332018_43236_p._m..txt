@@ -1,0 +1,37 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:agustina
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo
+Escenario(1-11,null):0
+Nro Protocolo:2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):2
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;agustina
+Radio;20
+Hora Inicio;13/3/2018 4:32:49 p. m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;48
+IzquierdaX;13,38261
+IzquierdaY;14,8629
+IdDerecha;68
+DerechaX;7,492132
+DerechaY;18,54368
+
+IdCorrecta;58
+CorrectaX;10,59838
+CorrectaY;16,96096
+
+Captura Bandera;48
+Hora;13/3/2018 4:33:17 p. m.
+Hora Centro;13/3/2018 4:33:32 p. m.
+Captura Bandera;68
+Hora;13/3/2018 4:33:47 p. m.

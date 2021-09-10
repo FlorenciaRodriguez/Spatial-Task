@@ -1,0 +1,73 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):P
+Nombre Sujeto:flor_test_paper_preTR
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:20,20,20,1,20,40,1,20,40,1,20,40,1,20,40,1,1,20,40,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;flor_test_paper_preTR
+Radio;20
+Hora Inicio;20/12/2018 11:34:54 a.m.
+NroIteracion;0
+Protocolo;2
+IdBandera;260
+IdBanderaX;-3,472964
+IdBanderaY;-19,69616
+
+IdCorrecta;260
+CorrectaX;-3,472964
+CorrectaY;-19,69616
+
+Captura Bandera;260
+Hora;20/12/2018 11:35:15 a.m.
+Inicio test memoria;20/12/2018 11:35:30 a.m.
+Hora Fin Seleccion;20/12/2018 11:36:13 a.m.
+Bandera Seleccionada [id];261
+Bandera Seleccionada [X];-3,128689
+Bandera Seleccionada [Y];-19,75377
+CruzX;9
+CruzY;9
+NroIteracion;1
+Protocolo;2
+IdBandera;179
+IdBanderaX;-19,99695
+IdBanderaY;0,3490481
+
+IdCorrecta;179
+CorrectaX;-19,99695
+CorrectaY;0,3490481
+
+Captura Bandera;179
+Hora;20/12/2018 11:36:59 a.m.
+Inicio test memoria;20/12/2018 11:37:22 a.m.
+Hora Fin Seleccion;20/12/2018 11:38:25 a.m.
+Bandera Seleccionada [id];179
+Bandera Seleccionada [X];-19,99695
+Bandera Seleccionada [Y];0,3490481
+CruzX;1
+CruzY;1
+NroIteracion;2
+Protocolo;2
+IdBandera;202
+IdBanderaX;-18,54368
+IdBanderaY;-7,492132
+
+IdCorrecta;202
+CorrectaX;-18,54368
+CorrectaY;-7,492132
+
+Captura Bandera;202
+Hora;20/12/2018 11:38:48 a.m.
+Inicio test memoria;20/12/2018 11:39:04 a.m.
+Hora Fin Seleccion;20/12/2018 11:40:13 a.m.
+Bandera Seleccionada [id];153
+Bandera Seleccionada [X];-17,82013
+Bandera Seleccionada [Y];9,07981

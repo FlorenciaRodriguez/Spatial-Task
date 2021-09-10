@@ -1,0 +1,38 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:melina
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,rojo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:60,1
+Test Memoria (1Si/2No/3Solo Evaluar):3,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;melina
+Radio;20
+Hora Inicio;26/04/2018 01:43:57 p.m.
+NroIteracion;0
+Angulo;60
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;108
+IzquierdaX;-6,18034
+IzquierdaY;19,02113
+IdDerecha;168
+DerechaX;-19,56295
+DerechaY;4,158234
+
+IdCorrecta;168
+CorrectaX;-19,56295
+CorrectaY;4,158234
+
+Hora Fin Seleccion;26/04/2018 01:45:09 p.m.
+Bandera Seleccionada [id];314
+Bandera Seleccionada [X];13,89317
+Bandera Seleccionada [Y];-14,3868

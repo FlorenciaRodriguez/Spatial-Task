@@ -1,0 +1,59 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:juliana
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):3,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;juliana
+Radio;20
+Hora Inicio;28/10/2019 01:04:11 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;58
+IzquierdaX;10,59838
+IzquierdaY;16,96096
+IdDerecha;78
+DerechaX;4,158234
+DerechaY;19,56295
+
+IdCorrecta;78
+CorrectaX;4,158234
+CorrectaY;19,56295
+
+Hora Fin Seleccion;28/10/2019 01:05:11 p.m.
+Bandera Seleccionada [id];134
+Bandera Seleccionada [X];-13,89317
+Bandera Seleccionada [Y];14,3868
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;229
+IzquierdaX;-13,12118
+IzquierdaY;-15,09419
+IdDerecha;249
+DerechaX;-7,167359
+DerechaY;-18,67161
+
+IdCorrecta;239
+CorrectaX;-10,30076
+CorrectaY;-17,14335
+
+Captura Bandera;229
+Hora;28/10/2019 01:05:36 p.m.
+Hora Centro;28/10/2019 01:05:51 p.m.
+Captura Bandera;249
+Hora;28/10/2019 01:06:06 p.m.

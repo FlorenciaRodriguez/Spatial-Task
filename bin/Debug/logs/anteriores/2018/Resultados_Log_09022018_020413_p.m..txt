@@ -1,0 +1,51 @@
+IP(192.168.31.101):127.0.0.1
+Trial(T) o PreTraining(P):P
+Nombre Sujeto:flor1
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo
+Escenario(1-11,null):5
+Nro Protocolo:0
+Angulos:60
+Test Memoria (1Si/2No/3Solo Evaluar):1
+Lateralidad(I/D/M):M
+Pares(S/N):S
+Sujeto;flor1
+Radio;20
+Hora Inicio;09/02/2018 02:04:21 p.m.
+NroIteracion;0
+Protocolo;0
+IdBandera;193
+IdBanderaX;-19,4874
+IdBanderaY;-4,499021
+
+IdCorrecta;193
+CorrectaX;-19,4874
+CorrectaY;-4,499021
+
+Captura Bandera;193
+Hora;09/02/2018 02:04:39 p.m.
+Inicio test memoria;09/02/2018 02:04:50 p.m.
+Hora Fin Seleccion;09/02/2018 02:05:04 p.m.
+Bandera Seleccionada [id];359
+Bandera Seleccionada [X];19,99695
+Bandera Seleccionada [Y];-0,3490481
+CruzX;-13
+CruzY;-13
+NroIteracion;1
+IdBandera;346
+IdBanderaX;19,40591
+IdBanderaY;-4,838438
+
+IdCorrecta;346
+CorrectaX;19,40591
+CorrectaY;-4,838438
+
+Captura Bandera;346
+Hora;09/02/2018 02:05:46 p.m.
+Inicio test memoria;09/02/2018 02:06:05 p.m.
+Hora Fin Seleccion;09/02/2018 02:06:43 p.m.
+Bandera Seleccionada [id];358
+Bandera Seleccionada [X];19,98782
+Bandera Seleccionada [Y];-0,6979899

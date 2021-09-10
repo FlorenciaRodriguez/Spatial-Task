@@ -1,0 +1,37 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:nahuel
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo
+Escenario(1-11,null):0,0,0
+Nro Protocolo:2,2,2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):2,1,1
+Lateralidad(I/D/M):M,M,M
+Pares(S/N):N,N,N
+Sujeto;nahuel
+Radio;20
+Hora Inicio;13/03/2018 10:29:18 a.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;126
+IzquierdaX;-11,7557
+IzquierdaY;16,18034
+IdDerecha;146
+DerechaX;-16,58075
+DerechaY;11,18386
+
+IdCorrecta;136
+CorrectaX;-14,3868
+CorrectaY;13,89317
+
+Captura Bandera;126
+Hora;13/03/2018 10:30:55 a.m.
+Hora Centro;13/03/2018 10:31:09 a.m.
+Captura Bandera;146
+Hora;13/03/2018 10:31:26 a.m.

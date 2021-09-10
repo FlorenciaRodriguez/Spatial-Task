@@ -1,0 +1,20 @@
+Sujeto;prueba
+Radio;20
+Hora Inicio;5/8/2021 14:40:37
+NroIteracion;0
+Protocolo;2
+IdBandera;302
+IdBanderaX;10,59838
+IdBanderaY;-16,96096
+
+IdCorrecta;302
+CorrectaX;10,59838
+CorrectaY;-16,96096
+
+Captura Bandera;302
+Hora;5/8/2021 14:40:56
+Inicio test memoria;5/8/2021 14:41:08
+Hora Fin Seleccion;5/8/2021 14:41:16
+Bandera Seleccionada [id];355
+Bandera Seleccionada [X];19,92389
+Bandera Seleccionada [Y];-1,743115

@@ -1,0 +1,71 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):P
+Nombre Sujeto:micaela
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:60,20,40,1,20,40,1,20,40,1,20,40,1,20,40,1,1,20,40,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Sujeto;micaela
+Radio;20
+Hora Inicio;14/03/2018 05:45:22 p.m.
+NroIteracion;0
+Protocolo;2
+IdBandera;48
+IdBanderaX;13,38261
+IdBanderaY;14,8629
+
+IdCorrecta;48
+CorrectaX;13,38261
+CorrectaY;14,8629
+
+Captura Bandera;48
+Hora;14/03/2018 05:45:49 p.m.
+Inicio test memoria;14/03/2018 05:46:08 p.m.
+Hora Fin Seleccion;14/03/2018 05:46:43 p.m.
+Bandera Seleccionada [id];32
+Bandera Seleccionada [X];16,96096
+Bandera Seleccionada [Y];10,59838
+CruzX;2
+CruzY;2
+NroIteracion;1
+Protocolo;2
+IdBandera;129
+IdBanderaX;-12,58641
+IdBanderaY;15,54292
+
+IdCorrecta;129
+CorrectaX;-12,58641
+CorrectaY;15,54292
+
+Captura Bandera;129
+Hora;14/03/2018 05:47:18 p.m.
+Inicio test memoria;14/03/2018 05:47:35 p.m.
+Hora Fin Seleccion;14/03/2018 05:49:16 p.m.
+Bandera Seleccionada [id];129
+Bandera Seleccionada [X];-12,58641
+Bandera Seleccionada [Y];15,54292
+CruzX;10
+CruzY;10
+NroIteracion;2
+Protocolo;2
+IdBandera;194
+IdBanderaX;-19,40591
+IdBanderaY;-4,838438
+
+IdCorrecta;194
+CorrectaX;-19,40591
+CorrectaY;-4,838438
+
+Captura Bandera;194
+Hora;14/03/2018 05:50:16 p.m.
+Inicio test memoria;14/03/2018 05:51:06 p.m.
+Hora Fin Seleccion;14/03/2018 05:52:16 p.m.
+Bandera Seleccionada [id];79
+Bandera Seleccionada [X];3,81618
+Bandera Seleccionada [Y];19,63254

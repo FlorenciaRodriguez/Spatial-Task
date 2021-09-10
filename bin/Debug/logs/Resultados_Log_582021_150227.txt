@@ -1,0 +1,5 @@
+Inicio test memoria;5/8/2021 15:03:09
+Hora Fin Seleccion;5/8/2021 15:03:18
+Bandera Seleccionada [id];359
+Bandera Seleccionada [X];19,99695
+Bandera Seleccionada [Y];-0,3490481

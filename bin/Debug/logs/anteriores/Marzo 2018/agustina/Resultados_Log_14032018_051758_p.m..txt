@@ -1,0 +1,68 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:agustina
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo
+Escenario(1-11,null):0,0,0
+Nro Protocolo:2,2,2
+Angulos:20,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,1
+Lateralidad(I/D/M):M,M
+Pares(S/N):N,N,N
+Sujeto;agustina
+Radio;20
+Hora Inicio;14/03/2018 05:18:06 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;58
+IzquierdaX;10,59838
+IzquierdaY;16,96096
+IdDerecha;78
+DerechaX;4,158234
+DerechaY;19,56295
+
+IdCorrecta;68
+CorrectaX;7,492132
+CorrectaY;18,54368
+
+Captura Bandera;58
+Hora;14/03/2018 05:18:28 p.m.
+Hora Centro;14/03/2018 05:18:44 p.m.
+Captura Bandera;78
+Hora;14/03/2018 05:19:02 p.m.
+Inicio test memoria;14/03/2018 05:19:18 p.m.
+Hora Fin Seleccion;14/03/2018 05:20:19 p.m.
+Bandera Seleccionada [id];254
+Bandera Seleccionada [X];-5,512747
+Bandera Seleccionada [Y];-19,22523
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;309
+IzquierdaX;12,58641
+IzquierdaY;-15,54292
+IdDerecha;329
+DerechaX;17,14335
+DerechaY;-10,30076
+
+IdCorrecta;319
+CorrectaX;15,09419
+CorrectaY;-13,12118
+
+Captura Bandera;309
+Hora;14/03/2018 05:20:37 p.m.
+Hora Centro;14/03/2018 05:20:53 p.m.
+Captura Bandera;329
+Hora;14/03/2018 05:21:07 p.m.
+Inicio test memoria;14/03/2018 05:21:24 p.m.
+Hora Fin Seleccion;14/03/2018 05:21:51 p.m.
+Bandera Seleccionada [id];316
+Bandera Seleccionada [X];14,3868
+Bandera Seleccionada [Y];-13,89317

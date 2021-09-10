@@ -1,0 +1,38 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:nazarena
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,rojo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:40,1
+Test Memoria (1Si/2No/3Solo Evaluar):3,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;nazarena
+Radio;20
+Hora Inicio;03/09/2019 01:23:22 p.m.
+NroIteracion;0
+Angulo;40
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;276
+IzquierdaX;2,090569
+IzquierdaY;-19,89044
+IdDerecha;316
+DerechaX;14,3868
+DerechaY;-13,89317
+
+IdCorrecta;316
+CorrectaX;14,3868
+CorrectaY;-13,89317
+
+Hora Fin Seleccion;03/09/2019 01:25:31 p.m.
+Bandera Seleccionada [id];255
+Bandera Seleccionada [X];-5,176381
+Bandera Seleccionada [Y];-19,31852

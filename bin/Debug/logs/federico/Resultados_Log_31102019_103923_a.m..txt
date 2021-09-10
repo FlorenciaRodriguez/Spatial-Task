@@ -1,0 +1,70 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:federico
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,rojo,rojo,,rojo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:60,20,201
+Test Memoria (1Si/2No/3Solo Evaluar):1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;federico
+Radio;20
+Hora Inicio;31/10/2019 10:39:32 a.m.
+NroIteracion;0
+Angulo;60
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;194
+IzquierdaX;-19,40591
+IzquierdaY;-4,838438
+IdDerecha;254
+DerechaX;-5,512747
+DerechaY;-19,22523
+
+IdCorrecta;254
+CorrectaX;-5,512747
+CorrectaY;-19,22523
+
+Captura Bandera;194
+Hora;31/10/2019 10:39:54 a.m.
+Hora Centro;31/10/2019 10:40:06 a.m.
+Captura Bandera;254
+Hora;31/10/2019 10:40:24 a.m.
+Inicio test memoria;31/10/2019 10:40:38 a.m.
+Hora Fin Seleccion;31/10/2019 10:41:38 a.m.
+Bandera Seleccionada [id];240
+Bandera Seleccionada [X];-10
+Bandera Seleccionada [Y];-17,32051
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;274
+IzquierdaX;1,395129
+IzquierdaY;-19,95128
+IdDerecha;294
+DerechaX;8,134733
+DerechaY;-18,27091
+
+IdCorrecta;284
+CorrectaX;4,838438
+CorrectaY;-19,40591
+
+Captura Bandera;274
+Hora;31/10/2019 10:42:00 a.m.
+Hora Centro;31/10/2019 10:42:11 a.m.
+Captura Bandera;294
+Hora;31/10/2019 10:42:29 a.m.
+Inicio test memoria;31/10/2019 10:42:40 a.m.
+Hora Fin Seleccion;31/10/2019 10:43:16 a.m.
+Bandera Seleccionada [id];284
+Bandera Seleccionada [X];4,838438
+Bandera Seleccionada [Y];-19,40591

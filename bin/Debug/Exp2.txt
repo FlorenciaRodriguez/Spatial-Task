@@ -1,0 +1,2 @@
+as[ { "id":"1", "color":"rojo", "x":"15", "y":"0", "visible":"true" }, { "id":"2", "color":"azul", "x":"9,184548E-16", "y":"15", "visible":"true" }, { "id":"3", "color":"amarillo", "x":"-15", "y":"1,83691E-15", "visible":"true" }, { "id":"4", "color":"verde", "x":"-2,755364E-15", "y":"-15", "visible":"true" } ]
+Estado: Detenido

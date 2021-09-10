@@ -1,0 +1,1212 @@
+Sujeto;v
+Radio;20
+Hora Inicio;09/06/2017 03:46:47 p.m.
+AS[ { "id":"0", "color":"rojo", "x":"20", "y":"0", "visible":"false" }, { "id":"1", "color":"rojo", "x":"19.98782", "y":"0.6979899", "visible":"false" }, { "id":"2", "color":"rojo", "x":"19.95128", "y":"1.395129", "visible":"false" }, { "id":"3", "color":"rojo", "x":"19.89044", "y":"2.090569", "visible":"false" }, { "id":"4", "color":"rojo", "x":"19.80536", "y":"2.783462", "visible":"false" }, { "id":"5", "color":"rojo", "x":"19.69616", "y":"3.472964", "visible":"false" }, { "id":"6", "color":"rojo", "x":"19.56295", "y":"4.158234", "visible":"false" }, { "id":"7", "color":"rojo", "x":"19.40591", "y":"4.838438", "visible":"false" }, { "id":"8", "color":"rojo", "x":"19.22523", "y":"5.512747", "visible":"false" }, { "id":"9", "color":"rojo", "x":"19.02113", "y":"6.18034", "visible":"false" }, { "id":"10", "color":"rojo", "x":"18.79385", "y":"6.840403", "visible":"false" }, { "id":"11", "color":"rojo", "x":"18.54368", "y":"7.492132", "visible":"false" }, { "id":"12", "color":"rojo", "x":"18.27091", "y":"8.134733", "visible":"false" }, { "id":"13", "color":"rojo", "x":"17.97588", "y":"8.767423", "visible":"false" }, { "id":"14", "color":"rojo", "x":"17.65895", "y":"9.389431", "visible":"false" }, { "id":"15", "color":"rojo", "x":"17.32051", "y":"10", "visible":"false" }, { "id":"16", "color":"rojo", "x":"16.96096", "y":"10.59838", "visible":"false" }, { "id":"17", "color":"rojo", "x":"16.58075", "y":"11.18386", "visible":"false" }, { "id":"18", "color":"rojo", "x":"16.18034", "y":"11.7557", "visible":"false" }, { "id":"19", "color":"rojo", "x":"15.76022", "y":"12.31323", "visible":"false" }, { "id":"20", "color":"rojo", "x":"15.32089", "y":"12.85575", "visible":"false" }, { "id":"21", "color":"rojo", "x":"14.8629", "y":"13.38261", "visible":"false" }, { "id":"22", "color":"rojo", "x":"14.3868", "y":"13.89317", "visible":"false" }, { "id":"23", "color":"rojo", "x":"13.89317", "y":"14.3868", "visible":"false" }, { "id":"24", "color":"rojo", "x":"13.38261", "y":"14.8629", "visible":"false" }, { "id":"25", "color":"rojo", "x":"12.85575", "y":"15.32089", "visible":"false" }, { "id":"26", "color":"rojo", "x":"12.31323", "y":"15.76022", "visible":"false" }, { "id":"27", "color":"rojo", "x":"11.7557", "y":"16.18034", "visible":"false" }, { "id":"28", "color":"rojo", "x":"11.18386", "y":"16.58075", "visible":"false" }, { "id":"29", "color":"rojo", "x":"10.59838", "y":"16.96096", "visible":"false" }, { "id":"30", "color":"rojo", "x":"10", "y":"17.32051", "visible":"false" }, { "id":"31", "color":"rojo", "x":"9.389431", "y":"17.65895", "visible":"false" }, { "id":"32", "color":"rojo", "x":"8.767423", "y":"17.97588", "visible":"false" }, { "id":"33", "color":"rojo", "x":"8.134733", "y":"18.27091", "visible":"false" }, { "id":"34", "color":"rojo", "x":"7.492132", "y":"18.54368", "visible":"false" }, { "id":"35", "color":"rojo", "x":"6.840403", "y":"18.79385", "visible":"false" }, { "id":"36", "color":"rojo", "x":"6.18034", "y":"19.02113", "visible":"false" }, { "id":"37", "color":"rojo", "x":"5.512747", "y":"19.22523", "visible":"false" }, { "id":"38", "color":"rojo", "x":"4.838438", "y":"19.40591", "visible":"false" }, { "id":"39", "color":"rojo", "x":"4.158234", "y":"19.56295", "visible":"false" }, { "id":"40", "color":"rojo", "x":"3.472964", "y":"19.69616", "visible":"false" }, { "id":"41", "color":"rojo", "x":"2.783462", "y":"19.80536", "visible":"false" }, { "id":"42", "color":"rojo", "x":"2.090569", "y":"19.89044", "visible":"false" }, { "id":"43", "color":"rojo", "x":"1.395129", "y":"19.95128", "visible":"false" }, { "id":"44", "color":"rojo", "x":"0.6979899", "y":"19.98782", "visible":"false" }, { "id":"45", "color":"rojo", "x":"1.224606E-15", "y":"20", "visible":"false" }, { "id":"46", "color":"rojo", "x":"-0.6979899", "y":"19.98782", "visible":"false" }, { "id":"47", "color":"rojo", "x":"-1.395129", "y":"19.95128", "visible":"false" }, { "id":"48", "color":"rojo", "x":"-2.090569", "y":"19.89044", "visible":"false" }, { "id":"49", "color":"rojo", "x":"-2.783462", "y":"19.80536", "visible":"false" }, { "id":"50", "color":"rojo", "x":"-3.472964", "y":"19.69616", "visible":"false" }, { "id":"51", "color":"rojo", "x":"-4.158234", "y":"19.56295", "visible":"false" }, { "id":"52", "color":"rojo", "x":"-4.838438", "y":"19.40591", "visible":"false" }, { "id":"53", "color":"rojo", "x":"-5.512747", "y":"19.22523", "visible":"false" }, { "id":"54", "color":"rojo", "x":"-6.18034", "y":"19.02113", "visible":"false" }, { "id":"55", "color":"rojo", "x":"-6.840403", "y":"18.79385", "visible":"false" }, { "id":"56", "color":"rojo", "x":"-7.492132", "y":"18.54368", "visible":"false" }, { "id":"57", "color":"rojo", "x":"-8.134733", "y":"18.27091", "visible":"false" }, { "id":"58", "color":"rojo", "x":"-8.767423", "y":"17.97588", "visible":"false" }, { "id":"59", "color":"rojo", "x":"-9.389431", "y":"17.65895", "visible":"false" }, { "id":"60", "color":"rojo", "x":"-10", "y":"17.32051", "visible":"false" }, { "id":"61", "color":"rojo", "x":"-10.59838", "y":"16.96096", "visible":"false" }, { "id":"62", "color":"rojo", "x":"-11.18386", "y":"16.58075", "visible":"false" }, { "id":"63", "color":"rojo", "x":"-11.7557", "y":"16.18034", "visible":"false" }, { "id":"64", "color":"rojo", "x":"-12.31323", "y":"15.76022", "visible":"false" }, { "id":"65", "color":"rojo", "x":"-12.85575", "y":"15.32089", "visible":"false" }, { "id":"66", "color":"rojo", "x":"-13.38261", "y":"14.8629", "visible":"false" }, { "id":"67", "color":"rojo", "x":"-13.89317", "y":"14.3868", "visible":"false" }, { "id":"68", "color":"rojo", "x":"-14.3868", "y":"13.89317", "visible":"false" }, { "id":"69", "color":"rojo", "x":"-14.8629", "y":"13.38261", "visible":"false" }, { "id":"70", "color":"rojo", "x":"-15.32089", "y":"12.85575", "visible":"false" }, { "id":"71", "color":"rojo", "x":"-15.76022", "y":"12.31323", "visible":"false" }, { "id":"72", "color":"rojo", "x":"-16.18034", "y":"11.7557", "visible":"false" }, { "id":"73", "color":"rojo", "x":"-16.58075", "y":"11.18386", "visible":"false" }, { "id":"74", "color":"rojo", "x":"-16.96096", "y":"10.59838", "visible":"false" }, { "id":"75", "color":"rojo", "x":"-17.32051", "y":"10", "visible":"false" }, { "id":"76", "color":"rojo", "x":"-17.65895", "y":"9.389431", "visible":"false" }, { "id":"77", "color":"rojo", "x":"-17.97588", "y":"8.767423", "visible":"false" }, { "id":"78", "color":"rojo", "x":"-18.27091", "y":"8.134733", "visible":"false" }, { "id":"79", "color":"rojo", "x":"-18.54368", "y":"7.492132", "visible":"false" }, { "id":"80", "color":"rojo", "x":"-18.79385", "y":"6.840403", "visible":"false" }, { "id":"81", "color":"rojo", "x":"-19.02113", "y":"6.18034", "visible":"false" }, { "id":"82", "color":"rojo", "x":"-19.22523", "y":"5.512747", "visible":"false" }, { "id":"83", "color":"rojo", "x":"-19.40591", "y":"4.838438", "visible":"false" }, { "id":"84", "color":"rojo", "x":"-19.56295", "y":"4.158234", "visible":"false" }, { "id":"85", "color":"rojo", "x":"-19.69616", "y":"3.472964", "visible":"false" }, { "id":"86", "color":"rojo", "x":"-19.80536", "y":"2.783462", "visible":"false" }, { "id":"87", "color":"rojo", "x":"-19.89044", "y":"2.090569", "visible":"false" }, { "id":"88", "color":"rojo", "x":"-19.95128", "y":"1.395129", "visible":"false" }, { "id":"89", "color":"rojo", "x":"-19.98782", "y":"0.6979899", "visible":"false" }, { "id":"90", "color":"rojo", "x":"-20", "y":"2.449213E-15", "visible":"false" }, { "id":"91", "color":"rojo", "x":"-19.98782", "y":"-0.6979899", "visible":"false" }, { "id":"92", "color":"rojo", "x":"-19.95128", "y":"-1.395129", "visible":"false" }, { "id":"93", "color":"rojo", "x":"-19.89044", "y":"-2.090569", "visible":"false" }, { "id":"94", "color":"rojo", "x":"-19.80536", "y":"-2.783462", "visible":"false" }, { "id":"95", "color":"rojo", "x":"-19.69616", "y":"-3.472964", "visible":"false" }, { "id":"96", "color":"rojo", "x":"-19.56295", "y":"-4.158234", "visible":"false" }, { "id":"97", "color":"rojo", "x":"-19.40591", "y":"-4.838438", "visible":"false" }, { "id":"98", "color":"rojo", "x":"-19.22523", "y":"-5.512747", "visible":"false" }, { "id":"99", "color":"rojo", "x":"-19.02113", "y":"-6.18034", "visible":"false" }, { "id":"100", "color":"rojo", "x":"-18.79385", "y":"-6.840403", "visible":"false" }, { "id":"101", "color":"rojo", "x":"-18.54368", "y":"-7.492132", "visible":"false" }, { "id":"102", "color":"rojo", "x":"-18.27091", "y":"-8.134733", "visible":"false" }, { "id":"103", "color":"rojo", "x":"-17.97588", "y":"-8.767423", "visible":"false" }, { "id":"104", "color":"rojo", "x":"-17.65895", "y":"-9.389431", "visible":"false" }, { "id":"105", "color":"rojo", "x":"-17.32051", "y":"-10", "visible":"false" }, { "id":"106", "color":"rojo", "x":"-16.96096", "y":"-10.59838", "visible":"false" }, { "id":"107", "color":"rojo", "x":"-16.58075", "y":"-11.18386", "visible":"false" }, { "id":"108", "color":"rojo", "x":"-16.18034", "y":"-11.7557", "visible":"false" }, { "id":"109", "color":"rojo", "x":"-15.76022", "y":"-12.31323", "visible":"false" }, { "id":"110", "color":"rojo", "x":"-15.32089", "y":"-12.85575", "visible":"false" }, { "id":"111", "color":"rojo", "x":"-14.8629", "y":"-13.38261", "visible":"false" }, { "id":"112", "color":"rojo", "x":"-14.3868", "y":"-13.89317", "visible":"false" }, { "id":"113", "color":"rojo", "x":"-13.89317", "y":"-14.3868", "visible":"false" }, { "id":"114", "color":"rojo", "x":"-13.38261", "y":"-14.8629", "visible":"false" }, { "id":"115", "color":"rojo", "x":"-12.85575", "y":"-15.32089", "visible":"false" }, { "id":"116", "color":"rojo", "x":"-12.31323", "y":"-15.76022", "visible":"false" }, { "id":"117", "color":"rojo", "x":"-11.7557", "y":"-16.18034", "visible":"false" }, { "id":"118", "color":"rojo", "x":"-11.18386", "y":"-16.58075", "visible":"false" }, { "id":"119", "color":"rojo", "x":"-10.59838", "y":"-16.96096", "visible":"false" }, { "id":"120", "color":"rojo", "x":"-10", "y":"-17.32051", "visible":"false" }, { "id":"121", "color":"rojo", "x":"-9.389431", "y":"-17.65895", "visible":"false" }, { "id":"122", "color":"rojo", "x":"-8.767423", "y":"-17.97588", "visible":"false" }, { "id":"123", "color":"rojo", "x":"-8.134733", "y":"-18.27091", "visible":"false" }, { "id":"124", "color":"rojo", "x":"-7.492132", "y":"-18.54368", "visible":"false" }, { "id":"125", "color":"rojo", "x":"-6.840403", "y":"-18.79385", "visible":"false" }, { "id":"126", "color":"rojo", "x":"-6.18034", "y":"-19.02113", "visible":"false" }, { "id":"127", "color":"rojo", "x":"-5.512747", "y":"-19.22523", "visible":"false" }, { "id":"128", "color":"rojo", "x":"-4.838438", "y":"-19.40591", "visible":"false" }, { "id":"129", "color":"rojo", "x":"-4.158234", "y":"-19.56295", "visible":"false" }, { "id":"130", "color":"rojo", "x":"-3.472964", "y":"-19.69616", "visible":"false" }, { "id":"131", "color":"rojo", "x":"-2.783462", "y":"-19.80536", "visible":"false" }, { "id":"132", "color":"rojo", "x":"-2.090569", "y":"-19.89044", "visible":"false" }, { "id":"133", "color":"rojo", "x":"-1.395129", "y":"-19.95128", "visible":"false" }, { "id":"134", "color":"rojo", "x":"-0.6979899", "y":"-19.98782", "visible":"false" }, { "id":"135", "color":"rojo", "x":"-3.673819E-15", "y":"-20", "visible":"false" }, { "id":"136", "color":"rojo", "x":"0.6979899", "y":"-19.98782", "visible":"false" }, { "id":"137", "color":"rojo", "x":"1.395129", "y":"-19.95128", "visible":"false" }, { "id":"138", "color":"rojo", "x":"2.090569", "y":"-19.89044", "visible":"false" }, { "id":"139", "color":"rojo", "x":"2.783462", "y":"-19.80536", "visible":"false" }, { "id":"140", "color":"rojo", "x":"3.472964", "y":"-19.69616", "visible":"false" }, { "id":"141", "color":"rojo", "x":"4.158234", "y":"-19.56295", "visible":"false" }, { "id":"142", "color":"rojo", "x":"4.838438", "y":"-19.40591", "visible":"false" }, { "id":"143", "color":"rojo", "x":"5.512747", "y":"-19.22523", "visible":"false" }, { "id":"144", "color":"rojo", "x":"6.18034", "y":"-19.02113", "visible":"false" }, { "id":"145", "color":"rojo", "x":"6.840403", "y":"-18.79385", "visible":"false" }, { "id":"146", "color":"rojo", "x":"7.492132", "y":"-18.54368", "visible":"false" }, { "id":"147", "color":"rojo", "x":"8.134733", "y":"-18.27091", "visible":"false" }, { "id":"148", "color":"rojo", "x":"8.767423", "y":"-17.97588", "visible":"false" }, { "id":"149", "color":"rojo", "x":"9.389431", "y":"-17.65895", "visible":"false" }, { "id":"150", "color":"rojo", "x":"10", "y":"-17.32051", "visible":"false" }, { "id":"151", "color":"rojo", "x":"10.59838", "y":"-16.96096", "visible":"false" }, { "id":"152", "color":"rojo", "x":"11.18386", "y":"-16.58075", "visible":"false" }, { "id":"153", "color":"rojo", "x":"11.7557", "y":"-16.18034", "visible":"false" }, { "id":"154", "color":"rojo", "x":"12.31323", "y":"-15.76022", "visible":"false" }, { "id":"155", "color":"rojo", "x":"12.85575", "y":"-15.32089", "visible":"false" }, { "id":"156", "color":"rojo", "x":"13.38261", "y":"-14.8629", "visible":"false" }, { "id":"157", "color":"rojo", "x":"13.89317", "y":"-14.3868", "visible":"false" }, { "id":"158", "color":"rojo", "x":"14.3868", "y":"-13.89317", "visible":"false" }, { "id":"159", "color":"rojo", "x":"14.8629", "y":"-13.38261", "visible":"false" }, { "id":"160", "color":"rojo", "x":"15.32089", "y":"-12.85575", "visible":"false" }, { "id":"161", "color":"rojo", "x":"15.76022", "y":"-12.31323", "visible":"false" }, { "id":"162", "color":"rojo", "x":"16.18034", "y":"-11.7557", "visible":"false" }, { "id":"163", "color":"rojo", "x":"16.58075", "y":"-11.18386", "visible":"false" }, { "id":"164", "color":"rojo", "x":"16.96096", "y":"-10.59838", "visible":"false" }, { "id":"165", "color":"rojo", "x":"17.32051", "y":"-10", "visible":"false" }, { "id":"166", "color":"rojo", "x":"17.65895", "y":"-9.389431", "visible":"false" }, { "id":"167", "color":"rojo", "x":"17.97588", "y":"-8.767423", "visible":"false" }, { "id":"168", "color":"rojo", "x":"18.27091", "y":"-8.134733", "visible":"false" }, { "id":"169", "color":"rojo", "x":"18.54368", "y":"-7.492132", "visible":"false" }, { "id":"170", "color":"rojo", "x":"18.79385", "y":"-6.840403", "visible":"false" }, { "id":"171", "color":"rojo", "x":"19.02113", "y":"-6.18034", "visible":"false" }, { "id":"172", "color":"rojo", "x":"19.22523", "y":"-5.512747", "visible":"false" }, { "id":"173", "color":"rojo", "x":"19.40591", "y":"-4.838438", "visible":"false" }, { "id":"174", "color":"rojo", "x":"19.56295", "y":"-4.158234", "visible":"false" }, { "id":"175", "color":"rojo", "x":"19.69616", "y":"-3.472964", "visible":"false" }, { "id":"176", "color":"rojo", "x":"19.80536", "y":"-2.783462", "visible":"false" }, { "id":"177", "color":"rojo", "x":"19.89044", "y":"-2.090569", "visible":"false" }, { "id":"178", "color":"rojo", "x":"19.95128", "y":"-1.395129", "visible":"false" }, { "id":"179", "color":"rojo", "x":"19.98782", "y":"-0.6979899", "visible":"false" } ]
+09/06/2017 03:46:47 p.m.;0,3397922;0,2874146;NULL;NULL;NULL;INI
+L{ "id":"7" }
+NroIteracion;0
+Angulo;120
+A Seleccionar;I
+Protocolo;3
+AparecenDeAPares;S
+IdIzquierda;50
+IzquierdaX;-3,472964
+IzquierdaY;19,69616
+IdDerecha;110
+DerechaX;-15,32089
+DerechaY;-12,85575
+
+09/06/2017 03:46:47 p.m.;0,3397922;0,2874146;DET
+IdCorrecta;50
+CorrectaX;-3,472964
+CorrectaY;19,69616
+
+Q{ "text":"Trial 1 " }
+hide_question
+H{ "id":"50", "visible":"true" }
+H{ "id":"110", "visible":"true" }
+09/06/2017 03:46:57 p.m.;-0,1672922;0,1672626;NULL;NULL;NULL;REC
+09/06/2017 03:46:57 p.m.;-0,1672922;0,1672626;REC
+09/06/2017 03:46:57 p.m.;-0,1529413;-0,0585701;REC
+09/06/2017 03:46:58 p.m.;0,8867936;0,0627063;REC
+09/06/2017 03:46:59 p.m.;0,8910301;0,5678616;REC
+09/06/2017 03:47:00 p.m.;1,017332;0,05670234;REC
+09/06/2017 03:47:10 p.m.;0,5020359;-0,1472604;REC
+09/06/2017 03:47:16 p.m.;-0,00447552;-0,02400017;REC
+09/06/2017 03:47:17 p.m.;-0,5081199;-0,2241404;REC
+09/06/2017 03:47:18 p.m.;-1,434393;-1,254251;REC
+09/06/2017 03:47:19 p.m.;-2,409483;-2,246605;REC
+09/06/2017 03:47:20 p.m.;-3,414747;-3,100737;REC
+09/06/2017 03:47:20 p.m.;-4,420209;-3,954695;REC
+09/06/2017 03:47:21 p.m.;-5,425688;-4,80866;REC
+09/06/2017 03:47:22 p.m.;-6,430965;-5,662437;REC
+09/06/2017 03:47:22 p.m.;-7,436504;-6,516871;REC
+09/06/2017 03:47:23 p.m.;-8,441792;-7,371124;REC
+09/06/2017 03:47:24 p.m.;-9,461603;-8,214187;REC
+09/06/2017 03:47:24 p.m.;-10,46644;-9,013197;REC
+09/06/2017 03:47:25 p.m.;-11,47134;-9,812054;REC
+09/06/2017 03:47:26 p.m.;-12,4762;-10,61084;REC
+09/06/2017 03:47:26 p.m.;-13,48109;-11,4097;REC
+H{ "id":"110", "visible":"false" }
+09/06/2017 03:47:28 p.m.;-16,49309;-13,80421;RET
+09/06/2017 03:47:33 p.m.;-16,4809;-14,30461;RET
+09/06/2017 03:47:34 p.m.;-15,4705;-14,26702;RET
+09/06/2017 03:47:35 p.m.;-14,54996;-13,30102;RET
+09/06/2017 03:47:36 p.m.;-13,87013;-12,2825;RET
+09/06/2017 03:47:36 p.m.;-13,2988;-11,26067;RET
+09/06/2017 03:47:37 p.m.;-12,85999;-10,25181;RET
+09/06/2017 03:47:37 p.m.;-12,42646;-9,242043;RET
+09/06/2017 03:47:38 p.m.;-11,99287;-8,231736;RET
+09/06/2017 03:47:39 p.m.;-11,61389;-7,208701;RET
+09/06/2017 03:47:39 p.m.;-11,36816;-6,197858;RET
+09/06/2017 03:47:40 p.m.;-11,12266;-5,18759;RET
+09/06/2017 03:47:40 p.m.;-10,87715;-4,177225;RET
+09/06/2017 03:47:41 p.m.;-10,6314;-3,166375;RET
+09/06/2017 03:47:41 p.m.;-10,38567;-2,155404;RET
+09/06/2017 03:47:42 p.m.;-10,13994;-1,144382;RET
+09/06/2017 03:47:42 p.m.;-9,894188;-0,1334117;RET
+09/06/2017 03:47:43 p.m.;-9,648514;0,8771899;RET
+09/06/2017 03:47:43 p.m.;-9,402783;1,888212;RET
+09/06/2017 03:47:44 p.m.;-9,157056;2,899234;RET
+09/06/2017 03:47:44 p.m.;-8,911688;3,908577;RET
+09/06/2017 03:47:45 p.m.;-8,665958;4,919598;RET
+09/06/2017 03:47:45 p.m.;-8,420229;5,930616;RET
+09/06/2017 03:47:46 p.m.;-8,174006;6,941427;RET
+09/06/2017 03:47:46 p.m.;-7,928271;7,952447;RET
+09/06/2017 03:47:47 p.m.;-7,68252;8,963465;RET
+09/06/2017 03:47:48 p.m.;-7,436889;9,973691;RET
+09/06/2017 03:47:48 p.m.;-7,191138;10,98471;RET
+09/06/2017 03:47:49 p.m.;-6,753456;11,99318;RET
+09/06/2017 03:47:49 p.m.;-6,197574;13,01697;RET
+09/06/2017 03:47:50 p.m.;-5,716187;14,03802;RET
+09/06/2017 03:47:50 p.m.;-5,252304;15,04064;RET
+09/06/2017 03:47:51 p.m.;-4,788401;16,04338;RET
+09/06/2017 03:47:51 p.m.;-4,324508;17,04605;RET
+09/06/2017 03:47:52 p.m.;-3,860982;18,04794;RET
+09/06/2017 03:47:53 p.m.;-3,388546;19,06911;RET
+09/06/2017 03:47:53 p.m.;-2,924817;20,07169;RET
+09/06/2017 03:47:54 p.m.;-2,967318;20,06275;RET
+09/06/2017 03:47:55 p.m.;-3,597444;19,05512;RET
+09/06/2017 03:47:55 p.m.;-4,227957;18,04698;RET
+09/06/2017 03:48:01 p.m.;-3,781904;17,53355;RET
+09/06/2017 03:48:02 p.m.;-3,446923;16,52371;RET
+09/06/2017 03:48:02 p.m.;-3,245253;15,48695;RET
+09/06/2017 03:48:03 p.m.;-3,053113;14,44497;RET
+09/06/2017 03:48:03 p.m.;-2,87275;13,44401;RET
+09/06/2017 03:48:04 p.m.;-2,688712;12,42229;RET
+09/06/2017 03:48:04 p.m.;-2,504771;11,40071;RET
+09/06/2017 03:48:05 p.m.;-2,324541;10,40011;RET
+09/06/2017 03:48:05 p.m.;-2,144174;9,398411;RET
+09/06/2017 03:48:06 p.m.;-1,960255;8,377201;RET
+09/06/2017 03:48:06 p.m.;-1,779681;7,37485;RET
+09/06/2017 03:48:07 p.m.;-1,599106;6,372503;RET
+09/06/2017 03:48:07 p.m.;-1,418558;5,370788;RET
+09/06/2017 03:48:08 p.m.;-1,237881;4,368844;RET
+09/06/2017 03:48:08 p.m.;-1,056861;3,366452;RET
+09/06/2017 03:48:09 p.m.;-0,8495056;2,329183;RET
+09/06/2017 03:48:09 p.m.;-0,6419556;1,291349;RET
+09/06/2017 03:48:10 p.m.;-0,4292747;0,2485121;RET
+Hora Centro;09/06/2017 03:48:10 p.m.
+X{ "value":"rojo" }
+X{ "value":"negro" }
+09/06/2017 03:48:11 p.m.;-0,4292747;0,2485121;REC
+09/06/2017 03:48:15 p.m.;0,1349159;-0,2815004;REC
+09/06/2017 03:48:16 p.m.;0,1105651;0,7604387;REC
+09/06/2017 03:48:16 p.m.;-0,1977608;1,794276;REC
+09/06/2017 03:48:17 p.m.;-0,5947933;2,827303;REC
+09/06/2017 03:48:18 p.m.;-1,006633;3,860117;REC
+09/06/2017 03:48:18 p.m.;-1,418612;4,893282;REC
+09/06/2017 03:48:18 p.m.;-1,790481;5,926506;REC
+09/06/2017 03:48:19 p.m.;-2,097471;6,961198;REC
+09/06/2017 03:48:20 p.m.;-2,404425;7,995764;REC
+09/06/2017 03:48:20 p.m.;-2,710989;9,029007;REC
+09/06/2017 03:48:21 p.m.;-3,018172;10,06424;REC
+09/06/2017 03:48:21 p.m.;-3,113068;11,10133;REC
+09/06/2017 03:48:22 p.m.;-3,135247;12,14089;REC
+09/06/2017 03:48:22 p.m.;-3,157492;13,18074;REC
+09/06/2017 03:48:23 p.m.;-3,179791;14,2198;REC
+09/06/2017 03:48:23 p.m.;-3,202068;15,25908;REC
+09/06/2017 03:48:24 p.m.;-3,224219;16,29863;REC
+09/06/2017 03:48:24 p.m.;-3,246483;17,33851;REC
+09/06/2017 03:48:25 p.m.;-3,268732;18,37882;REC
+H{ "id":"50", "visible":"false" }
+09/06/2017 03:48:26 p.m.;-3,313149;20,45892;RET
+09/06/2017 03:48:34 p.m.;-3,608373;20,47511;RET
+09/06/2017 03:48:35 p.m.;-3,539856;18,93233;RET
+09/06/2017 03:48:35 p.m.;-3,479525;17,89405;RET
+09/06/2017 03:48:36 p.m.;-3,359415;16,87734;RET
+09/06/2017 03:48:36 p.m.;-3,188205;15,83472;RET
+09/06/2017 03:48:37 p.m.;-3,024079;14,83409;RET
+09/06/2017 03:48:37 p.m.;-2,859993;13,83371;RET
+09/06/2017 03:48:38 p.m.;-2,693366;12,81679;RET
+09/06/2017 03:48:39 p.m.;-2,522393;11,77485;RET
+09/06/2017 03:48:39 p.m.;-2,358251;10,77422;RET
+09/06/2017 03:48:40 p.m.;-2,190848;9,753487;RET
+09/06/2017 03:48:40 p.m.;-2,023026;8,730989;RET
+09/06/2017 03:48:41 p.m.;-1,855673;7,710593;RET
+09/06/2017 03:48:41 p.m.;-1,691326;6,709217;RET
+09/06/2017 03:48:42 p.m.;-1,523399;5,686817;RET
+09/06/2017 03:48:42 p.m.;-1,355554;4,664587;RET
+09/06/2017 03:48:43 p.m.;-1,190843;3,663244;RET
+09/06/2017 03:48:43 p.m.;-1,022575;2,641327;RET
+09/06/2017 03:48:44 p.m.;-0,8577096;1,64055;RET
+09/06/2017 03:48:44 p.m.;-0,6312376;0,6098828;RET
+Inicio test memoria;09/06/2017 03:48:44 p.m.
+09/06/2017 03:48:45 p.m.;-0,09258988;-0,3936906;EVA
+Q{ "text":"Coloca la bandera" }
+hide_question
+Q{ "text":"Pulsa Y en la posicion" }
+O{ "x":"0", "y":"0", "radius":"20" }
+09/06/2017 03:48:55 p.m.;0,8754074;-1,858267;PR3
+09/06/2017 03:48:56 p.m.;0,4385904;-0,8477978;PR3
+09/06/2017 03:48:56 p.m.;-0,3647712;0,1664754;PR3
+09/06/2017 03:49:06 p.m.;-0,4014586;0,6692266;PR3
+09/06/2017 03:49:07 p.m.;-0,5738811;1,696108;PR3
+09/06/2017 03:49:08 p.m.;-0,7077867;2,708758;PR3
+09/06/2017 03:49:08 p.m.;-0,7766885;3,711457;PR3
+09/06/2017 03:49:09 p.m.;-0,8456078;4,714849;PR3
+09/06/2017 03:49:09 p.m.;-0,9145344;5,717519;PR3
+09/06/2017 03:49:10 p.m.;-0,9838265;6,719799;PR3
+09/06/2017 03:49:10 p.m.;-1,05338;7,722346;PR3
+09/06/2017 03:49:11 p.m.;-1,122958;8,725208;PR3
+09/06/2017 03:49:11 p.m.;-1,189252;9,729661;PR3
+09/06/2017 03:49:12 p.m.;-1,24003;10,73765;PR3
+09/06/2017 03:49:12 p.m.;-1,290694;11,74423;PR3
+09/06/2017 03:49:13 p.m.;-1,341344;12,74996;PR3
+09/06/2017 03:49:13 p.m.;-1,392052;13,75712;PR3
+09/06/2017 03:49:14 p.m.;-1,449755;14,76365;PR3
+09/06/2017 03:49:14 p.m.;-1,569061;15,77917;PR3
+09/06/2017 03:49:15 p.m.;-1,768523;16,79786;PR3
+09/06/2017 03:49:15 p.m.;-1,968401;17,81902;PR3
+09/06/2017 03:49:16 p.m.;-2,168689;18,83503;PR3
+09/06/2017 03:49:18 p.m.;-2,321766;19,86587;PR3
+09/06/2017 03:49:21 p.m.;-2,321766;19,86587;PR3
+A{ "id":"180", "color":"rojo", "x":"-2.321766", "y":"19.86587", "visible":"true" }
+hide_question
+Q{ "text":"Confirma la posicion: Y(si) o X(no)" }
+09/06/2017 03:49:25 p.m.;-2,196033;19,3574;CON
+09/06/2017 03:49:27 p.m.;-2,196033;19,3574;CON
+H{ "id":"180", "visible":"false" }
+N{ "x":"0", "y":"0", "radius":"20" }
+Hora Fin Seleccion;09/06/2017 03:49:27 p.m.
+Bandera Seleccionada [id];180
+Bandera Seleccionada [X];-2,321766
+Bandera Seleccionada [Y];19,86587
+09/06/2017 03:49:27 p.m.;-2,196033;19,3574;PR3
+hide_question
+C{ "id":"0", "color":"amarillo" }
+C{ "id":"1", "color":"amarillo" }
+C{ "id":"2", "color":"amarillo" }
+C{ "id":"3", "color":"amarillo" }
+C{ "id":"4", "color":"amarillo" }
+C{ "id":"5", "color":"amarillo" }
+C{ "id":"6", "color":"amarillo" }
+C{ "id":"7", "color":"amarillo" }
+C{ "id":"8", "color":"amarillo" }
+C{ "id":"9", "color":"amarillo" }
+C{ "id":"10", "color":"amarillo" }
+C{ "id":"11", "color":"amarillo" }
+C{ "id":"12", "color":"amarillo" }
+C{ "id":"13", "color":"amarillo" }
+C{ "id":"14", "color":"amarillo" }
+C{ "id":"15", "color":"amarillo" }
+C{ "id":"16", "color":"amarillo" }
+C{ "id":"17", "color":"amarillo" }
+C{ "id":"18", "color":"amarillo" }
+C{ "id":"19", "color":"amarillo" }
+C{ "id":"20", "color":"amarillo" }
+C{ "id":"21", "color":"amarillo" }
+C{ "id":"22", "color":"amarillo" }
+C{ "id":"23", "color":"amarillo" }
+C{ "id":"24", "color":"amarillo" }
+C{ "id":"25", "color":"amarillo" }
+C{ "id":"26", "color":"amarillo" }
+C{ "id":"27", "color":"amarillo" }
+C{ "id":"28", "color":"amarillo" }
+C{ "id":"29", "color":"amarillo" }
+C{ "id":"30", "color":"amarillo" }
+C{ "id":"31", "color":"amarillo" }
+C{ "id":"32", "color":"amarillo" }
+C{ "id":"33", "color":"amarillo" }
+C{ "id":"34", "color":"amarillo" }
+C{ "id":"35", "color":"amarillo" }
+C{ "id":"36", "color":"amarillo" }
+C{ "id":"37", "color":"amarillo" }
+C{ "id":"38", "color":"amarillo" }
+C{ "id":"39", "color":"amarillo" }
+C{ "id":"40", "color":"amarillo" }
+C{ "id":"41", "color":"amarillo" }
+C{ "id":"42", "color":"amarillo" }
+C{ "id":"43", "color":"amarillo" }
+C{ "id":"44", "color":"amarillo" }
+C{ "id":"45", "color":"amarillo" }
+C{ "id":"46", "color":"amarillo" }
+C{ "id":"47", "color":"amarillo" }
+C{ "id":"48", "color":"amarillo" }
+C{ "id":"49", "color":"amarillo" }
+C{ "id":"50", "color":"amarillo" }
+C{ "id":"51", "color":"amarillo" }
+C{ "id":"52", "color":"amarillo" }
+C{ "id":"53", "color":"amarillo" }
+C{ "id":"54", "color":"amarillo" }
+C{ "id":"55", "color":"amarillo" }
+C{ "id":"56", "color":"amarillo" }
+C{ "id":"57", "color":"amarillo" }
+C{ "id":"58", "color":"amarillo" }
+C{ "id":"59", "color":"amarillo" }
+C{ "id":"60", "color":"amarillo" }
+C{ "id":"61", "color":"amarillo" }
+C{ "id":"62", "color":"amarillo" }
+C{ "id":"63", "color":"amarillo" }
+C{ "id":"64", "color":"amarillo" }
+C{ "id":"65", "color":"amarillo" }
+C{ "id":"66", "color":"amarillo" }
+C{ "id":"67", "color":"amarillo" }
+C{ "id":"68", "color":"amarillo" }
+C{ "id":"69", "color":"amarillo" }
+C{ "id":"70", "color":"amarillo" }
+C{ "id":"71", "color":"amarillo" }
+C{ "id":"72", "color":"amarillo" }
+C{ "id":"73", "color":"amarillo" }
+C{ "id":"74", "color":"amarillo" }
+C{ "id":"75", "color":"amarillo" }
+C{ "id":"76", "color":"amarillo" }
+C{ "id":"77", "color":"amarillo" }
+C{ "id":"78", "color":"amarillo" }
+C{ "id":"79", "color":"amarillo" }
+C{ "id":"80", "color":"amarillo" }
+C{ "id":"81", "color":"amarillo" }
+C{ "id":"82", "color":"amarillo" }
+C{ "id":"83", "color":"amarillo" }
+C{ "id":"84", "color":"amarillo" }
+C{ "id":"85", "color":"amarillo" }
+C{ "id":"86", "color":"amarillo" }
+C{ "id":"87", "color":"amarillo" }
+C{ "id":"88", "color":"amarillo" }
+C{ "id":"89", "color":"amarillo" }
+C{ "id":"90", "color":"amarillo" }
+C{ "id":"91", "color":"amarillo" }
+C{ "id":"92", "color":"amarillo" }
+C{ "id":"93", "color":"amarillo" }
+C{ "id":"94", "color":"amarillo" }
+C{ "id":"95", "color":"amarillo" }
+C{ "id":"96", "color":"amarillo" }
+C{ "id":"97", "color":"amarillo" }
+C{ "id":"98", "color":"amarillo" }
+C{ "id":"99", "color":"amarillo" }
+C{ "id":"100", "color":"amarillo" }
+C{ "id":"101", "color":"amarillo" }
+C{ "id":"102", "color":"amarillo" }
+C{ "id":"103", "color":"amarillo" }
+C{ "id":"104", "color":"amarillo" }
+C{ "id":"105", "color":"amarillo" }
+C{ "id":"106", "color":"amarillo" }
+C{ "id":"107", "color":"amarillo" }
+C{ "id":"108", "color":"amarillo" }
+C{ "id":"109", "color":"amarillo" }
+C{ "id":"110", "color":"amarillo" }
+C{ "id":"111", "color":"amarillo" }
+C{ "id":"112", "color":"amarillo" }
+C{ "id":"113", "color":"amarillo" }
+C{ "id":"114", "color":"amarillo" }
+C{ "id":"115", "color":"amarillo" }
+C{ "id":"116", "color":"amarillo" }
+C{ "id":"117", "color":"amarillo" }
+C{ "id":"118", "color":"amarillo" }
+C{ "id":"119", "color":"amarillo" }
+C{ "id":"120", "color":"amarillo" }
+C{ "id":"121", "color":"amarillo" }
+C{ "id":"122", "color":"amarillo" }
+C{ "id":"123", "color":"amarillo" }
+C{ "id":"124", "color":"amarillo" }
+C{ "id":"125", "color":"amarillo" }
+C{ "id":"126", "color":"amarillo" }
+C{ "id":"127", "color":"amarillo" }
+C{ "id":"128", "color":"amarillo" }
+C{ "id":"129", "color":"amarillo" }
+C{ "id":"130", "color":"amarillo" }
+C{ "id":"131", "color":"amarillo" }
+C{ "id":"132", "color":"amarillo" }
+C{ "id":"133", "color":"amarillo" }
+C{ "id":"134", "color":"amarillo" }
+C{ "id":"135", "color":"amarillo" }
+C{ "id":"136", "color":"amarillo" }
+C{ "id":"137", "color":"amarillo" }
+C{ "id":"138", "color":"amarillo" }
+C{ "id":"139", "color":"amarillo" }
+C{ "id":"140", "color":"amarillo" }
+C{ "id":"141", "color":"amarillo" }
+C{ "id":"142", "color":"amarillo" }
+C{ "id":"143", "color":"amarillo" }
+C{ "id":"144", "color":"amarillo" }
+C{ "id":"145", "color":"amarillo" }
+C{ "id":"146", "color":"amarillo" }
+C{ "id":"147", "color":"amarillo" }
+C{ "id":"148", "color":"amarillo" }
+C{ "id":"149", "color":"amarillo" }
+C{ "id":"150", "color":"amarillo" }
+C{ "id":"151", "color":"amarillo" }
+C{ "id":"152", "color":"amarillo" }
+C{ "id":"153", "color":"amarillo" }
+C{ "id":"154", "color":"amarillo" }
+C{ "id":"155", "color":"amarillo" }
+C{ "id":"156", "color":"amarillo" }
+C{ "id":"157", "color":"amarillo" }
+C{ "id":"158", "color":"amarillo" }
+C{ "id":"159", "color":"amarillo" }
+C{ "id":"160", "color":"amarillo" }
+C{ "id":"161", "color":"amarillo" }
+C{ "id":"162", "color":"amarillo" }
+C{ "id":"163", "color":"amarillo" }
+C{ "id":"164", "color":"amarillo" }
+C{ "id":"165", "color":"amarillo" }
+C{ "id":"166", "color":"amarillo" }
+C{ "id":"167", "color":"amarillo" }
+C{ "id":"168", "color":"amarillo" }
+C{ "id":"169", "color":"amarillo" }
+C{ "id":"170", "color":"amarillo" }
+C{ "id":"171", "color":"amarillo" }
+C{ "id":"172", "color":"amarillo" }
+C{ "id":"173", "color":"amarillo" }
+C{ "id":"174", "color":"amarillo" }
+C{ "id":"175", "color":"amarillo" }
+C{ "id":"176", "color":"amarillo" }
+C{ "id":"177", "color":"amarillo" }
+C{ "id":"178", "color":"amarillo" }
+C{ "id":"179", "color":"amarillo" }
+L{ "id":"8" }
+NroIteracion;1
+Angulo;80
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;125
+IzquierdaX;-6,840403
+IzquierdaY;-18,79385
+IdDerecha;165
+DerechaX;17,32051
+DerechaY;-10
+
+09/06/2017 03:49:35 p.m.;-1,566716;17,32112;DET
+IdCorrecta;145
+CorrectaX;6,840403
+CorrectaY;-18,79385
+
+Q{ "text":"Trial 2 " }
+hide_question
+H{ "id":"125", "visible":"true" }
+09/06/2017 03:49:37 p.m.;-1,389029;15,80583;NULL;NULL;NULL;REC
+09/06/2017 03:49:37 p.m.;-1,389029;15,80583;REC
+09/06/2017 03:49:38 p.m.;-0,8221253;10,69148;REC
+09/06/2017 03:49:39 p.m.;-0,3922575;9,181188;REC
+09/06/2017 03:49:39 p.m.;0,03679541;7,673392;REC
+09/06/2017 03:49:40 p.m.;0,1874156;6,137963;REC
+09/06/2017 03:49:41 p.m.;0,09915299;5,103875;REC
+09/06/2017 03:49:41 p.m.;0,01074711;4,064684;REC
+09/06/2017 03:49:42 p.m.;-0,07765877;3,025493;REC
+09/06/2017 03:49:42 p.m.;-0,1531318;1,985684;REC
+09/06/2017 03:49:43 p.m.;-0,1062191;0,970586;REC
+09/06/2017 03:49:43 p.m.;-0,0103859;-0,05425896;REC
+09/06/2017 03:49:44 p.m.;0,08516907;-1,075599;REC
+09/06/2017 03:49:49 p.m.;0,3681814;-1,588964;REC
+09/06/2017 03:49:50 p.m.;-0,2001467;-2,621454;REC
+09/06/2017 03:49:51 p.m.;-0,5268369;-3,64431;REC
+09/06/2017 03:49:51 p.m.;-0,8579005;-4,647451;REC
+09/06/2017 03:49:52 p.m.;-1,358403;-5,669959;REC
+09/06/2017 03:49:52 p.m.;-1,952335;-6,680913;REC
+09/06/2017 03:49:53 p.m.;-2,546225;-7,691803;REC
+09/06/2017 03:49:53 p.m.;-3,124366;-8,705321;REC
+09/06/2017 03:49:54 p.m.;-3,697473;-9,720459;REC
+09/06/2017 03:49:54 p.m.;-4,226092;-10,74142;REC
+09/06/2017 03:49:55 p.m.;-4,536934;-11,74838;REC
+09/06/2017 03:49:56 p.m.;-4,981998;-12,77768;REC
+09/06/2017 03:49:56 p.m.;-5,298724;-13,78318;REC
+09/06/2017 03:49:57 p.m.;-5,615475;-14,78961;REC
+09/06/2017 03:49:57 p.m.;-5,920901;-15,79693;REC
+09/06/2017 03:49:58 p.m.;-6,217486;-16,80474;REC
+09/06/2017 03:49:58 p.m.;-6,514339;-17,81284;REC
+H{ "id":"125", "visible":"false" }
+09/06/2017 03:49:59 p.m.;-7,108253;-19,8305;RET
+09/06/2017 03:50:00 p.m.;-7,40511;-20,839;RET
+09/06/2017 03:50:06 p.m.;-7,145977;-20,32208;RET
+09/06/2017 03:50:06 p.m.;-6,905221;-19,30571;RET
+09/06/2017 03:50:07 p.m.;-6,765141;-18,27513;RET
+09/06/2017 03:50:07 p.m.;-6,610806;-17,24736;RET
+09/06/2017 03:50:08 p.m.;-6,330821;-16,23477;RET
+09/06/2017 03:50:08 p.m.;-5,927621;-15,21594;RET
+09/06/2017 03:50:09 p.m.;-5,304963;-14,2024;RET
+09/06/2017 03:50:10 p.m.;-4,7365;-13,18218;RET
+09/06/2017 03:50:10 p.m.;-4,176243;-12,16005;RET
+09/06/2017 03:50:11 p.m.;-3,618052;-11,14201;RET
+09/06/2017 03:50:11 p.m.;-3,107311;-10,11516;RET
+09/06/2017 03:50:12 p.m.;-2,686631;-9,098503;RET
+09/06/2017 03:50:12 p.m.;-2,357941;-8,092458;RET
+09/06/2017 03:50:13 p.m.;-2,039263;-7,08601;RET
+09/06/2017 03:50:13 p.m.;-1,730348;-6,07587;RET
+09/06/2017 03:50:14 p.m.;-1,42146;-5,066712;RET
+09/06/2017 03:50:14 p.m.;-1,111976;-4,056768;RET
+09/06/2017 03:50:15 p.m.;-0,8022068;-3,046608;RET
+09/06/2017 03:50:16 p.m.;-0,5056241;-2,036562;RET
+09/06/2017 03:50:16 p.m.;-0,2157767;-1,024849;RET
+09/06/2017 03:50:17 p.m.;0,08092759;-0,00935444;RET
+Hora Centro;09/06/2017 03:50:17 p.m.
+H{ "id":"165", "visible":"true" }
+X{ "value":"rojo" }
+X{ "value":"negro" }
+09/06/2017 03:50:18 p.m.;0,08092759;-0,00935444;REC
+09/06/2017 03:50:23 p.m.;0,487851;1,023174;REC
+09/06/2017 03:50:23 p.m.;0,3792376;0,001558032;REC
+09/06/2017 03:50:30 p.m.;0,8407928;-0,5051183;REC
+09/06/2017 03:50:31 p.m.;1,862431;-0,9729792;REC
+09/06/2017 03:50:31 p.m.;2,887985;-1,442657;REC
+09/06/2017 03:50:32 p.m.;3,913538;-1,912336;REC
+09/06/2017 03:50:32 p.m.;4,939092;-2,382013;REC
+09/06/2017 03:50:33 p.m.;5,964195;-2,851244;REC
+09/06/2017 03:50:34 p.m.;6,989098;-3,320114;REC
+09/06/2017 03:50:34 p.m.;8,01508;-3,788658;REC
+09/06/2017 03:50:35 p.m.;9,039909;-4,256354;REC
+09/06/2017 03:50:35 p.m.;10,06532;-4,724954;REC
+09/06/2017 03:50:36 p.m.;11,05845;-5,519587;REC
+09/06/2017 03:50:37 p.m.;12,04222;-6,546506;REC
+09/06/2017 03:50:37 p.m.;13,06188;-7,338512;REC
+09/06/2017 03:50:38 p.m.;14,08068;-8,030256;REC
+09/06/2017 03:50:39 p.m.;15,09183;-8,639796;REC
+H{ "id":"165", "visible":"false" }
+09/06/2017 03:50:40 p.m.;18,14008;-10,44172;RET
+09/06/2017 03:50:48 p.m.;17,62322;-9,935564;RET
+09/06/2017 03:50:49 p.m.;16,60718;-9,311274;RET
+09/06/2017 03:50:50 p.m.;15,59171;-8,732295;RET
+09/06/2017 03:50:50 p.m.;14,57078;-8,16256;RET
+09/06/2017 03:50:51 p.m.;13,54981;-7,588269;RET
+09/06/2017 03:50:51 p.m.;12,52914;-7,011378;RET
+09/06/2017 03:50:52 p.m.;11,50769;-6,432804;RET
+09/06/2017 03:50:53 p.m.;10,48617;-5,85378;RET
+09/06/2017 03:50:53 p.m.;9,464784;-5,274562;RET
+09/06/2017 03:50:54 p.m.;8,444021;-4,697048;RET
+09/06/2017 03:50:54 p.m.;7,422837;-4,121395;RET
+09/06/2017 03:50:55 p.m.;6,394833;-3,559575;RET
+09/06/2017 03:50:56 p.m.;5,390279;-3,049417;RET
+09/06/2017 03:50:56 p.m.;4,385512;-2,539531;RET
+09/06/2017 03:50:57 p.m.;3,370682;-1,903325;RET
+09/06/2017 03:50:57 p.m.;2,34532;-1,239466;RET
+09/06/2017 03:50:58 p.m.;1,320684;-0,5762722;RET
+09/06/2017 03:50:59 p.m.;0,3115997;0,03156795;RET
+Inicio test memoria;09/06/2017 03:50:59 p.m.
+09/06/2017 03:50:59 p.m.;-0,6991212;0,5314305;EVA
+Q{ "text":"Escucha la consigna" }
+hide_question
+Q{ "text":"X(izq) Y(Sel) B(der)" }
+HS[ { "id":"0", "visible":"true" }, { "id":"1", "visible":"true" }, { "id":"2", "visible":"true" }, { "id":"3", "visible":"true" }, { "id":"4", "visible":"true" }, { "id":"5", "visible":"true" }, { "id":"6", "visible":"true" }, { "id":"7", "visible":"true" }, { "id":"8", "visible":"true" }, { "id":"9", "visible":"true" }, { "id":"10", "visible":"true" }, { "id":"11", "visible":"true" }, { "id":"12", "visible":"true" }, { "id":"13", "visible":"true" }, { "id":"14", "visible":"true" }, { "id":"15", "visible":"true" }, { "id":"16", "visible":"true" }, { "id":"17", "visible":"true" }, { "id":"18", "visible":"true" }, { "id":"19", "visible":"true" }, { "id":"20", "visible":"true" }, { "id":"21", "visible":"true" }, { "id":"22", "visible":"true" }, { "id":"23", "visible":"true" }, { "id":"24", "visible":"true" }, { "id":"25", "visible":"true" }, { "id":"26", "visible":"true" }, { "id":"27", "visible":"true" }, { "id":"28", "visible":"true" }, { "id":"29", "visible":"true" }, { "id":"30", "visible":"true" }, { "id":"31", "visible":"true" }, { "id":"32", "visible":"true" }, { "id":"33", "visible":"true" }, { "id":"34", "visible":"true" }, { "id":"35", "visible":"true" }, { "id":"36", "visible":"true" }, { "id":"37", "visible":"true" }, { "id":"38", "visible":"true" }, { "id":"39", "visible":"true" }, { "id":"40", "visible":"true" }, { "id":"41", "visible":"true" }, { "id":"42", "visible":"true" }, { "id":"43", "visible":"true" }, { "id":"44", "visible":"true" }, { "id":"45", "visible":"true" }, { "id":"46", "visible":"true" }, { "id":"47", "visible":"true" }, { "id":"48", "visible":"true" }, { "id":"49", "visible":"true" }, { "id":"50", "visible":"true" }, { "id":"51", "visible":"true" }, { "id":"52", "visible":"true" }, { "id":"53", "visible":"true" }, { "id":"54", "visible":"true" }, { "id":"55", "visible":"true" }, { "id":"56", "visible":"true" }, { "id":"57", "visible":"true" }, { "id":"58", "visible":"true" }, { "id":"59", "visible":"true" }, { "id":"60", "visible":"true" }, { "id":"61", "visible":"true" }, { "id":"62", "visible":"true" }, { "id":"63", "visible":"true" }, { "id":"64", "visible":"true" }, { "id":"65", "visible":"true" }, { "id":"66", "visible":"true" }, { "id":"67", "visible":"true" }, { "id":"68", "visible":"true" }, { "id":"69", "visible":"true" }, { "id":"70", "visible":"true" }, { "id":"71", "visible":"true" }, { "id":"72", "visible":"true" }, { "id":"73", "visible":"true" }, { "id":"74", "visible":"true" }, { "id":"75", "visible":"true" }, { "id":"76", "visible":"true" }, { "id":"77", "visible":"true" }, { "id":"78", "visible":"true" }, { "id":"79", "visible":"true" }, { "id":"80", "visible":"true" }, { "id":"81", "visible":"true" }, { "id":"82", "visible":"true" }, { "id":"83", "visible":"true" }, { "id":"84", "visible":"true" }, { "id":"85", "visible":"true" }, { "id":"86", "visible":"true" }, { "id":"87", "visible":"true" }, { "id":"88", "visible":"true" }, { "id":"89", "visible":"true" }, { "id":"90", "visible":"true" }, { "id":"91", "visible":"true" }, { "id":"92", "visible":"true" }, { "id":"93", "visible":"true" }, { "id":"94", "visible":"true" }, { "id":"95", "visible":"true" }, { "id":"96", "visible":"true" }, { "id":"97", "visible":"true" }, { "id":"98", "visible":"true" }, { "id":"99", "visible":"true" }, { "id":"100", "visible":"true" }, { "id":"101", "visible":"true" }, { "id":"102", "visible":"true" }, { "id":"103", "visible":"true" }, { "id":"104", "visible":"true" }, { "id":"105", "visible":"true" }, { "id":"106", "visible":"true" }, { "id":"107", "visible":"true" }, { "id":"108", "visible":"true" }, { "id":"109", "visible":"true" }, { "id":"110", "visible":"true" }, { "id":"111", "visible":"true" }, { "id":"112", "visible":"true" }, { "id":"113", "visible":"true" }, { "id":"114", "visible":"true" }, { "id":"115", "visible":"true" }, { "id":"116", "visible":"true" }, { "id":"117", "visible":"true" }, { "id":"118", "visible":"true" }, { "id":"119", "visible":"true" }, { "id":"120", "visible":"true" }, { "id":"121", "visible":"true" }, { "id":"122", "visible":"true" }, { "id":"123", "visible":"true" }, { "id":"124", "visible":"true" }, { "id":"125", "visible":"true" }, { "id":"126", "visible":"true" }, { "id":"127", "visible":"true" }, { "id":"128", "visible":"true" }, { "id":"129", "visible":"true" }, { "id":"130", "visible":"true" }, { "id":"131", "visible":"true" }, { "id":"132", "visible":"true" }, { "id":"133", "visible":"true" }, { "id":"134", "visible":"true" }, { "id":"135", "visible":"true" }, { "id":"136", "visible":"true" }, { "id":"137", "visible":"true" }, { "id":"138", "visible":"true" }, { "id":"139", "visible":"true" }, { "id":"140", "visible":"true" }, { "id":"141", "visible":"true" }, { "id":"142", "visible":"true" }, { "id":"143", "visible":"true" }, { "id":"144", "visible":"true" }, { "id":"145", "visible":"true" }, { "id":"146", "visible":"true" }, { "id":"147", "visible":"true" }, { "id":"148", "visible":"true" }, { "id":"149", "visible":"true" }, { "id":"150", "visible":"true" }, { "id":"151", "visible":"true" }, { "id":"152", "visible":"true" }, { "id":"153", "visible":"true" }, { "id":"154", "visible":"true" }, { "id":"155", "visible":"true" }, { "id":"156", "visible":"true" }, { "id":"157", "visible":"true" }, { "id":"158", "visible":"true" }, { "id":"159", "visible":"true" }, { "id":"160", "visible":"true" }, { "id":"161", "visible":"true" }, { "id":"162", "visible":"true" }, { "id":"163", "visible":"true" }, { "id":"164", "visible":"true" }, { "id":"165", "visible":"true" }, { "id":"166", "visible":"true" }, { "id":"167", "visible":"true" }, { "id":"168", "visible":"true" }, { "id":"169", "visible":"true" }, { "id":"170", "visible":"true" }, { "id":"171", "visible":"true" }, { "id":"172", "visible":"true" }, { "id":"173", "visible":"true" }, { "id":"174", "visible":"true" }, { "id":"175", "visible":"true" }, { "id":"176", "visible":"true" }, { "id":"177", "visible":"true" }, { "id":"178", "visible":"true" }, { "id":"179", "visible":"true" } ]
+C{ "id":"0", "color":"azul" }
+09/06/2017 03:51:18 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"0", "color":"amarillo" }
+C{ "id":"1", "color":"azul" }
+09/06/2017 03:51:19 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"1", "color":"amarillo" }
+C{ "id":"2", "color":"azul" }
+09/06/2017 03:51:19 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"2", "color":"amarillo" }
+C{ "id":"3", "color":"azul" }
+09/06/2017 03:51:19 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"3", "color":"amarillo" }
+C{ "id":"4", "color":"azul" }
+09/06/2017 03:51:19 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"4", "color":"amarillo" }
+C{ "id":"5", "color":"azul" }
+09/06/2017 03:51:20 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"5", "color":"amarillo" }
+C{ "id":"6", "color":"azul" }
+09/06/2017 03:51:20 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"6", "color":"amarillo" }
+C{ "id":"7", "color":"azul" }
+09/06/2017 03:51:20 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"7", "color":"amarillo" }
+C{ "id":"8", "color":"azul" }
+09/06/2017 03:51:20 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"8", "color":"amarillo" }
+C{ "id":"9", "color":"azul" }
+09/06/2017 03:51:21 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"9", "color":"amarillo" }
+C{ "id":"10", "color":"azul" }
+09/06/2017 03:51:21 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"10", "color":"amarillo" }
+C{ "id":"11", "color":"azul" }
+09/06/2017 03:51:21 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"11", "color":"amarillo" }
+C{ "id":"12", "color":"azul" }
+09/06/2017 03:51:21 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"12", "color":"amarillo" }
+C{ "id":"13", "color":"azul" }
+09/06/2017 03:51:21 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"13", "color":"amarillo" }
+C{ "id":"14", "color":"azul" }
+09/06/2017 03:51:22 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"14", "color":"amarillo" }
+C{ "id":"15", "color":"azul" }
+09/06/2017 03:51:22 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"15", "color":"amarillo" }
+C{ "id":"16", "color":"azul" }
+09/06/2017 03:51:22 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"16", "color":"amarillo" }
+C{ "id":"17", "color":"azul" }
+09/06/2017 03:51:23 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"17", "color":"amarillo" }
+C{ "id":"18", "color":"azul" }
+09/06/2017 03:51:23 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"18", "color":"amarillo" }
+C{ "id":"19", "color":"azul" }
+09/06/2017 03:51:24 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"19", "color":"amarillo" }
+C{ "id":"20", "color":"azul" }
+09/06/2017 03:51:27 p.m.;-0,6991212;0,5314305;PR2
+C{ "id":"20", "color":"amarillo" }
+HS[ { "id":"0", "visible":"false" }, { "id":"1", "visible":"false" }, { "id":"2", "visible":"false" }, { "id":"3", "visible":"false" }, { "id":"4", "visible":"false" }, { "id":"5", "visible":"false" }, { "id":"6", "visible":"false" }, { "id":"7", "visible":"false" }, { "id":"8", "visible":"false" }, { "id":"9", "visible":"false" }, { "id":"10", "visible":"false" }, { "id":"11", "visible":"false" }, { "id":"12", "visible":"false" }, { "id":"13", "visible":"false" }, { "id":"14", "visible":"false" }, { "id":"15", "visible":"false" }, { "id":"16", "visible":"false" }, { "id":"17", "visible":"false" }, { "id":"18", "visible":"false" }, { "id":"19", "visible":"false" }, { "id":"20", "visible":"false" }, { "id":"21", "visible":"false" }, { "id":"22", "visible":"false" }, { "id":"23", "visible":"false" }, { "id":"24", "visible":"false" }, { "id":"25", "visible":"false" }, { "id":"26", "visible":"false" }, { "id":"27", "visible":"false" }, { "id":"28", "visible":"false" }, { "id":"29", "visible":"false" }, { "id":"30", "visible":"false" }, { "id":"31", "visible":"false" }, { "id":"32", "visible":"false" }, { "id":"33", "visible":"false" }, { "id":"34", "visible":"false" }, { "id":"35", "visible":"false" }, { "id":"36", "visible":"false" }, { "id":"37", "visible":"false" }, { "id":"38", "visible":"false" }, { "id":"39", "visible":"false" }, { "id":"40", "visible":"false" }, { "id":"41", "visible":"false" }, { "id":"42", "visible":"false" }, { "id":"43", "visible":"false" }, { "id":"44", "visible":"false" }, { "id":"45", "visible":"false" }, { "id":"46", "visible":"false" }, { "id":"47", "visible":"false" }, { "id":"48", "visible":"false" }, { "id":"49", "visible":"false" }, { "id":"50", "visible":"false" }, { "id":"51", "visible":"false" }, { "id":"52", "visible":"false" }, { "id":"53", "visible":"false" }, { "id":"54", "visible":"false" }, { "id":"55", "visible":"false" }, { "id":"56", "visible":"false" }, { "id":"57", "visible":"false" }, { "id":"58", "visible":"false" }, { "id":"59", "visible":"false" }, { "id":"60", "visible":"false" }, { "id":"61", "visible":"false" }, { "id":"62", "visible":"false" }, { "id":"63", "visible":"false" }, { "id":"64", "visible":"false" }, { "id":"65", "visible":"false" }, { "id":"66", "visible":"false" }, { "id":"67", "visible":"false" }, { "id":"68", "visible":"false" }, { "id":"69", "visible":"false" }, { "id":"70", "visible":"false" }, { "id":"71", "visible":"false" }, { "id":"72", "visible":"false" }, { "id":"73", "visible":"false" }, { "id":"74", "visible":"false" }, { "id":"75", "visible":"false" }, { "id":"76", "visible":"false" }, { "id":"77", "visible":"false" }, { "id":"78", "visible":"false" }, { "id":"79", "visible":"false" }, { "id":"80", "visible":"false" }, { "id":"81", "visible":"false" }, { "id":"82", "visible":"false" }, { "id":"83", "visible":"false" }, { "id":"84", "visible":"false" }, { "id":"85", "visible":"false" }, { "id":"86", "visible":"false" }, { "id":"87", "visible":"false" }, { "id":"88", "visible":"false" }, { "id":"89", "visible":"false" }, { "id":"90", "visible":"false" }, { "id":"91", "visible":"false" }, { "id":"92", "visible":"false" }, { "id":"93", "visible":"false" }, { "id":"94", "visible":"false" }, { "id":"95", "visible":"false" }, { "id":"96", "visible":"false" }, { "id":"97", "visible":"false" }, { "id":"98", "visible":"false" }, { "id":"99", "visible":"false" }, { "id":"100", "visible":"false" }, { "id":"101", "visible":"false" }, { "id":"102", "visible":"false" }, { "id":"103", "visible":"false" }, { "id":"104", "visible":"false" }, { "id":"105", "visible":"false" }, { "id":"106", "visible":"false" }, { "id":"107", "visible":"false" }, { "id":"108", "visible":"false" }, { "id":"109", "visible":"false" }, { "id":"110", "visible":"false" }, { "id":"111", "visible":"false" }, { "id":"112", "visible":"false" }, { "id":"113", "visible":"false" }, { "id":"114", "visible":"false" }, { "id":"115", "visible":"false" }, { "id":"116", "visible":"false" }, { "id":"117", "visible":"false" }, { "id":"118", "visible":"false" }, { "id":"119", "visible":"false" }, { "id":"120", "visible":"false" }, { "id":"121", "visible":"false" }, { "id":"122", "visible":"false" }, { "id":"123", "visible":"false" }, { "id":"124", "visible":"false" }, { "id":"125", "visible":"false" }, { "id":"126", "visible":"false" }, { "id":"127", "visible":"false" }, { "id":"128", "visible":"false" }, { "id":"129", "visible":"false" }, { "id":"130", "visible":"false" }, { "id":"131", "visible":"false" }, { "id":"132", "visible":"false" }, { "id":"133", "visible":"false" }, { "id":"134", "visible":"false" }, { "id":"135", "visible":"false" }, { "id":"136", "visible":"false" }, { "id":"137", "visible":"false" }, { "id":"138", "visible":"false" }, { "id":"139", "visible":"false" }, { "id":"140", "visible":"false" }, { "id":"141", "visible":"false" }, { "id":"142", "visible":"false" }, { "id":"143", "visible":"false" }, { "id":"144", "visible":"false" }, { "id":"145", "visible":"false" }, { "id":"146", "visible":"false" }, { "id":"147", "visible":"false" }, { "id":"148", "visible":"false" }, { "id":"149", "visible":"false" }, { "id":"150", "visible":"false" }, { "id":"151", "visible":"false" }, { "id":"152", "visible":"false" }, { "id":"153", "visible":"false" }, { "id":"154", "visible":"false" }, { "id":"155", "visible":"false" }, { "id":"156", "visible":"false" }, { "id":"157", "visible":"false" }, { "id":"158", "visible":"false" }, { "id":"159", "visible":"false" }, { "id":"160", "visible":"false" }, { "id":"161", "visible":"false" }, { "id":"162", "visible":"false" }, { "id":"163", "visible":"false" }, { "id":"164", "visible":"false" }, { "id":"165", "visible":"false" }, { "id":"166", "visible":"false" }, { "id":"167", "visible":"false" }, { "id":"168", "visible":"false" }, { "id":"169", "visible":"false" }, { "id":"170", "visible":"false" }, { "id":"171", "visible":"false" }, { "id":"172", "visible":"false" }, { "id":"173", "visible":"false" }, { "id":"174", "visible":"false" }, { "id":"175", "visible":"false" }, { "id":"176", "visible":"false" }, { "id":"177", "visible":"false" }, { "id":"178", "visible":"false" }, { "id":"179", "visible":"false" } ]
+Hora Fin Seleccion;09/06/2017 03:51:27 p.m.
+Bandera Seleccionada [id];20
+Bandera Seleccionada [X];15,32089
+Bandera Seleccionada [Y];12,85575
+09/06/2017 03:51:27 p.m.;-0,6991212;0,5314305;PR3
+hide_question
+L{ "id":"2" }
+NroIteracion;2
+Angulo;20
+A Seleccionar;D
+Protocolo;3
+AparecenDeAPares;S
+IdIzquierda;39
+IzquierdaX;4,158234
+IzquierdaY;19,56295
+IdDerecha;49
+DerechaX;-2,783462
+DerechaY;19,80536
+
+09/06/2017 03:51:33 p.m.;-0,6974963;0,4179549;DET
+IdCorrecta;49
+CorrectaX;-2,783462
+CorrectaY;19,80536
+
+Q{ "text":"Trial 3 " }
+hide_question
+H{ "id":"39", "visible":"true" }
+H{ "id":"49", "visible":"true" }
+09/06/2017 03:51:35 p.m.;0,3274941;-0,1426856;NULL;NULL;NULL;REC
+09/06/2017 03:51:35 p.m.;0,3274941;-0,1426856;REC
+09/06/2017 03:51:36 p.m.;2,234115;-0,2777176;REC
+09/06/2017 03:51:37 p.m.;2,209679;-0,2765152;REC
+09/06/2017 03:51:43 p.m.;1,793016;-0,7767399;REC
+09/06/2017 03:51:44 p.m.;0,2689994;-0,8167214;REC
+09/06/2017 03:51:45 p.m.;0,2561512;-0,3125341;REC
+09/06/2017 03:51:52 p.m.;0,233565;0,2065825;REC
+09/06/2017 03:51:52 p.m.;0,06134516;1,232383;REC
+09/06/2017 03:51:53 p.m.;-0,135503;2,254396;REC
+09/06/2017 03:51:53 p.m.;-0,3435685;3,27198;REC
+09/06/2017 03:51:54 p.m.;-0,5520031;4,291446;REC
+09/06/2017 03:51:54 p.m.;-0,7604377;5,310911;REC
+09/06/2017 03:51:55 p.m.;-0,9762611;6,327611;REC
+09/06/2017 03:51:56 p.m.;-1,872479;7,23495;REC
+09/06/2017 03:51:56 p.m.;-2,886302;7,848361;REC
+09/06/2017 03:51:57 p.m.;-3,903414;8,45715;REC
+09/06/2017 03:51:57 p.m.;-4,920592;9,066475;REC
+09/06/2017 03:51:58 p.m.;-5,937649;9,675468;REC
+09/06/2017 03:51:58 p.m.;-6,955067;10,28468;REC
+09/06/2017 03:51:59 p.m.;-7,969518;11,03059;REC
+09/06/2017 03:51:59 p.m.;-8,45217;12,07099;REC
+09/06/2017 03:52:00 p.m.;-8,45962;13,10183;REC
+09/06/2017 03:52:00 p.m.;-7,920065;14,12532;REC
+09/06/2017 03:52:01 p.m.;-7,108498;15,14621;REC
+09/06/2017 03:52:01 p.m.;-6,08682;15,59723;REC
+09/06/2017 03:52:02 p.m.;-6,224639;16,61996;REC
+09/06/2017 03:52:03 p.m.;-6,648346;17,64933;REC
+09/06/2017 03:52:03 p.m.;-6,831848;18,68006;REC
+09/06/2017 03:52:04 p.m.;-6,090891;19,69775;REC
+09/06/2017 03:52:05 p.m.;-5,184556;20,3672;REC
+09/06/2017 03:52:05 p.m.;-4,163372;20,44534;REC
+H{ "id":"49", "visible":"false" }
+09/06/2017 03:52:13 p.m.;-1,922428;19,11771;RET
+09/06/2017 03:52:14 p.m.;-1,417007;18,73804;RET
+09/06/2017 03:52:14 p.m.;-0,4048121;18,73437;RET
+09/06/2017 03:52:15 p.m.;0,6058204;18,98065;RET
+09/06/2017 03:52:15 p.m.;1,616434;19,22692;RET
+09/06/2017 03:52:16 p.m.;2,627047;19,4732;RET
+09/06/2017 03:52:16 p.m.;3,637686;19,71954;RET
+09/06/2017 03:52:17 p.m.;4,648304;19,96581;RET
+09/06/2017 03:52:22 p.m.;5,112932;19,45916;RET
+09/06/2017 03:52:23 p.m.;4,911608;17,90897;RET
+09/06/2017 03:52:23 p.m.;4,424833;16,88822;RET
+09/06/2017 03:52:24 p.m.;4,055631;15,33213;RET
+09/06/2017 03:52:25 p.m.;3,762955;13,79882;RET
+09/06/2017 03:52:25 p.m.;3,525592;12,25367;RET
+09/06/2017 03:52:26 p.m.;3,2878;10,7061;RET
+09/06/2017 03:52:27 p.m.;3,049764;9,15605;RET
+09/06/2017 03:52:27 p.m.;2,812294;7,609322;RET
+09/06/2017 03:52:28 p.m.;2,574137;6,058741;RET
+09/06/2017 03:52:29 p.m.;2,337072;4,510122;RET
+09/06/2017 03:52:29 p.m.;2,099916;2,95896;RET
+09/06/2017 03:52:30 p.m.;1,432505;1,420046;RET
+09/06/2017 03:52:31 p.m.;0,65848;0,4046973;RET
+Hora Centro;09/06/2017 03:52:31 p.m.
+X{ "value":"rojo" }
+X{ "value":"negro" }
+09/06/2017 03:52:32 p.m.;0,65848;0,4046973;REC
+09/06/2017 03:52:33 p.m.;-0,2362651;0,3975523;REC
+09/06/2017 03:52:39 p.m.;-0,245305;1,425966;REC
+09/06/2017 03:52:39 p.m.;-0,05916356;2,456484;REC
+09/06/2017 03:52:40 p.m.;-0,2877324;3,972523;REC
+09/06/2017 03:52:40 p.m.;-0,2662918;5,006415;REC
+09/06/2017 03:52:41 p.m.;-0,2450625;6,037844;REC
+09/06/2017 03:52:41 p.m.;-0,1743209;7,056562;REC
+09/06/2017 03:52:42 p.m.;0,07418954;8,089915;REC
+09/06/2017 03:52:42 p.m.;0,3809101;9,127819;REC
+09/06/2017 03:52:43 p.m.;0,6879513;10,16675;REC
+09/06/2017 03:52:44 p.m.;0,9948593;11,20555;REC
+09/06/2017 03:52:44 p.m.;1,301705;12,24393;REC
+09/06/2017 03:52:45 p.m.;1,608369;13,28128;REC
+09/06/2017 03:52:45 p.m.;1,915245;14,31977;REC
+09/06/2017 03:52:46 p.m.;2,222256;15,35909;REC
+09/06/2017 03:52:46 p.m.;2,5446;16,39331;REC
+09/06/2017 03:52:47 p.m.;3,033068;17,42408;REC
+09/06/2017 03:52:47 p.m.;3,608545;18,45267;REC
+H{ "id":"39", "visible":"false" }
+09/06/2017 03:52:49 p.m.;4,720469;20,51938;RET
+09/06/2017 03:52:53 p.m.;4,408391;20,0155;RET
+09/06/2017 03:52:54 p.m.;4,189165;19,00794;RET
+09/06/2017 03:52:54 p.m.;4,222994;17,47418;RET
+09/06/2017 03:52:55 p.m.;4,034684;15,94752;RET
+09/06/2017 03:52:56 p.m.;3,827779;14,92428;RET
+09/06/2017 03:52:56 p.m.;3,621106;13,90274;RET
+09/06/2017 03:52:57 p.m.;3,414291;12,8807;RET
+09/06/2017 03:52:57 p.m.;3,207567;11,85799;RET
+09/06/2017 03:52:58 p.m.;3,000527;10,83481;RET
+09/06/2017 03:52:58 p.m.;2,793527;9,811799;RET
+09/06/2017 03:52:59 p.m.;2,58684;8,790446;RET
+09/06/2017 03:52:59 p.m.;2,379648;7,766804;RET
+09/06/2017 03:53:00 p.m.;2,172521;6,742351;RET
+09/06/2017 03:53:00 p.m.;1,965564;5,719872;RET
+09/06/2017 03:53:01 p.m.;1,759298;4,69692;RET
+09/06/2017 03:53:01 p.m.;1,299064;3,663311;RET
+09/06/2017 03:53:02 p.m.;0,7410533;2,634679;RET
+09/06/2017 03:53:03 p.m.;0,3204835;1,62984;RET
+09/06/2017 03:53:03 p.m.;0,2612894;0,1208146;RET
+Inicio test memoria;09/06/2017 03:53:03 p.m.
+09/06/2017 03:53:04 p.m.;-0,2090218;-0,9095981;EVA
+Q{ "text":"Coloca la bandera" }
+hide_question
+Q{ "text":"Pulsa Y en la posicion" }
+O{ "x":"0", "y":"0", "radius":"20" }
+09/06/2017 03:53:09 p.m.;-0,7111236;-1,411025;PR3
+09/06/2017 03:53:13 p.m.;-0,4279293;-0,3814139;PR3
+09/06/2017 03:53:13 p.m.;-0,587463;0,6467358;PR3
+09/06/2017 03:53:14 p.m.;-0,7637699;1,672758;PR3
+09/06/2017 03:53:15 p.m.;-0,9555089;2,696379;PR3
+09/06/2017 03:53:15 p.m.;-1,549415;3,706571;PR3
+09/06/2017 03:53:16 p.m.;-2,191481;4,71104;PR3
+09/06/2017 03:53:16 p.m.;-2,18958;5,739666;PR3
+09/06/2017 03:53:17 p.m.;-2,000811;6,774401;PR3
+09/06/2017 03:53:17 p.m.;-1,631513;7,791786;PR3
+09/06/2017 03:53:18 p.m.;-1,354293;8,802368;PR3
+09/06/2017 03:53:18 p.m.;-1,527023;9,827523;PR3
+09/06/2017 03:53:19 p.m.;-1,592535;10,84756;PR3
+09/06/2017 03:53:19 p.m.;-1,468126;11,8694;PR3
+09/06/2017 03:53:20 p.m.;-1,013786;13,38221;PR3
+09/06/2017 03:53:21 p.m.;-0,6848609;14,91986;PR3
+09/06/2017 03:53:21 p.m.;-0,4939259;15,95444;PR3
+09/06/2017 03:53:22 p.m.;-0,3181847;16,9878;PR3
+09/06/2017 03:53:22 p.m.;-0,173791;18,01683;PR3
+09/06/2017 03:53:23 p.m.;-0,03912834;19,0388;PR3
+09/06/2017 03:53:24 p.m.;-0,1765988;20,04981;PR3
+09/06/2017 03:53:27 p.m.;-0,1765988;20,04981;PR3
+A{ "id":"181", "color":"amarillo", "x":"-0.1765988", "y":"20.04981", "visible":"true" }
+hide_question
+Q{ "text":"Confirma la posicion: Y(si) o X(no)" }
+09/06/2017 03:53:30 p.m.;-0,1053386;19,54787;CON
+09/06/2017 03:53:31 p.m.;0,04169574;18,51824;CON
+09/06/2017 03:53:31 p.m.;0,1887648;17,48827;CON
+09/06/2017 03:53:32 p.m.;0,3358289;16,45826;CON
+09/06/2017 03:53:33 p.m.;0,3358289;16,45826;CON
+H{ "id":"181", "visible":"false" }
+N{ "x":"0", "y":"0", "radius":"20" }
+Hora Fin Seleccion;09/06/2017 03:53:33 p.m.
+Bandera Seleccionada [id];181
+Bandera Seleccionada [X];-0,1765988
+Bandera Seleccionada [Y];20,04981
+09/06/2017 03:53:33 p.m.;0,3358289;16,45826;PR3
+hide_question
+C{ "id":"0", "color":"rojo" }
+C{ "id":"1", "color":"rojo" }
+C{ "id":"2", "color":"rojo" }
+C{ "id":"3", "color":"rojo" }
+C{ "id":"4", "color":"rojo" }
+C{ "id":"5", "color":"rojo" }
+C{ "id":"6", "color":"rojo" }
+C{ "id":"7", "color":"rojo" }
+C{ "id":"8", "color":"rojo" }
+C{ "id":"9", "color":"rojo" }
+C{ "id":"10", "color":"rojo" }
+C{ "id":"11", "color":"rojo" }
+C{ "id":"12", "color":"rojo" }
+C{ "id":"13", "color":"rojo" }
+C{ "id":"14", "color":"rojo" }
+C{ "id":"15", "color":"rojo" }
+C{ "id":"16", "color":"rojo" }
+C{ "id":"17", "color":"rojo" }
+C{ "id":"18", "color":"rojo" }
+C{ "id":"19", "color":"rojo" }
+C{ "id":"20", "color":"rojo" }
+C{ "id":"21", "color":"rojo" }
+C{ "id":"22", "color":"rojo" }
+C{ "id":"23", "color":"rojo" }
+C{ "id":"24", "color":"rojo" }
+C{ "id":"25", "color":"rojo" }
+C{ "id":"26", "color":"rojo" }
+C{ "id":"27", "color":"rojo" }
+C{ "id":"28", "color":"rojo" }
+C{ "id":"29", "color":"rojo" }
+C{ "id":"30", "color":"rojo" }
+C{ "id":"31", "color":"rojo" }
+C{ "id":"32", "color":"rojo" }
+C{ "id":"33", "color":"rojo" }
+C{ "id":"34", "color":"rojo" }
+C{ "id":"35", "color":"rojo" }
+C{ "id":"36", "color":"rojo" }
+C{ "id":"37", "color":"rojo" }
+C{ "id":"38", "color":"rojo" }
+C{ "id":"39", "color":"rojo" }
+C{ "id":"40", "color":"rojo" }
+C{ "id":"41", "color":"rojo" }
+C{ "id":"42", "color":"rojo" }
+C{ "id":"43", "color":"rojo" }
+C{ "id":"44", "color":"rojo" }
+C{ "id":"45", "color":"rojo" }
+C{ "id":"46", "color":"rojo" }
+C{ "id":"47", "color":"rojo" }
+C{ "id":"48", "color":"rojo" }
+C{ "id":"49", "color":"rojo" }
+C{ "id":"50", "color":"rojo" }
+C{ "id":"51", "color":"rojo" }
+C{ "id":"52", "color":"rojo" }
+C{ "id":"53", "color":"rojo" }
+C{ "id":"54", "color":"rojo" }
+C{ "id":"55", "color":"rojo" }
+C{ "id":"56", "color":"rojo" }
+C{ "id":"57", "color":"rojo" }
+C{ "id":"58", "color":"rojo" }
+C{ "id":"59", "color":"rojo" }
+C{ "id":"60", "color":"rojo" }
+C{ "id":"61", "color":"rojo" }
+C{ "id":"62", "color":"rojo" }
+C{ "id":"63", "color":"rojo" }
+C{ "id":"64", "color":"rojo" }
+C{ "id":"65", "color":"rojo" }
+C{ "id":"66", "color":"rojo" }
+C{ "id":"67", "color":"rojo" }
+C{ "id":"68", "color":"rojo" }
+C{ "id":"69", "color":"rojo" }
+C{ "id":"70", "color":"rojo" }
+C{ "id":"71", "color":"rojo" }
+C{ "id":"72", "color":"rojo" }
+C{ "id":"73", "color":"rojo" }
+C{ "id":"74", "color":"rojo" }
+C{ "id":"75", "color":"rojo" }
+C{ "id":"76", "color":"rojo" }
+C{ "id":"77", "color":"rojo" }
+C{ "id":"78", "color":"rojo" }
+C{ "id":"79", "color":"rojo" }
+C{ "id":"80", "color":"rojo" }
+C{ "id":"81", "color":"rojo" }
+C{ "id":"82", "color":"rojo" }
+C{ "id":"83", "color":"rojo" }
+C{ "id":"84", "color":"rojo" }
+C{ "id":"85", "color":"rojo" }
+C{ "id":"86", "color":"rojo" }
+C{ "id":"87", "color":"rojo" }
+C{ "id":"88", "color":"rojo" }
+C{ "id":"89", "color":"rojo" }
+C{ "id":"90", "color":"rojo" }
+C{ "id":"91", "color":"rojo" }
+C{ "id":"92", "color":"rojo" }
+C{ "id":"93", "color":"rojo" }
+C{ "id":"94", "color":"rojo" }
+C{ "id":"95", "color":"rojo" }
+C{ "id":"96", "color":"rojo" }
+C{ "id":"97", "color":"rojo" }
+C{ "id":"98", "color":"rojo" }
+C{ "id":"99", "color":"rojo" }
+C{ "id":"100", "color":"rojo" }
+C{ "id":"101", "color":"rojo" }
+C{ "id":"102", "color":"rojo" }
+C{ "id":"103", "color":"rojo" }
+C{ "id":"104", "color":"rojo" }
+C{ "id":"105", "color":"rojo" }
+C{ "id":"106", "color":"rojo" }
+C{ "id":"107", "color":"rojo" }
+C{ "id":"108", "color":"rojo" }
+C{ "id":"109", "color":"rojo" }
+C{ "id":"110", "color":"rojo" }
+C{ "id":"111", "color":"rojo" }
+C{ "id":"112", "color":"rojo" }
+C{ "id":"113", "color":"rojo" }
+C{ "id":"114", "color":"rojo" }
+C{ "id":"115", "color":"rojo" }
+C{ "id":"116", "color":"rojo" }
+C{ "id":"117", "color":"rojo" }
+C{ "id":"118", "color":"rojo" }
+C{ "id":"119", "color":"rojo" }
+C{ "id":"120", "color":"rojo" }
+C{ "id":"121", "color":"rojo" }
+C{ "id":"122", "color":"rojo" }
+C{ "id":"123", "color":"rojo" }
+C{ "id":"124", "color":"rojo" }
+C{ "id":"125", "color":"rojo" }
+C{ "id":"126", "color":"rojo" }
+C{ "id":"127", "color":"rojo" }
+C{ "id":"128", "color":"rojo" }
+C{ "id":"129", "color":"rojo" }
+C{ "id":"130", "color":"rojo" }
+C{ "id":"131", "color":"rojo" }
+C{ "id":"132", "color":"rojo" }
+C{ "id":"133", "color":"rojo" }
+C{ "id":"134", "color":"rojo" }
+C{ "id":"135", "color":"rojo" }
+C{ "id":"136", "color":"rojo" }
+C{ "id":"137", "color":"rojo" }
+C{ "id":"138", "color":"rojo" }
+C{ "id":"139", "color":"rojo" }
+C{ "id":"140", "color":"rojo" }
+C{ "id":"141", "color":"rojo" }
+C{ "id":"142", "color":"rojo" }
+C{ "id":"143", "color":"rojo" }
+C{ "id":"144", "color":"rojo" }
+C{ "id":"145", "color":"rojo" }
+C{ "id":"146", "color":"rojo" }
+C{ "id":"147", "color":"rojo" }
+C{ "id":"148", "color":"rojo" }
+C{ "id":"149", "color":"rojo" }
+C{ "id":"150", "color":"rojo" }
+C{ "id":"151", "color":"rojo" }
+C{ "id":"152", "color":"rojo" }
+C{ "id":"153", "color":"rojo" }
+C{ "id":"154", "color":"rojo" }
+C{ "id":"155", "color":"rojo" }
+C{ "id":"156", "color":"rojo" }
+C{ "id":"157", "color":"rojo" }
+C{ "id":"158", "color":"rojo" }
+C{ "id":"159", "color":"rojo" }
+C{ "id":"160", "color":"rojo" }
+C{ "id":"161", "color":"rojo" }
+C{ "id":"162", "color":"rojo" }
+C{ "id":"163", "color":"rojo" }
+C{ "id":"164", "color":"rojo" }
+C{ "id":"165", "color":"rojo" }
+C{ "id":"166", "color":"rojo" }
+C{ "id":"167", "color":"rojo" }
+C{ "id":"168", "color":"rojo" }
+C{ "id":"169", "color":"rojo" }
+C{ "id":"170", "color":"rojo" }
+C{ "id":"171", "color":"rojo" }
+C{ "id":"172", "color":"rojo" }
+C{ "id":"173", "color":"rojo" }
+C{ "id":"174", "color":"rojo" }
+C{ "id":"175", "color":"rojo" }
+C{ "id":"176", "color":"rojo" }
+C{ "id":"177", "color":"rojo" }
+C{ "id":"178", "color":"rojo" }
+C{ "id":"179", "color":"rojo" }
+L{ "id":"3" }
+NroIteracion;3
+Angulo;40
+A Seleccionar;I
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;144
+IzquierdaX;6,18034
+IzquierdaY;-19,02113
+IdDerecha;164
+DerechaX;16,96096
+DerechaY;-10,59838
+
+09/06/2017 03:53:36 p.m.;0,6321275;14,41405;DET
+IdCorrecta;144
+CorrectaX;6,18034
+CorrectaY;-19,02113
+
+Q{ "text":"Trial 4 " }
+hide_question
+H{ "id":"144", "visible":"true" }
+09/06/2017 03:53:38 p.m.;0,7789992;13,38547;NULL;NULL;NULL;REC
+09/06/2017 03:53:38 p.m.;0,7789992;13,38547;REC
+09/06/2017 03:53:39 p.m.;1,511299;8,255107;REC
+09/06/2017 03:53:39 p.m.;1,658351;7,224309;REC
+09/06/2017 03:53:40 p.m.;1,805496;6,193471;REC
+09/06/2017 03:53:43 p.m.;1,920541;5,691512;REC
+09/06/2017 03:53:44 p.m.;1,929751;4,145278;REC
+09/06/2017 03:53:45 p.m.;1,673907;2,585495;REC
+09/06/2017 03:53:45 p.m.;1,302804;1,5582;REC
+09/06/2017 03:53:46 p.m.;0,3259659;0,5500495;REC
+09/06/2017 03:53:46 p.m.;-0,4585825;-0,4696851;REC
+09/06/2017 03:53:47 p.m.;-1,032999;-1,487698;REC
+09/06/2017 03:53:48 p.m.;-0,5256172;-1,07824;REC
+09/06/2017 03:53:49 p.m.;0,4696369;-0,07803863;REC
+09/06/2017 03:53:50 p.m.;1,444788;0,9393485;REC
+09/06/2017 03:53:57 p.m.;1,437072;0,9311;REC
+09/06/2017 03:53:58 p.m.;0,4225045;0,4029007;REC
+09/06/2017 03:54:05 p.m.;-0,322497;-0,3626215;REC
+09/06/2017 03:54:05 p.m.;0,05900813;-1,375164;REC
+09/06/2017 03:54:06 p.m.;0,44163;-2,389701;REC
+09/06/2017 03:54:06 p.m.;0,8239911;-3,402425;REC
+09/06/2017 03:54:07 p.m.;1,206561;-4,415951;REC
+09/06/2017 03:54:07 p.m.;1,588363;-5,426724;REC
+09/06/2017 03:54:08 p.m.;1,970405;-6,438312;REC
+09/06/2017 03:54:09 p.m.;2,352175;-7,451299;REC
+09/06/2017 03:54:09 p.m.;2,733692;-8,465151;REC
+09/06/2017 03:54:10 p.m.;3,115511;-9,479649;REC
+09/06/2017 03:54:10 p.m.;3,498069;-10,49709;REC
+09/06/2017 03:54:11 p.m.;3,878814;-11,50275;REC
+09/06/2017 03:54:11 p.m.;4,26076;-12,51579;REC
+09/06/2017 03:54:12 p.m.;4,642309;-13,52829;REC
+09/06/2017 03:54:12 p.m.;5,004547;-14,5503;REC
+09/06/2017 03:54:13 p.m.;5,352951;-15,58192;REC
+09/06/2017 03:54:14 p.m.;5,700293;-16,60314;REC
+09/06/2017 03:54:14 p.m.;6,047909;-17,62717;REC
+H{ "id":"144", "visible":"false" }
+09/06/2017 03:54:15 p.m.;6,741852;-19,67573;RET
+09/06/2017 03:54:24 p.m.;6,581619;-19,16924;RET
+09/06/2017 03:54:25 p.m.;6,237247;-18,14107;RET
+09/06/2017 03:54:25 p.m.;5,851534;-17,12574;RET
+09/06/2017 03:54:26 p.m.;5,465761;-16,10709;RET
+09/06/2017 03:54:26 p.m.;4,913809;-15,08937;RET
+09/06/2017 03:54:27 p.m.;4,277745;-14,06683;RET
+09/06/2017 03:54:28 p.m.;3,64103;-13,04361;RET
+09/06/2017 03:54:28 p.m.;3,070419;-12,01773;RET
+09/06/2017 03:54:29 p.m.;2,722341;-10,98935;RET
+09/06/2017 03:54:29 p.m.;2,39231;-9,960629;RET
+09/06/2017 03:54:30 p.m.;2,060453;-8,92886;RET
+09/06/2017 03:54:30 p.m.;1,729236;-7,900415;RET
+09/06/2017 03:54:31 p.m.;1,397151;-6,867398;RET
+09/06/2017 03:54:32 p.m.;1,06528;-5,83426;RET
+09/06/2017 03:54:32 p.m.;0,7352917;-4,804289;RET
+09/06/2017 03:54:33 p.m.;0,4041693;-3,771554;RET
+09/06/2017 03:54:33 p.m.;0,1114002;-2,749755;RET
+09/06/2017 03:54:34 p.m.;-0,05372905;-1,710874;RET
+09/06/2017 03:54:34 p.m.;-0,06889135;-0,6856;RET
+Hora Centro;09/06/2017 03:54:34 p.m.
+H{ "id":"164", "visible":"true" }
+X{ "value":"rojo" }
+X{ "value":"negro" }
+09/06/2017 03:54:35 p.m.;-0,06889135;-0,6856;REC
+09/06/2017 03:54:41 p.m.;-0,2265927;0,8219692;REC
+09/06/2017 03:54:45 p.m.;0,2825685;-0,3326181;REC
+09/06/2017 03:54:46 p.m.;1,303356;-0,6155981;REC
+09/06/2017 03:54:46 p.m.;2,326453;-1,147972;REC
+09/06/2017 03:54:47 p.m.;3,34967;-1,680408;REC
+09/06/2017 03:54:48 p.m.;4,372887;-2,212844;REC
+09/06/2017 03:54:48 p.m.;5,39251;-2,743447;REC
+09/06/2017 03:54:49 p.m.;6,415659;-3,275255;REC
+09/06/2017 03:54:49 p.m.;7,429641;-3,813575;REC
+09/06/2017 03:54:50 p.m.;8,448942;-4,417404;REC
+09/06/2017 03:54:51 p.m.;9,466743;-5,019618;REC
+09/06/2017 03:54:51 p.m.;10,47832;-5,626842;REC
+09/06/2017 03:54:52 p.m.;11,48268;-6,446777;REC
+09/06/2017 03:54:52 p.m.;12,48771;-7,268178;REC
+09/06/2017 03:54:53 p.m.;13,4929;-8,094096;REC
+09/06/2017 03:54:54 p.m.;14,49766;-8,923456;REC
+09/06/2017 03:54:54 p.m.;15,51004;-9,609799;REC
+H{ "id":"164", "visible":"false" }
+09/06/2017 03:54:56 p.m.;17,5382;-10,96962;RET
+09/06/2017 03:55:04 p.m.;17,02908;-10,47812;RET
+09/06/2017 03:55:05 p.m.;16,01319;-9,734602;RET
+09/06/2017 03:55:05 p.m.;14,98256;-9,12988;RET
+09/06/2017 03:55:06 p.m.;13,94804;-8,592091;RET
+09/06/2017 03:55:06 p.m.;12,91367;-8,052328;RET
+09/06/2017 03:55:07 p.m.;11,87783;-7,509501;RET
+09/06/2017 03:55:08 p.m.;10,84479;-6,966848;RET
+09/06/2017 03:55:08 p.m.;9,809075;-6,420277;RET
+09/06/2017 03:55:09 p.m.;8,773978;-5,873394;RET
+09/06/2017 03:55:09 p.m.;7,757004;-5,210203;RET
+09/06/2017 03:55:10 p.m.;6,747459;-4,448575;RET
+09/06/2017 03:55:11 p.m.;5,737413;-3,687619;RET
+09/06/2017 03:55:11 p.m.;4,728616;-2,927986;RET
+09/06/2017 03:55:12 p.m.;3,721042;-2,198317;RET
+09/06/2017 03:55:13 p.m.;2,710084;-1,692741;RET
+09/06/2017 03:55:13 p.m.;1,682809;-1,014536;RET
+09/06/2017 03:55:14 p.m.;0,666913;-0,1931315;RET
+Inicio test memoria;09/06/2017 03:55:14 p.m.
+09/06/2017 03:55:15 p.m.;-0,3444715;0,3763412;EVA
+Q{ "text":"Escucha la consigna" }
+hide_question
+Q{ "text":"X(izq) Y(Sel) B(der)" }
+HS[ { "id":"0", "visible":"true" }, { "id":"1", "visible":"true" }, { "id":"2", "visible":"true" }, { "id":"3", "visible":"true" }, { "id":"4", "visible":"true" }, { "id":"5", "visible":"true" }, { "id":"6", "visible":"true" }, { "id":"7", "visible":"true" }, { "id":"8", "visible":"true" }, { "id":"9", "visible":"true" }, { "id":"10", "visible":"true" }, { "id":"11", "visible":"true" }, { "id":"12", "visible":"true" }, { "id":"13", "visible":"true" }, { "id":"14", "visible":"true" }, { "id":"15", "visible":"true" }, { "id":"16", "visible":"true" }, { "id":"17", "visible":"true" }, { "id":"18", "visible":"true" }, { "id":"19", "visible":"true" }, { "id":"20", "visible":"true" }, { "id":"21", "visible":"true" }, { "id":"22", "visible":"true" }, { "id":"23", "visible":"true" }, { "id":"24", "visible":"true" }, { "id":"25", "visible":"true" }, { "id":"26", "visible":"true" }, { "id":"27", "visible":"true" }, { "id":"28", "visible":"true" }, { "id":"29", "visible":"true" }, { "id":"30", "visible":"true" }, { "id":"31", "visible":"true" }, { "id":"32", "visible":"true" }, { "id":"33", "visible":"true" }, { "id":"34", "visible":"true" }, { "id":"35", "visible":"true" }, { "id":"36", "visible":"true" }, { "id":"37", "visible":"true" }, { "id":"38", "visible":"true" }, { "id":"39", "visible":"true" }, { "id":"40", "visible":"true" }, { "id":"41", "visible":"true" }, { "id":"42", "visible":"true" }, { "id":"43", "visible":"true" }, { "id":"44", "visible":"true" }, { "id":"45", "visible":"true" }, { "id":"46", "visible":"true" }, { "id":"47", "visible":"true" }, { "id":"48", "visible":"true" }, { "id":"49", "visible":"true" }, { "id":"50", "visible":"true" }, { "id":"51", "visible":"true" }, { "id":"52", "visible":"true" }, { "id":"53", "visible":"true" }, { "id":"54", "visible":"true" }, { "id":"55", "visible":"true" }, { "id":"56", "visible":"true" }, { "id":"57", "visible":"true" }, { "id":"58", "visible":"true" }, { "id":"59", "visible":"true" }, { "id":"60", "visible":"true" }, { "id":"61", "visible":"true" }, { "id":"62", "visible":"true" }, { "id":"63", "visible":"true" }, { "id":"64", "visible":"true" }, { "id":"65", "visible":"true" }, { "id":"66", "visible":"true" }, { "id":"67", "visible":"true" }, { "id":"68", "visible":"true" }, { "id":"69", "visible":"true" }, { "id":"70", "visible":"true" }, { "id":"71", "visible":"true" }, { "id":"72", "visible":"true" }, { "id":"73", "visible":"true" }, { "id":"74", "visible":"true" }, { "id":"75", "visible":"true" }, { "id":"76", "visible":"true" }, { "id":"77", "visible":"true" }, { "id":"78", "visible":"true" }, { "id":"79", "visible":"true" }, { "id":"80", "visible":"true" }, { "id":"81", "visible":"true" }, { "id":"82", "visible":"true" }, { "id":"83", "visible":"true" }, { "id":"84", "visible":"true" }, { "id":"85", "visible":"true" }, { "id":"86", "visible":"true" }, { "id":"87", "visible":"true" }, { "id":"88", "visible":"true" }, { "id":"89", "visible":"true" }, { "id":"90", "visible":"true" }, { "id":"91", "visible":"true" }, { "id":"92", "visible":"true" }, { "id":"93", "visible":"true" }, { "id":"94", "visible":"true" }, { "id":"95", "visible":"true" }, { "id":"96", "visible":"true" }, { "id":"97", "visible":"true" }, { "id":"98", "visible":"true" }, { "id":"99", "visible":"true" }, { "id":"100", "visible":"true" }, { "id":"101", "visible":"true" }, { "id":"102", "visible":"true" }, { "id":"103", "visible":"true" }, { "id":"104", "visible":"true" }, { "id":"105", "visible":"true" }, { "id":"106", "visible":"true" }, { "id":"107", "visible":"true" }, { "id":"108", "visible":"true" }, { "id":"109", "visible":"true" }, { "id":"110", "visible":"true" }, { "id":"111", "visible":"true" }, { "id":"112", "visible":"true" }, { "id":"113", "visible":"true" }, { "id":"114", "visible":"true" }, { "id":"115", "visible":"true" }, { "id":"116", "visible":"true" }, { "id":"117", "visible":"true" }, { "id":"118", "visible":"true" }, { "id":"119", "visible":"true" }, { "id":"120", "visible":"true" }, { "id":"121", "visible":"true" }, { "id":"122", "visible":"true" }, { "id":"123", "visible":"true" }, { "id":"124", "visible":"true" }, { "id":"125", "visible":"true" }, { "id":"126", "visible":"true" }, { "id":"127", "visible":"true" }, { "id":"128", "visible":"true" }, { "id":"129", "visible":"true" }, { "id":"130", "visible":"true" }, { "id":"131", "visible":"true" }, { "id":"132", "visible":"true" }, { "id":"133", "visible":"true" }, { "id":"134", "visible":"true" }, { "id":"135", "visible":"true" }, { "id":"136", "visible":"true" }, { "id":"137", "visible":"true" }, { "id":"138", "visible":"true" }, { "id":"139", "visible":"true" }, { "id":"140", "visible":"true" }, { "id":"141", "visible":"true" }, { "id":"142", "visible":"true" }, { "id":"143", "visible":"true" }, { "id":"144", "visible":"true" }, { "id":"145", "visible":"true" }, { "id":"146", "visible":"true" }, { "id":"147", "visible":"true" }, { "id":"148", "visible":"true" }, { "id":"149", "visible":"true" }, { "id":"150", "visible":"true" }, { "id":"151", "visible":"true" }, { "id":"152", "visible":"true" }, { "id":"153", "visible":"true" }, { "id":"154", "visible":"true" }, { "id":"155", "visible":"true" }, { "id":"156", "visible":"true" }, { "id":"157", "visible":"true" }, { "id":"158", "visible":"true" }, { "id":"159", "visible":"true" }, { "id":"160", "visible":"true" }, { "id":"161", "visible":"true" }, { "id":"162", "visible":"true" }, { "id":"163", "visible":"true" }, { "id":"164", "visible":"true" }, { "id":"165", "visible":"true" }, { "id":"166", "visible":"true" }, { "id":"167", "visible":"true" }, { "id":"168", "visible":"true" }, { "id":"169", "visible":"true" }, { "id":"170", "visible":"true" }, { "id":"171", "visible":"true" }, { "id":"172", "visible":"true" }, { "id":"173", "visible":"true" }, { "id":"174", "visible":"true" }, { "id":"175", "visible":"true" }, { "id":"176", "visible":"true" }, { "id":"177", "visible":"true" }, { "id":"178", "visible":"true" }, { "id":"179", "visible":"true" } ]
+C{ "id":"0", "color":"azul" }
+09/06/2017 03:55:58 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"0", "color":"rojo" }
+C{ "id":"179", "color":"azul" }
+09/06/2017 03:55:58 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"179", "color":"rojo" }
+C{ "id":"178", "color":"azul" }
+09/06/2017 03:55:59 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"178", "color":"rojo" }
+C{ "id":"177", "color":"azul" }
+09/06/2017 03:55:59 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"177", "color":"rojo" }
+C{ "id":"176", "color":"azul" }
+09/06/2017 03:55:59 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"176", "color":"rojo" }
+C{ "id":"175", "color":"azul" }
+09/06/2017 03:55:59 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"175", "color":"rojo" }
+C{ "id":"174", "color":"azul" }
+09/06/2017 03:55:59 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"174", "color":"rojo" }
+C{ "id":"173", "color":"azul" }
+09/06/2017 03:56:00 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"173", "color":"rojo" }
+C{ "id":"172", "color":"azul" }
+09/06/2017 03:56:00 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"172", "color":"rojo" }
+C{ "id":"171", "color":"azul" }
+09/06/2017 03:56:00 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"171", "color":"rojo" }
+C{ "id":"170", "color":"azul" }
+09/06/2017 03:56:00 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"170", "color":"rojo" }
+C{ "id":"169", "color":"azul" }
+09/06/2017 03:56:00 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"169", "color":"rojo" }
+C{ "id":"168", "color":"azul" }
+09/06/2017 03:56:01 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"168", "color":"rojo" }
+C{ "id":"167", "color":"azul" }
+09/06/2017 03:56:01 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"167", "color":"rojo" }
+C{ "id":"166", "color":"azul" }
+09/06/2017 03:56:01 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"166", "color":"rojo" }
+C{ "id":"165", "color":"azul" }
+09/06/2017 03:56:01 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"165", "color":"rojo" }
+C{ "id":"164", "color":"azul" }
+09/06/2017 03:56:02 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"164", "color":"rojo" }
+C{ "id":"163", "color":"azul" }
+09/06/2017 03:56:02 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"163", "color":"rojo" }
+C{ "id":"162", "color":"azul" }
+09/06/2017 03:56:02 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"162", "color":"rojo" }
+C{ "id":"161", "color":"azul" }
+09/06/2017 03:56:02 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"161", "color":"rojo" }
+C{ "id":"160", "color":"azul" }
+09/06/2017 03:56:03 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"160", "color":"rojo" }
+C{ "id":"159", "color":"azul" }
+09/06/2017 03:56:03 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"159", "color":"rojo" }
+C{ "id":"158", "color":"azul" }
+09/06/2017 03:56:03 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"158", "color":"rojo" }
+C{ "id":"157", "color":"azul" }
+09/06/2017 03:56:03 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"157", "color":"rojo" }
+C{ "id":"156", "color":"azul" }
+09/06/2017 03:56:04 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"156", "color":"rojo" }
+C{ "id":"155", "color":"azul" }
+09/06/2017 03:56:04 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"155", "color":"rojo" }
+C{ "id":"154", "color":"azul" }
+09/06/2017 03:56:04 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"154", "color":"rojo" }
+C{ "id":"153", "color":"azul" }
+09/06/2017 03:56:04 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"153", "color":"rojo" }
+C{ "id":"152", "color":"azul" }
+09/06/2017 03:56:05 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"152", "color":"rojo" }
+C{ "id":"151", "color":"azul" }
+09/06/2017 03:56:05 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"151", "color":"rojo" }
+C{ "id":"150", "color":"azul" }
+09/06/2017 03:56:05 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"150", "color":"rojo" }
+C{ "id":"149", "color":"azul" }
+09/06/2017 03:56:05 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"149", "color":"rojo" }
+C{ "id":"148", "color":"azul" }
+09/06/2017 03:56:06 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"148", "color":"rojo" }
+C{ "id":"147", "color":"azul" }
+09/06/2017 03:56:06 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"147", "color":"rojo" }
+C{ "id":"146", "color":"azul" }
+09/06/2017 03:56:06 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"146", "color":"rojo" }
+C{ "id":"145", "color":"azul" }
+09/06/2017 03:56:06 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"145", "color":"rojo" }
+C{ "id":"144", "color":"azul" }
+09/06/2017 03:56:07 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"144", "color":"rojo" }
+C{ "id":"143", "color":"azul" }
+09/06/2017 03:56:07 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"143", "color":"rojo" }
+C{ "id":"142", "color":"azul" }
+09/06/2017 03:56:07 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"142", "color":"rojo" }
+C{ "id":"141", "color":"azul" }
+09/06/2017 03:56:08 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"141", "color":"rojo" }
+C{ "id":"140", "color":"azul" }
+09/06/2017 03:56:08 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"140", "color":"rojo" }
+C{ "id":"139", "color":"azul" }
+09/06/2017 03:56:08 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"139", "color":"rojo" }
+C{ "id":"138", "color":"azul" }
+09/06/2017 03:56:08 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"138", "color":"rojo" }
+C{ "id":"137", "color":"azul" }
+09/06/2017 03:56:08 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"137", "color":"rojo" }
+C{ "id":"136", "color":"azul" }
+09/06/2017 03:56:09 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"136", "color":"rojo" }
+C{ "id":"135", "color":"azul" }
+09/06/2017 03:56:09 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"135", "color":"rojo" }
+C{ "id":"134", "color":"azul" }
+09/06/2017 03:56:09 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"134", "color":"rojo" }
+C{ "id":"133", "color":"azul" }
+09/06/2017 03:56:09 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"133", "color":"rojo" }
+C{ "id":"132", "color":"azul" }
+09/06/2017 03:56:10 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"132", "color":"rojo" }
+C{ "id":"131", "color":"azul" }
+09/06/2017 03:56:10 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"131", "color":"rojo" }
+C{ "id":"130", "color":"azul" }
+09/06/2017 03:56:10 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"130", "color":"rojo" }
+C{ "id":"129", "color":"azul" }
+09/06/2017 03:56:11 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"129", "color":"rojo" }
+C{ "id":"128", "color":"azul" }
+09/06/2017 03:56:11 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"128", "color":"rojo" }
+C{ "id":"127", "color":"azul" }
+09/06/2017 03:56:11 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"127", "color":"rojo" }
+C{ "id":"126", "color":"azul" }
+09/06/2017 03:56:11 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"126", "color":"rojo" }
+C{ "id":"125", "color":"azul" }
+09/06/2017 03:56:12 p.m.;-6,436682;-19,04128;PR2
+C{ "id":"125", "color":"rojo" }
+C{ "id":"124", "color":"azul" }
+09/06/2017 03:56:22 p.m.;-6,35502;-18,02355;PR2
+C{ "id":"124", "color":"rojo" }
+C{ "id":"125", "color":"azul" }
+09/06/2017 03:56:24 p.m.;-6,35502;-18,02355;PR2
+C{ "id":"125", "color":"rojo" }
+HS[ { "id":"0", "visible":"false" }, { "id":"1", "visible":"false" }, { "id":"2", "visible":"false" }, { "id":"3", "visible":"false" }, { "id":"4", "visible":"false" }, { "id":"5", "visible":"false" }, { "id":"6", "visible":"false" }, { "id":"7", "visible":"false" }, { "id":"8", "visible":"false" }, { "id":"9", "visible":"false" }, { "id":"10", "visible":"false" }, { "id":"11", "visible":"false" }, { "id":"12", "visible":"false" }, { "id":"13", "visible":"false" }, { "id":"14", "visible":"false" }, { "id":"15", "visible":"false" }, { "id":"16", "visible":"false" }, { "id":"17", "visible":"false" }, { "id":"18", "visible":"false" }, { "id":"19", "visible":"false" }, { "id":"20", "visible":"false" }, { "id":"21", "visible":"false" }, { "id":"22", "visible":"false" }, { "id":"23", "visible":"false" }, { "id":"24", "visible":"false" }, { "id":"25", "visible":"false" }, { "id":"26", "visible":"false" }, { "id":"27", "visible":"false" }, { "id":"28", "visible":"false" }, { "id":"29", "visible":"false" }, { "id":"30", "visible":"false" }, { "id":"31", "visible":"false" }, { "id":"32", "visible":"false" }, { "id":"33", "visible":"false" }, { "id":"34", "visible":"false" }, { "id":"35", "visible":"false" }, { "id":"36", "visible":"false" }, { "id":"37", "visible":"false" }, { "id":"38", "visible":"false" }, { "id":"39", "visible":"false" }, { "id":"40", "visible":"false" }, { "id":"41", "visible":"false" }, { "id":"42", "visible":"false" }, { "id":"43", "visible":"false" }, { "id":"44", "visible":"false" }, { "id":"45", "visible":"false" }, { "id":"46", "visible":"false" }, { "id":"47", "visible":"false" }, { "id":"48", "visible":"false" }, { "id":"49", "visible":"false" }, { "id":"50", "visible":"false" }, { "id":"51", "visible":"false" }, { "id":"52", "visible":"false" }, { "id":"53", "visible":"false" }, { "id":"54", "visible":"false" }, { "id":"55", "visible":"false" }, { "id":"56", "visible":"false" }, { "id":"57", "visible":"false" }, { "id":"58", "visible":"false" }, { "id":"59", "visible":"false" }, { "id":"60", "visible":"false" }, { "id":"61", "visible":"false" }, { "id":"62", "visible":"false" }, { "id":"63", "visible":"false" }, { "id":"64", "visible":"false" }, { "id":"65", "visible":"false" }, { "id":"66", "visible":"false" }, { "id":"67", "visible":"false" }, { "id":"68", "visible":"false" }, { "id":"69", "visible":"false" }, { "id":"70", "visible":"false" }, { "id":"71", "visible":"false" }, { "id":"72", "visible":"false" }, { "id":"73", "visible":"false" }, { "id":"74", "visible":"false" }, { "id":"75", "visible":"false" }, { "id":"76", "visible":"false" }, { "id":"77", "visible":"false" }, { "id":"78", "visible":"false" }, { "id":"79", "visible":"false" }, { "id":"80", "visible":"false" }, { "id":"81", "visible":"false" }, { "id":"82", "visible":"false" }, { "id":"83", "visible":"false" }, { "id":"84", "visible":"false" }, { "id":"85", "visible":"false" }, { "id":"86", "visible":"false" }, { "id":"87", "visible":"false" }, { "id":"88", "visible":"false" }, { "id":"89", "visible":"false" }, { "id":"90", "visible":"false" }, { "id":"91", "visible":"false" }, { "id":"92", "visible":"false" }, { "id":"93", "visible":"false" }, { "id":"94", "visible":"false" }, { "id":"95", "visible":"false" }, { "id":"96", "visible":"false" }, { "id":"97", "visible":"false" }, { "id":"98", "visible":"false" }, { "id":"99", "visible":"false" }, { "id":"100", "visible":"false" }, { "id":"101", "visible":"false" }, { "id":"102", "visible":"false" }, { "id":"103", "visible":"false" }, { "id":"104", "visible":"false" }, { "id":"105", "visible":"false" }, { "id":"106", "visible":"false" }, { "id":"107", "visible":"false" }, { "id":"108", "visible":"false" }, { "id":"109", "visible":"false" }, { "id":"110", "visible":"false" }, { "id":"111", "visible":"false" }, { "id":"112", "visible":"false" }, { "id":"113", "visible":"false" }, { "id":"114", "visible":"false" }, { "id":"115", "visible":"false" }, { "id":"116", "visible":"false" }, { "id":"117", "visible":"false" }, { "id":"118", "visible":"false" }, { "id":"119", "visible":"false" }, { "id":"120", "visible":"false" }, { "id":"121", "visible":"false" }, { "id":"122", "visible":"false" }, { "id":"123", "visible":"false" }, { "id":"124", "visible":"false" }, { "id":"125", "visible":"false" }, { "id":"126", "visible":"false" }, { "id":"127", "visible":"false" }, { "id":"128", "visible":"false" }, { "id":"129", "visible":"false" }, { "id":"130", "visible":"false" }, { "id":"131", "visible":"false" }, { "id":"132", "visible":"false" }, { "id":"133", "visible":"false" }, { "id":"134", "visible":"false" }, { "id":"135", "visible":"false" }, { "id":"136", "visible":"false" }, { "id":"137", "visible":"false" }, { "id":"138", "visible":"false" }, { "id":"139", "visible":"false" }, { "id":"140", "visible":"false" }, { "id":"141", "visible":"false" }, { "id":"142", "visible":"false" }, { "id":"143", "visible":"false" }, { "id":"144", "visible":"false" }, { "id":"145", "visible":"false" }, { "id":"146", "visible":"false" }, { "id":"147", "visible":"false" }, { "id":"148", "visible":"false" }, { "id":"149", "visible":"false" }, { "id":"150", "visible":"false" }, { "id":"151", "visible":"false" }, { "id":"152", "visible":"false" }, { "id":"153", "visible":"false" }, { "id":"154", "visible":"false" }, { "id":"155", "visible":"false" }, { "id":"156", "visible":"false" }, { "id":"157", "visible":"false" }, { "id":"158", "visible":"false" }, { "id":"159", "visible":"false" }, { "id":"160", "visible":"false" }, { "id":"161", "visible":"false" }, { "id":"162", "visible":"false" }, { "id":"163", "visible":"false" }, { "id":"164", "visible":"false" }, { "id":"165", "visible":"false" }, { "id":"166", "visible":"false" }, { "id":"167", "visible":"false" }, { "id":"168", "visible":"false" }, { "id":"169", "visible":"false" }, { "id":"170", "visible":"false" }, { "id":"171", "visible":"false" }, { "id":"172", "visible":"fal

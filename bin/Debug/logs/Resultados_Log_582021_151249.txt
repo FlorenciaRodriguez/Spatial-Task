@@ -1,0 +1,20 @@
+Participant Name: prueba
+Radio: 20
+Trial strat time: 5/8/2021 15:13:02
+NoTrial: 0
+Protocolo: 2
+Flag Taget (id): 7
+Flag Taget [X]: 19,85092
+Flag Taget [Y]: 2,437387
+
+IdCorrecta: 7
+CorrectaX: 19,85092
+CorrectaY: 2,437387
+
+Captura Bandera: 7
+Flag catch time: 5/8/2021 15:13:21
+Start test time: 5/8/2021 15:13:32
+Finish test time: 5/8/2021 15:13:39
+Selected flag (id): 358
+Selected flag [X]: 19,98782
+Selected flag [Y]: -0,6979899

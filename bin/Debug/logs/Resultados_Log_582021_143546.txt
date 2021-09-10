@@ -1,0 +1,46 @@
+Trial(T) o PreTraining(P):P
+Nombre Sujeto:prueba
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):amarillo
+Escenario(1-11,null):0
+Sujeto;prueba
+Radio;20
+Hora Inicio;5/8/2021 14:36:07
+NroIteracion;0
+Protocolo;2
+IdBandera;14
+IdBanderaX;19,40591
+IdBanderaY;4,838438
+
+IdCorrecta;14
+CorrectaX;19,40591
+CorrectaY;4,838438
+
+Captura Bandera;14
+Hora;5/8/2021 14:36:19
+Inicio test memoria;5/8/2021 14:36:30
+Hora Fin Seleccion;5/8/2021 14:36:49
+Bandera Seleccionada [id];354
+Bandera Seleccionada [X];19,89044
+Bandera Seleccionada [Y];-2,090569
+CruzX;6
+CruzY;6
+NroIteracion;1
+Protocolo;2
+IdBandera;36
+IdBanderaX;16,18034
+IdBanderaY;11,7557
+
+IdCorrecta;36
+CorrectaX;16,18034
+CorrectaY;11,7557
+
+Captura Bandera;36
+Hora;5/8/2021 14:37:09
+Inicio test memoria;5/8/2021 14:37:16
+Hora Fin Seleccion;5/8/2021 14:37:21
+Bandera Seleccionada [id];0
+Bandera Seleccionada [X];20
+Bandera Seleccionada [Y];0

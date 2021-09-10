@@ -1,0 +1,39 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:agustin
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,rojo,rojo,rojo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:20,1
+Test Memoria (1Si/2No/3Solo Evaluar):2,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;agustin
+Radio;20
+Hora Inicio;05/11/2019 12:27:02 p.m.
+NroIteracion;0
+Angulo;20
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;263
+IzquierdaX;-2,437387
+IzquierdaY;-19,85092
+IdDerecha;283
+DerechaX;4,499021
+DerechaY;-19,4874
+
+IdCorrecta;283
+CorrectaX;4,499021
+CorrectaY;-19,4874
+
+Captura Bandera;263
+Hora;05/11/2019 12:27:27 p.m.
+Hora Centro;05/11/2019 12:27:40 p.m.
+Captura Bandera;283
+Hora;05/11/2019 12:27:59 p.m.

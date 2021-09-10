@@ -1,0 +1,64 @@
+IP(192.168.31.101):192.168.31.101
+Trial(T) o PreTraining(P):T
+Nombre Sujeto:agustin
+Radio:20
+Cantidad de Banderas:360
+Separacion:1
+Color Bandera (rojo/amarillo/verde):rojo,rojo,rojo,rojo,rojo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo,amarillo
+Escenario(1-11,null):0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nro Protocolo:2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angulos:60,20,1
+Test Memoria (1Si/2No/3Solo Evaluar):3,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lateralidad(I/D/M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M
+Pares(S/N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+bandera:-1
+bandera:-1
+Sujeto;agustin
+Radio;20
+Hora Inicio;06/11/2019 02:46:19 p.m.
+NroIteracion;0
+Angulo;60
+A Seleccionar;D
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;262
+IzquierdaX;-2,783462
+IzquierdaY;-19,80536
+IdDerecha;322
+DerechaX;15,76022
+DerechaY;-12,31323
+
+IdCorrecta;322
+CorrectaX;15,76022
+CorrectaY;-12,31323
+
+Hora Fin Seleccion;06/11/2019 02:49:04 p.m.
+Bandera Seleccionada [id];217
+Bandera Seleccionada [X];-15,97271
+Bandera Seleccionada [Y];-12,0363
+NroIteracion;1
+Angulo;20
+A Seleccionar;M
+Protocolo;2
+AparecenDeAPares;N
+IdIzquierda;297
+IzquierdaX;9,07981
+IzquierdaY;-17,82013
+IdDerecha;317
+DerechaX;14,62707
+DerechaY;-13,63997
+
+IdCorrecta;307
+CorrectaX;12,0363
+CorrectaY;-15,97271
+
+Captura Bandera;297
+Hora;06/11/2019 02:49:33 p.m.
+Hora Centro;06/11/2019 02:49:47 p.m.
+Captura Bandera;317
+Hora;06/11/2019 02:50:03 p.m.
+Inicio test memoria;06/11/2019 02:50:17 p.m.
+Hora Fin Seleccion;06/11/2019 02:51:12 p.m.
+Bandera Seleccionada [id];306
+Bandera Seleccionada [X];11,7557
+Bandera Seleccionada [Y];-16,18034
