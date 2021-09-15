@@ -1,5 +1,0 @@
-Start test time: 5/8/2021 15:15:48
-Finish test time: 5/8/2021 15:15:54
-Selected flag (id): 359
-Selected flag [X]: 19,99695
-Selected flag [Y]: -0,3490481

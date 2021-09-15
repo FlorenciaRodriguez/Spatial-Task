@@ -1,11 +1,11 @@
 IP:127.0.0.1
-PreTR/TR:P
+PreTR/TR:T
 Name:Flor
 Ratio:20
 Flags Quantity:360
 Separation:1
 Flag Color:rojo
-Virtual scena id:0
-Angulo:20
-Delay:1
+Virtual Sscena id:1
+Angle:20
+Delay:0
 Protocol:2

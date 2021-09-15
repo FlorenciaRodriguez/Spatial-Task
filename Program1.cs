@@ -25,7 +25,7 @@ namespace FlagCollectorWorkflowHost
             string[] lines = File.ReadAllLines(Directory.GetCurrentDirectory() + "\\input.txt");
             Console.WriteLine("Lineas: "+lines.Length);
             string ip = (lines[0].Split(separador)[1]);
-            //"127.0.0.1";
+            //string ip = "127.0.0.1";
             string preotr = (lines[1].Split(separador)[1]);
             string idSujeto = (lines[2].Split(separador)[1]);
             int radio = int.Parse(lines[3].Split(separador)[1]);
@@ -58,9 +58,10 @@ namespace FlagCollectorWorkflowHost
                 nroProtocolo[i] = int.Parse(nroProtocoloString[i]);
             string angulos_ = "Angulos: "+angulo+", "+angulo;
             string[] angulosString = angulos_.Split(separador)[1].Split(',');
-            int[] angulos = new int[angulosString.Length];
-            for (int i = 0; i < angulosString.Length; i++)
-                angulos[i] = int.Parse(angulosString[i]);
+            int[] angulos = new int[10];
+            for (int i = 0; i < 10; i++)
+                angulos[i] = int.Parse(angulosString[0]);
+            Console.WriteLine(angulos[0]+"-"+ angulos[1]);
            string delay = lines[9].Split(separador)[1];
             for (int i = 0; i < 20; i++)
             {
@@ -68,13 +69,18 @@ namespace FlagCollectorWorkflowHost
             }
             string mem = "Test Memoria(1Si / 2No / 3Solo Evaluar):"+delay;
             string[] testMemoriaString = (mem.Split(separador)[1]).Split(',');
-            int[] testMemoria = new int[testMemoriaString.Length];
-            for (int i = 0; i < testMemoria.Length; i++)
-                testMemoria[i] = int.Parse(testMemoriaString[i]);
+            int[] testMemoria = new int[10];
+            for (int i = 0; i < 10; i++)
+                testMemoria[i] = int.Parse(testMemoriaString[0]+1);
             string lat = "Lateralidad(I / D / M):D,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M,M";
             string[] lateralidad = lat.Split(separador)[1].Split(',');
             string par = "Pares(S / N):N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N";
             string[] pares = par.Split(separador)[1].Split(',');
+            Console.WriteLine(pares[0] + "."+pares[1]);
+            Console.WriteLine(lateralidad[0] + "."+ lateralidad[1]);
+            Console.WriteLine(colorBandera[0] + "." + colorBandera[1]);
+            Console.WriteLine(nroProtocolo[0] + "." + nroProtocolo[1]);
+            Console.WriteLine(testMemoria[0] + "." + testMemoria[1]);
             AcomodarBanderas(radio, cantBanderas, colorBandera[0], separacion);
             int idB1 = -1;
             int idB2 = -1;
@@ -117,7 +123,7 @@ namespace FlagCollectorWorkflowHost
             {
                 FileStream ostrm = new FileStream(pathLog, FileMode.OpenOrCreate, FileAccess.Write);
                 StreamWriter writer = new StreamWriter(ostrm);
-                Console.SetOut(writer);
+               Console.SetOut(writer);
             }
             catch (Exception e)
             {
